@@ -1,0 +1,1625 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "ej9h-v6g2",
+      "name" : "2018 Central Park Squirrel Census - Hectare Data",
+      "assetType" : "dataset",
+      "attribution" : "The Squirrel Census",
+      "attributionLink" : "https://www.thesquirrelcensus.com/",
+      "averageRating" : 0,
+      "category" : "Environment",
+      "createdAt" : 1571157309,
+      "description" : "The Squirrel Census (https://www.thesquirrelcensus.com/) is a multimedia science, design, and storytelling project focusing on the Eastern gray (Sciurus carolinensis). They count squirrels and present their findings to the public. This table contains environmental data related to each of the 350 “countable” hectares of Central Park. Examples include weather, litter, animals sighted, and human density.",
+      "displayType" : "table",
+      "downloadCount" : 728,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "indexUpdatedAt" : 1571157731,
+      "newBackend" : true,
+      "numberOfComments" : 0,
+      "oid" : 32626191,
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1571157630,
+      "publicationGroup" : 16634405,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1571157630,
+      "rowsUpdatedBy" : "8u8s-8cxv",
+      "tableId" : 16634405,
+      "totalTimesRated" : 0,
+      "viewCount" : 2154,
+      "viewLastModified" : 1652134456,
+      "viewType" : "tabular",
+      "approvals" : [ {
+        "reviewedAt" : 1571157631,
+        "reviewedAutomatically" : true,
+        "state" : "approved",
+        "submissionId" : 1352337,
+        "submissionObject" : "public_audience_request",
+        "submissionOutcome" : "change_audience",
+        "submittedAt" : 1571157631,
+        "workflowId" : 2285,
+        "submissionDetails" : {
+          "permissionType" : "READ"
+        },
+        "submissionOutcomeApplication" : {
+          "endedAt" : 1571157631,
+          "failureCount" : 0,
+          "startedAt" : 1571157631,
+          "status" : "success"
+        },
+        "submitter" : {
+          "id" : "8u8s-8cxv",
+          "displayName" : "Zachary Feder (NYC Open Data)"
+        }
+      } ],
+      "clientContext" : {
+        "clientContextVariables" : [ ],
+        "inheritedVariables" : { }
+      },
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 433308686,
+        "name" : "Hectare",
+        "dataTypeName" : "text",
+        "description" : "ID tag, which is derived from the hectare grid used to divide and count the park area. One axis that runs predominantly north-to-south is numerical (1-42), and the axis that runs predominantly east-to-west",
+        "fieldName" : "hectare",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 89237143,
+        "cachedContents" : {
+          "largest" : "9I",
+          "non_null" : "700",
+          "null" : "0",
+          "top" : [ {
+            "item" : "21F",
+            "count" : "2"
+          }, {
+            "item" : "23G",
+            "count" : "2"
+          }, {
+            "item" : "39F",
+            "count" : "2"
+          }, {
+            "item" : "05G",
+            "count" : "2"
+          }, {
+            "item" : "24I",
+            "count" : "2"
+          }, {
+            "item" : "14C",
+            "count" : "2"
+          }, {
+            "item" : "40B",
+            "count" : "2"
+          }, {
+            "item" : "08H",
+            "count" : "2"
+          }, {
+            "item" : "29I",
+            "count" : "2"
+          }, {
+            "item" : "04E",
+            "count" : "2"
+          }, {
+            "item" : "42G",
+            "count" : "2"
+          }, {
+            "item" : "07A",
+            "count" : "2"
+          }, {
+            "item" : "39H",
+            "count" : "2"
+          }, {
+            "item" : "12H",
+            "count" : "2"
+          }, {
+            "item" : "10C",
+            "count" : "2"
+          }, {
+            "item" : "20A",
+            "count" : "2"
+          }, {
+            "item" : "22I",
+            "count" : "2"
+          }, {
+            "item" : "41A",
+            "count" : "2"
+          }, {
+            "item" : "22E",
+            "count" : "2"
+          }, {
+            "item" : "30G",
+            "count" : "2"
+          } ],
+          "smallest" : "01A",
+          "cardinality" : "351"
+        },
+        "format" : { }
+      }, {
+        "id" : 433308685,
+        "name" : "Shift",
+        "dataTypeName" : "text",
+        "description" : "Value is either \"AM\" or \"PM,\" to communicate whether the sighting session occurred in the morning or late afternoon.",
+        "fieldName" : "shift",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 89237142,
+        "cachedContents" : {
+          "largest" : "PM",
+          "non_null" : "700",
+          "null" : "0",
+          "top" : [ {
+            "item" : "AM",
+            "count" : "350"
+          }, {
+            "item" : "PM",
+            "count" : "350"
+          } ],
+          "smallest" : "AM",
+          "cardinality" : "2"
+        },
+        "format" : { }
+      }, {
+        "id" : 433308675,
+        "name" : "Date",
+        "dataTypeName" : "text",
+        "description" : "Concatenation of the sighting session month, day, and year (MMDDYYYY).",
+        "fieldName" : "date",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 89237132,
+        "cachedContents" : {
+          "largest" : "10202018",
+          "non_null" : "700",
+          "null" : "0",
+          "top" : [ {
+            "item" : "10132018",
+            "count" : "101"
+          }, {
+            "item" : "10072018",
+            "count" : "99"
+          }, {
+            "item" : "10142018",
+            "count" : "82"
+          }, {
+            "item" : "10062018",
+            "count" : "75"
+          }, {
+            "item" : "10102018",
+            "count" : "61"
+          }, {
+            "item" : "10082018",
+            "count" : "60"
+          }, {
+            "item" : "10182018",
+            "count" : "59"
+          }, {
+            "item" : "10122018",
+            "count" : "55"
+          }, {
+            "item" : "10172018",
+            "count" : "55"
+          }, {
+            "item" : "10192018",
+            "count" : "40"
+          }, {
+            "item" : "10202018",
+            "count" : "13"
+          } ],
+          "smallest" : "10062018",
+          "cardinality" : "11"
+        },
+        "format" : { }
+      }, {
+        "id" : 433308684,
+        "name" : "Anonymized Sighter",
+        "dataTypeName" : "number",
+        "description" : "Sighter names were alphabetized then assigned a number (1-267) so that the individual abilities and characteristics of each sighter could be taken into account.",
+        "fieldName" : "anonymized_sighter",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 89237141,
+        "cachedContents" : {
+          "largest" : "179180181",
+          "non_null" : "700",
+          "null" : "0",
+          "top" : [ {
+            "item" : "114",
+            "count" : "19"
+          }, {
+            "item" : "250",
+            "count" : "14"
+          }, {
+            "item" : "242",
+            "count" : "12"
+          }, {
+            "item" : "224",
+            "count" : "11"
+          }, {
+            "item" : "134",
+            "count" : "10"
+          }, {
+            "item" : "60",
+            "count" : "10"
+          }, {
+            "item" : "37",
+            "count" : "10"
+          }, {
+            "item" : "104",
+            "count" : "10"
+          }, {
+            "item" : "248",
+            "count" : "8"
+          }, {
+            "item" : "170",
+            "count" : "8"
+          }, {
+            "item" : "17",
+            "count" : "8"
+          }, {
+            "item" : "166",
+            "count" : "8"
+          }, {
+            "item" : "203",
+            "count" : "8"
+          }, {
+            "item" : "145",
+            "count" : "8"
+          }, {
+            "item" : "40",
+            "count" : "8"
+          }, {
+            "item" : "209",
+            "count" : "7"
+          }, {
+            "item" : "241",
+            "count" : "7"
+          }, {
+            "item" : "243",
+            "count" : "7"
+          }, {
+            "item" : "183",
+            "count" : "7"
+          }, {
+            "item" : "211",
+            "count" : "7"
+          } ],
+          "smallest" : "1",
+          "cardinality" : "235"
+        },
+        "format" : { }
+      }, {
+        "id" : 433308683,
+        "name" : "Sighter Observed Weather Data",
+        "dataTypeName" : "text",
+        "description" : "Each sighter was asked to describe the weather conditions before starting each sighting session. Weather values varied widely, and are in some cases inaccurate. ",
+        "fieldName" : "sighter_observed_weather",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 89237140,
+        "cachedContents" : {
+          "largest" : "Sunny, Windy, Cool",
+          "non_null" : "681",
+          "null" : "19",
+          "top" : [ {
+            "item" : "57º F, overcast",
+            "count" : "10"
+          }, {
+            "item" : "50º F, light rain",
+            "count" : "7"
+          }, {
+            "item" : "50º F, mostly sunny",
+            "count" : "7"
+          }, {
+            "item" : "57º F, cloudy",
+            "count" : "7"
+          }, {
+            "item" : "70º F, Overcast",
+            "count" : "6"
+          }, {
+            "item" : "65º F, cloudy",
+            "count" : "5"
+          }, {
+            "item" : "56° F, Partly Cloudy",
+            "count" : "5"
+          }, {
+            "item" : "61º F, sunny",
+            "count" : "5"
+          }, {
+            "item" : "70º F, Cloudy",
+            "count" : "5"
+          }, {
+            "item" : "65º F, overcast",
+            "count" : "5"
+          }, {
+            "item" : "73º F",
+            "count" : "4"
+          }, {
+            "item" : "45º F, Clear",
+            "count" : "4"
+          }, {
+            "item" : "70º F",
+            "count" : "4"
+          }, {
+            "item" : "45º F, Sunny, Breezy",
+            "count" : "4"
+          }, {
+            "item" : "50º F, sunny",
+            "count" : "4"
+          }, {
+            "item" : "54º F, partly cloudy",
+            "count" : "4"
+          }, {
+            "item" : "61º F, sunny, windy",
+            "count" : "4"
+          }, {
+            "item" : "50º F, clear, sunny",
+            "count" : "4"
+          }, {
+            "item" : "77º F, Sunny",
+            "count" : "3"
+          }, {
+            "item" : "51º F, sunny, windy",
+            "count" : "3"
+          } ],
+          "smallest" : "13° C, Partly Cloudy",
+          "cardinality" : "498"
+        },
+        "format" : { }
+      }, {
+        "id" : 433308682,
+        "name" : "Litter",
+        "dataTypeName" : "text",
+        "description" : "Value can be \"None\", \"Some\" or \"Abundant.\"",
+        "fieldName" : "litter",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 89237139,
+        "cachedContents" : {
+          "largest" : "Some",
+          "non_null" : "610",
+          "null" : "90",
+          "top" : [ {
+            "item" : "Some",
+            "count" : "291"
+          }, {
+            "item" : "None",
+            "count" : "291"
+          }, {
+            "item" : "Abundant",
+            "count" : "28"
+          } ],
+          "smallest" : "Abundant",
+          "cardinality" : "3"
+        },
+        "format" : { }
+      }, {
+        "id" : 433308681,
+        "name" : "Litter Notes",
+        "dataTypeName" : "text",
+        "description" : "Sighters occasionally added commentary on the amount or quality of litter. These notes are provided here. ",
+        "fieldName" : "litter_notes",
+        "position" : 7,
+        "renderTypeName" : "text",
+        "tableColumnId" : 89237138,
+        "cachedContents" : {
+          "largest" : "On street",
+          "non_null" : "6",
+          "null" : "694",
+          "top" : [ {
+            "item" : "1 piece of plastic",
+            "count" : "1"
+          }, {
+            "item" : "1 plastic bag",
+            "count" : "1"
+          }, {
+            "item" : "1 reusable bag",
+            "count" : "1"
+          }, {
+            "item" : "2-3 pieces",
+            "count" : "1"
+          }, {
+            "item" : "Beer party can debris",
+            "count" : "1"
+          }, {
+            "item" : "On street",
+            "count" : "1"
+          } ],
+          "smallest" : "1 piece of plastic",
+          "cardinality" : "6"
+        },
+        "format" : { }
+      }, {
+        "id" : 433308680,
+        "name" : "Other Animal Sightings",
+        "dataTypeName" : "text",
+        "description" : "Comma separated values indicating other animals sighted in the hectare. A list of other animals common to the park were provided; however, other animals were listed as well.",
+        "fieldName" : "other_animal_sightings",
+        "position" : 8,
+        "renderTypeName" : "text",
+        "tableColumnId" : 89237137,
+        "cachedContents" : {
+          "largest" : "Woodpecker",
+          "non_null" : "668",
+          "null" : "32",
+          "top" : [ {
+            "item" : "Humans, Dogs",
+            "count" : "177"
+          }, {
+            "item" : "Humans",
+            "count" : "59"
+          }, {
+            "item" : "Humans, Dogs, Pigeons",
+            "count" : "42"
+          }, {
+            "item" : "Humans, Dogs, Birds",
+            "count" : "38"
+          }, {
+            "item" : "Humans, Hawks, Dogs",
+            "count" : "14"
+          }, {
+            "item" : "Humans, Dogs, Small birds",
+            "count" : "14"
+          }, {
+            "item" : "Humans, Dogs, Sparrows",
+            "count" : "8"
+          }, {
+            "item" : "Dogs",
+            "count" : "7"
+          }, {
+            "item" : "Humans, Dogs, Ducks",
+            "count" : "7"
+          }, {
+            "item" : "Humans, Pigeons",
+            "count" : "6"
+          }, {
+            "item" : "Humans, Dogs, Pigeons, Birds",
+            "count" : "5"
+          }, {
+            "item" : "Humans, Dogs, Pigeons, Horses",
+            "count" : "4"
+          }, {
+            "item" : "Humans, Dogs, Chipmunk",
+            "count" : "4"
+          }, {
+            "item" : "Humans, Birds",
+            "count" : "4"
+          }, {
+            "item" : "Humans, Dogs, Horses",
+            "count" : "3"
+          }, {
+            "item" : "Humans, Dogs, Pigeons, Sparrows",
+            "count" : "3"
+          }, {
+            "item" : "Humans, Sparrows",
+            "count" : "3"
+          }, {
+            "item" : "Humans, Dogs, Rat",
+            "count" : "3"
+          }, {
+            "item" : "Humans, Dogs, Pigeons, Small birds",
+            "count" : "3"
+          }, {
+            "item" : "Humans, Dogs, Geese",
+            "count" : "3"
+          } ],
+          "smallest" : "Bird",
+          "cardinality" : "263"
+        },
+        "format" : { }
+      }, {
+        "id" : 433308679,
+        "name" : "Hectare Conditions",
+        "dataTypeName" : "text",
+        "description" : "Value is one of the following: “Calm”, “Moderate”, “Calm, busy” or “Busy.” The difference between “moderate” and “calm, busy” is as follows: “moderate” was either entered by the sighter, or translated from an entry that described a condition somewhere in-between busy and calm. “Calm, busy” was either entered by the sighter or translated from an entry that described discrete hectare sections as busy, but other hectare areas as separately calm.",
+        "fieldName" : "hectare_conditions",
+        "position" : 9,
+        "renderTypeName" : "text",
+        "tableColumnId" : 89237136,
+        "cachedContents" : {
+          "largest" : "Moderate",
+          "non_null" : "660",
+          "null" : "40",
+          "top" : [ {
+            "item" : "Busy",
+            "count" : "362"
+          }, {
+            "item" : "Calm",
+            "count" : "253"
+          }, {
+            "item" : "Moderate",
+            "count" : "26"
+          }, {
+            "item" : "Calm, Busy",
+            "count" : "18"
+          }, {
+            "item" : "Medium",
+            "count" : "1"
+          } ],
+          "smallest" : "Busy",
+          "cardinality" : "5"
+        },
+        "format" : { }
+      }, {
+        "id" : 433308678,
+        "name" : "Hectare Conditions Notes",
+        "dataTypeName" : "text",
+        "description" : "Sighters occasionally added commentary on the hectare conditions. These notes are provided here.",
+        "fieldName" : "hectare_conditions_notes",
+        "position" : 10,
+        "renderTypeName" : "text",
+        "tableColumnId" : 89237135,
+        "cachedContents" : {
+          "largest" : "With street noise",
+          "non_null" : "74",
+          "null" : "626",
+          "top" : [ {
+            "item" : "5k",
+            "count" : "1"
+          }, {
+            "item" : "5k race",
+            "count" : "1"
+          }, {
+            "item" : "Active Tennis and use of fields",
+            "count" : "1"
+          }, {
+            "item" : "A lot of traffic noise",
+            "count" : "1"
+          }, {
+            "item" : "Avon Walk",
+            "count" : "1"
+          }, {
+            "item" : "Busy",
+            "count" : "1"
+          }, {
+            "item" : "Busy at sidewalk",
+            "count" : "1"
+          }, {
+            "item" : "Busy (bypassers)",
+            "count" : "1"
+          }, {
+            "item" : "Busy, calm off walkways",
+            "count" : "1"
+          }, {
+            "item" : "Busy near gate house, quiet on and south of Transverse, reservoir path medium",
+            "count" : "1"
+          }, {
+            "item" : "Busy near street, near empty on the playground.",
+            "count" : "1"
+          }, {
+            "item" : "Busy on path",
+            "count" : "1"
+          }, {
+            "item" : "Busy on Running Path",
+            "count" : "1"
+          }, {
+            "item" : "Busy on suncuncting(?) path",
+            "count" : "1"
+          }, {
+            "item" : "Busy on West Dr",
+            "count" : "1"
+          }, {
+            "item" : "Busy (road)",
+            "count" : "1"
+          }, {
+            "item" : "But loud music at edge",
+            "count" : "1"
+          }, {
+            "item" : "Calm, but lots of dogs",
+            "count" : "1"
+          }, {
+            "item" : "Calm (in forest), Busy (near road)",
+            "count" : "1"
+          }, {
+            "item" : "Calm in hectare, but cars on [road]",
+            "count" : "1"
+          } ],
+          "smallest" : "5k",
+          "cardinality" : "74"
+        },
+        "format" : { }
+      }, {
+        "id" : 433308677,
+        "name" : "Number of sighters",
+        "dataTypeName" : "number",
+        "description" : "The number of sighters that observed the hectare for the sighting session. Values range from \"1\" to \"3.\"",
+        "fieldName" : "number_of_sighters",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 89237134,
+        "cachedContents" : {
+          "largest" : "3",
+          "non_null" : "700",
+          "null" : "0",
+          "top" : [ {
+            "item" : "1",
+            "count" : "610"
+          }, {
+            "item" : "2",
+            "count" : "80"
+          }, {
+            "item" : "3",
+            "count" : "10"
+          } ],
+          "smallest" : "1",
+          "cardinality" : "3"
+        },
+        "format" : { }
+      }, {
+        "id" : 433308676,
+        "name" : "Number of Squirrels",
+        "dataTypeName" : "number",
+        "description" : "The number of squirrels sighted in the hectare during the sighting session.",
+        "fieldName" : "number_of_squirrels",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 89237133,
+        "cachedContents" : {
+          "largest" : "23",
+          "non_null" : "700",
+          "null" : "0",
+          "top" : [ {
+            "item" : "2",
+            "count" : "94"
+          }, {
+            "item" : "0",
+            "count" : "86"
+          }, {
+            "item" : "1",
+            "count" : "80"
+          }, {
+            "item" : "4",
+            "count" : "78"
+          }, {
+            "item" : "3",
+            "count" : "76"
+          }, {
+            "item" : "5",
+            "count" : "64"
+          }, {
+            "item" : "6",
+            "count" : "61"
+          }, {
+            "item" : "7",
+            "count" : "42"
+          }, {
+            "item" : "8",
+            "count" : "33"
+          }, {
+            "item" : "9",
+            "count" : "32"
+          }, {
+            "item" : "10",
+            "count" : "12"
+          }, {
+            "item" : "12",
+            "count" : "10"
+          }, {
+            "item" : "11",
+            "count" : "9"
+          }, {
+            "item" : "13",
+            "count" : "7"
+          }, {
+            "item" : "14",
+            "count" : "6"
+          }, {
+            "item" : "16",
+            "count" : "4"
+          }, {
+            "item" : "17",
+            "count" : "3"
+          }, {
+            "item" : "15",
+            "count" : "2"
+          }, {
+            "item" : "23",
+            "count" : "1"
+          } ],
+          "smallest" : "0",
+          "cardinality" : "19"
+        },
+        "format" : { }
+      }, {
+        "id" : 433308674,
+        "name" : "Total Time of Sighting",
+        "dataTypeName" : "number",
+        "description" : "The sighting session duration, in minutes.",
+        "fieldName" : "total_time_of_sighting",
+        "position" : 13,
+        "renderTypeName" : "number",
+        "tableColumnId" : 89237131,
+        "cachedContents" : {
+          "largest" : "70",
+          "non_null" : "680",
+          "null" : "20",
+          "top" : [ {
+            "item" : "20",
+            "count" : "192"
+          }, {
+            "item" : "25",
+            "count" : "138"
+          }, {
+            "item" : "30",
+            "count" : "57"
+          }, {
+            "item" : "23",
+            "count" : "50"
+          }, {
+            "item" : "22",
+            "count" : "47"
+          }, {
+            "item" : "26",
+            "count" : "26"
+          }, {
+            "item" : "24",
+            "count" : "23"
+          }, {
+            "item" : "21",
+            "count" : "23"
+          }, {
+            "item" : "35",
+            "count" : "18"
+          }, {
+            "item" : "27",
+            "count" : "16"
+          }, {
+            "item" : "28",
+            "count" : "12"
+          }, {
+            "item" : "40",
+            "count" : "9"
+          }, {
+            "item" : "29",
+            "count" : "6"
+          }, {
+            "item" : "32",
+            "count" : "5"
+          }, {
+            "item" : "50",
+            "count" : "5"
+          }, {
+            "item" : "31",
+            "count" : "5"
+          }, {
+            "item" : "45",
+            "count" : "5"
+          }, {
+            "item" : "18",
+            "count" : "4"
+          }, {
+            "item" : "15",
+            "count" : "4"
+          }, {
+            "item" : "33",
+            "count" : "3"
+          } ],
+          "smallest" : "1",
+          "cardinality" : "42"
+        },
+        "format" : { }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "attachments" : [ {
+          "filename" : "User Guide _ Central Park Squirrel Census Data Collection.docx",
+          "assetId" : "816fbfbe-ac31-43c8-9795-058aab123d34",
+          "name" : "User Guide _ Central Park Squirrel Census Data Collection.docx"
+        } ],
+        "custom_fields" : {
+          "Data Collection" : {
+            "Data Collection" : "2018 Central Park Squirrel Census"
+          },
+          "Update" : {
+            "Automation" : "No",
+            "Date Made Public" : "10/15/2019",
+            "Update Frequency" : "Historical data"
+          }
+        },
+        "rowLabel" : "Hectare within Central Park used for the 2018 Squirrel Census",
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "5fuc-pqz2",
+        "displayName" : "NYC OpenData",
+        "profileImageUrlLarge" : "/api/users/5fuc-pqz2/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/5fuc-pqz2/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/5fuc-pqz2/profile_images/TINY",
+        "screenName" : "NYC OpenData",
+        "type" : "interactive",
+        "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "5fuc-pqz2",
+        "displayName" : "NYC OpenData",
+        "profileImageUrlLarge" : "/api/users/5fuc-pqz2/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/5fuc-pqz2/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/5fuc-pqz2/profile_images/TINY",
+        "screenName" : "NYC OpenData",
+        "type" : "interactive",
+        "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+      },
+      "tags" : [ "squirrel census" ],
+      "flags" : [ "default", "ownerMayBeContacted", "restorable", "restorePossibleForType" ]
+    }
+  },
+  "data" : [ [ "row-xvbm_ap36.wksi", "00000000-0000-0000-4A7D-FFDE6DF1A798", 0, 1571157630, null, 1571157630, null, "{ }", "01A", "AM", "10072018", "110", "70º F, Foggy", "Some", null, "Humans, Pigeons", "Busy", null, "1", "4", "22" ]
+, [ "row-uuju.7aay~5rhx", "00000000-0000-0000-7AE3-75B7008F060F", 0, 1571157630, null, 1571157630, null, "{ }", "01A", "PM", "10142018", "177", "54º F, overcast", "Abundant", null, "Humans, Pigeons", "Busy", null, "1", "7", "26" ]
+, [ "row-xtx4_48mj.a4yd", "00000000-0000-0000-4098-680F6C4866EC", 0, 1571157630, null, 1571157630, null, "{ }", "01B", "AM", "10122018", "11", "60º F, sunny", "Some", null, "Humans, Dogs, Pigeons, Horses", "Busy", null, "1", "17", "23" ]
+, [ "row-2y79-kbat-z54z", "00000000-0000-0000-7884-89763EDF8BFA", 0, 1571157630, null, 1571157630, null, "{ }", "01B", "PM", "10192018", "109", "59.8º F, Sun, Cool", "Some", null, "Humans, Dogs, Pigeons, Sparrow, Blue jay", "Busy", null, "1", "10", "35" ]
+, [ "row-c725_9xq7_avj2", "00000000-0000-0000-1A4B-59DA56168013", 0, 1571157630, null, 1571157630, null, "{ }", "01C", "PM", "10132018", "241", "55° F, Partly Cloudy", "None", null, "Humans, Dogs, Pigeons, Birds", "Busy", null, "1", "10", "25" ]
+, [ "row-q4e3_pjec.ymvn", "00000000-0000-0000-5751-99CCA93C2DCF", 0, 1571157630, null, 1571157630, null, "{ }", "01D", "AM", "10062018", "250", "66º F, cloudy, light drizzle", "Some", null, "Humans", "Calm", null, "1", "9", "35" ]
+, [ "row-5dr5_5hfk~rjfb", "00000000-0000-0000-12A4-A0B140E2B690", 0, 1571157630, null, 1571157630, null, "{ }", "01E", "AM", "10062018", "218", "65º F approx, misty", "Some", null, "Humans", "Calm", null, "1", "5", "26" ]
+, [ "row-8nhn_6x66-st2x", "00000000-0000-0000-1A0F-E72BA6A27008", 0, 1571157630, null, 1571157630, null, "{ }", "01F", "AM", "10102018", "123", "74º F, Partly cloudy, no wind", "None", null, "Humans, Dogs, Ducks", "Calm", null, "1", "5", "20" ]
+, [ "row-e5fh~rnem-wek6", "00000000-0000-0000-7A3F-5751E241E5E6", 0, 1571157630, null, 1571157630, null, "{ }", "01F", "PM", "10192018", "241", "59º F, Clear", "None", null, "Humans, Dogs, Pigeons, Birds", "Busy", null, "1", "3", "24" ]
+, [ "row-2yfz~7kym~ndds", "00000000-0000-0000-24D4-5A18A8FB6115", 0, 1571157630, null, 1571157630, null, "{ }", "01G", "PM", "10102018", "151", "77º F, Warm, sunny, humid", "None", null, "Humans, Dogs, Cats, Raccoons", "Busy", null, "1", "3", "28" ]
+, [ "row-rvpv-cmja-9pcb", "00000000-0000-0000-A4DA-C7152966B155", 0, 1571157630, null, 1571157630, null, "{ }", "01G", "AM", "10062018", "232", "64º F, cloudy, light drizzle", "None", null, "Humans, Dogs, Pigeons, Ducks, Bluejay, Sparrow, Starling", "Busy", null, "1", "4", "25" ]
+, [ "row-4tk7_qt54.h8c6", "00000000-0000-0000-950D-C8B24D893A5D", 0, 1571157630, null, 1571157630, null, "{ }", "01H", "PM", "10132018", "27", "56° F, Cloudy", "None", null, "Humans", "Busy", null, "1", "2", "28" ]
+, [ "row-usiy.ixfy-4iyj", "00000000-0000-0000-D50F-A5FB12900225", 0, 1571157630, null, 1571157630, null, "{ }", "01H", "AM", "10122018", "224", "59º F, mostly sunny, windy", "Some", null, "Humans, Pigeons, Small birds", "Busy", null, "1", "2", "27" ]
+, [ "row-b53s~tgdw~tqy9", "00000000-0000-0000-5498-6056E0F7DAD8", 0, 1571157630, null, 1571157630, null, "{ }", "01I", "AM", "10072018", "8", "71º F, Cloudy", "Some", null, "Humans, Dogs, Pigeons, Horses", "Calm", null, "1", "0", "28" ]
+, [ "row-bem6~v827.6afx", "00000000-0000-0000-DE5A-D4C2F73D357C", 0, 1571157630, null, 1571157630, null, "{ }", "02A", "AM", "10102018", "66", "73º F, Cloudy, 85% humidity", "Abundant", null, "Humans, Dogs", "Busy", null, "1", "9", "25" ]
+, [ "row-fgmy_m488-in54", "00000000-0000-0000-7DA0-D6C6A6849006", 0, 1571157630, null, 1571157630, null, "{ }", "02A", "PM", "10192018", "109", "55º F, Sun", "Some", null, "Humans, Dogs, Pigeons, Downy Woodpecker, Sparrows", "Calm", null, "1", "6", "30" ]
+, [ "row-tebk~vna2~ehjs", "00000000-0000-0000-2F3A-F11BFB515AB0", 0, 1571157630, null, 1571157630, null, "{ }", "02C", "AM", "10102018", "66", "70º F", "None", null, "Humans, Small birds", "Busy", null, "1", "9", "25" ]
+, [ "row-948w~cy5e.auv9", "00000000-0000-0000-5615-438FFC2447A2", 0, 1571157630, null, 1571157630, null, "{ }", "02D", "AM", "10072018", "116", "71º F, cloudy", "None", null, "Humans, Dogs", "Calm", null, "1", "6", "25" ]
+, [ "row-i72d-xgn2-bscw", "00000000-0000-0000-B3AA-CB6DBD27E1C2", 0, 1571157630, null, 1571157630, null, "{ }", "02D", "PM", "10122018", "134", "61º F, sunny", "None", null, "Humans", "Busy", null, "1", "2", "35" ]
+, [ "row-jqb2-zjpt~kubn", "00000000-0000-0000-4D14-043D4F72E5E0", 0, 1571157630, null, 1571157630, null, "{ }", "02E", "AM", "10102018", "167", "73º F", null, null, "Humans, Hawks, Dogs", "Calm", null, "1", "7", "20" ]
+, [ "row-hyi4.txp7~k5bx", "00000000-0000-0000-AE42-63A89BB40235", 0, 1571157630, null, 1571157630, null, "{ }", "02E", "PM", "10142018", "177", "58º F, overcast", "Some", null, "Humans, Dogs", "Busy", null, "1", "5", "22" ]
+, [ "row-cq9i_t96j.a354", "00000000-0000-0000-0BAF-7E6AD79C3B57", 0, 1571157630, null, 1571157630, null, "{ }", "02F", "AM", "10062018", "126", "64º F, slight wind, dew point 59, misty", "Some", null, "Humans, Dogs", "Calm", null, "1", "5", "25" ]
+, [ "row-nybq~wnge~4kh9", "00000000-0000-0000-05E8-E7C261E79E18", 0, 1571157630, null, 1571157630, null, "{ }", "02G", "AM", "10102018", "60", "73º F, Overcast", "None", null, "Humans, Dogs", "Busy", null, "1", "4", "20" ]
+, [ "row-enxi.bk3t_tj3b", "00000000-0000-0000-6555-0CB0324D74CC", 0, 1571157630, null, 1571157630, null, "{ }", "02G", "PM", "10072018", "119", "80º F, Humid. Party. Cloudy.", "None", null, "Humans, Pigeons, Mice", "Calm", null, "1", "3", "22" ]
+, [ "row-9hqg.mzqb_9uka", "00000000-0000-0000-2AC8-93638A8B18D8", 0, 1571157630, null, 1571157630, null, "{ }", "02H", "AM", "10062018", "116", "65º F, cloudy", null, null, "Humans, Pigeons, Ducks, Geese", null, null, "1", "3", "22" ]
+, [ "row-hhsw_haqw.b8uh", "00000000-0000-0000-8FCD-AEF4D525AB78", 0, 1571157630, null, 1571157630, null, "{ }", "02H", "PM", "10062018", "196", "67º F, Cloudy, mist-rain", "Some", null, "Humans, Dogs", "Busy", null, "1", "2", "30" ]
+, [ "row-hnbu-6dpm_n7f9", "00000000-0000-0000-0CAA-2FCA1F9A58B3", 0, 1571157630, null, 1571157630, null, "{ }", "02I", "AM", "10062018", "56", "65º F, overcast", "Some", null, "Humans, Pigeons", "Busy", null, "1", "2", "28" ]
+, [ "row-mzya~w2wk-9iv4", "00000000-0000-0000-B479-86A0B79AB24B", 0, 1571157630, null, 1571157630, null, "{ }", "02I", "PM", "10062018", "134", null, null, null, null, null, null, "1", "2", "20" ]
+, [ "row-xf24~8zje~vshm", "00000000-0000-0000-76DF-CFC52C946F85", 0, 1571157630, null, 1571157630, null, "{ }", "03A", "PM", "10172018", "241", "60º F, mostly cloudy", "None", null, "Humans, Dogs, Birds", "Calm", null, "1", "8", "25" ]
+, [ "row-h2d4_xhdt.dsxj", "00000000-0000-0000-7605-39ECA68441F3", 0, 1571157630, null, 1571157630, null, "{ }", "03B", "PM", "10072018", "231", "80º F, Cloudy. Humid", "Some", null, "Humans, Dogs", "Busy", null, "1", "11", "15" ]
+, [ "row-66fc~kahe.fqzm", "00000000-0000-0000-8EAC-3112476A3AE6", 0, 1571157630, null, 1571157630, null, "{ }", "03C", "AM", "10072018", "116", "71º F, Cloudy", "None", null, "Humans, Dogs", "Calm", null, "1", "2", "20" ]
+, [ "row-sehf~7cim.3d2v", "00000000-0000-0000-7CDF-5E3D24D754F8", 0, 1571157630, null, 1571157630, null, "{ }", "03C", "PM", "10082018", "134", "62º F, overcast", "Some", null, "Humans, Dogs", "Busy", null, "1", "2", "30" ]
+, [ "row-6fpm-6m3u~gpaf", "00000000-0000-0000-B250-CEDD4E28254A", 0, 1571157630, null, 1571157630, null, "{ }", "03D", "AM", "10062018", "121", "64º F, overcast, moist", "Some", null, "Humans, Dogs, Pigeons, Birds", "Busy", null, "1", "8", "35" ]
+, [ "row-r8az_syrr_fuzg", "00000000-0000-0000-90F4-085EF6A255BB", 0, 1571157630, null, 1571157630, null, "{ }", "03D", "PM", "10102018", "241", "77º F, Sunny, humid", "None", null, "Humans, Dogs, Birds", "Busy", null, "1", "14", "31" ]
+, [ "row-rt4j_f76v-qzrk", "00000000-0000-0000-1F2F-386ED66AA31D", 0, 1571157630, null, 1571157630, null, "{ }", "03E", "AM", "10062018", "28", "cloudy, slight drizzle", "Some", null, "Humans, Dogs (off-leash)", "Calm", null, "1", "8", "23" ]
+, [ "row-msay~wy62~9p6a", "00000000-0000-0000-8A3D-78EF94886418", 0, 1571157630, null, 1571157630, null, "{ }", "03E", "PM", "10082018", "158", "65º F, overcast", null, null, "Humans", "Busy", null, "1", "9", "25" ]
+, [ "row-indw.zdtv_9hek", "00000000-0000-0000-6D0B-C3C19361D6C6", 0, 1571157630, null, 1571157630, null, "{ }", "03F", "AM", "10062018", "93", "66º F, overcast", "None", null, "Humans, Birds", "Calm", null, "1", "14", "46" ]
+, [ "row-gzrf-8qt9.z8ht", "00000000-0000-0000-56DC-5D5616B4B31B", 0, 1571157630, null, 1571157630, null, "{ }", "03G", "AM", "10082018", "114", "67º F, overcast", "Some", null, "Humans, Dogs, Pigeons", "Moderate", "kinde (sic)", "1", "3", "20" ]
+, [ "row-mwrp_v4m8~xhcc", "00000000-0000-0000-BAA4-9699F07F593D", 0, 1571157630, null, 1571157630, null, "{ }", "03G", "PM", "10132018", "224", "57° F, Cloudy to Partly Cloudy, \"Crisp\"", "Some", null, "Humans, Dogs, Ducks, Cardinal, Small birds, Robin", "Busy", null, "1", "3", "39" ]
+, [ "row-adp3-fatq~5kwc", "00000000-0000-0000-8C1E-339C8E490650", 0, 1571157630, null, 1571157630, null, "{ }", "03H", "AM", "10082018", "114", "67º F, overcast", null, null, "Humans, Dogs, Pigeons", "Calm", null, "1", "6", "23" ]
+, [ "row-e5ud-8hrw~paki", "00000000-0000-0000-EC3A-F5C9F7E3FE5C", 0, 1571157630, null, 1571157630, null, "{ }", "03I", "PM", "10132018", "27", "56° F, Partly Cloudy", "Some", null, "Humans, Pigeons", "Busy", null, "1", "8", "25" ]
+, [ "row-4eq6~y2fr.y6ri", "00000000-0000-0000-B9D2-09CCCA77F544", 0, 1571157630, null, 1571157630, null, "{ }", "03I", "AM", "10102018", "123", "74º F, Partly cloudy, minimal wind", "None", null, "Humans, Dogs, Pigeons", "Busy", null, "1", "5", "20" ]
+, [ "row-dzjd~m7z9.fe3k", "00000000-0000-0000-91F1-4BEBED38DC05", 0, 1571157630, null, 1571157630, null, "{ }", "04A", "AM", "10072018", "110", "70º F, Foggy", "None", null, "Humans, Dogs, Birds, but not pigeons", "Calm", null, "1", "5", "22" ]
+, [ "row-cecp-j4yq-nrni", "00000000-0000-0000-E95C-2BB6886AF4DC", 0, 1571157630, null, 1571157630, null, "{ }", "04A", "PM", "10072018", "231", "80º F, Cloudy. Humid", "Some", null, "Humans, Dogs", "Busy", null, "1", "6", "20" ]
+, [ "row-mzkk_372g_7wry", "00000000-0000-0000-9CF1-AC2AD31A73BB", 0, 1571157630, null, 1571157630, null, "{ }", "04B", "PM", "10182018", "109", "48º F, Sun", "None", null, "Humans, Dogs", "Busy", null, "1", "5", null ]
+, [ "row-edm4_dyk3.nbhk", "00000000-0000-0000-0140-4B00422D2FED", 0, 1571157630, null, 1571157630, null, "{ }", "04B", "AM", "10102018", "167", "70º F Partly cloudy", "Abundant", null, "Humans, Dogs", "Busy", null, "1", "6", "25" ]
+, [ "row-musy~cbr6-hwyh", "00000000-0000-0000-4692-6AAEE38C6150", 0, 1571157630, null, 1571157630, null, "{ }", "04C", "PM", "10102018", "217", "77º F, Mostly sunny, humid", "None", null, "Humans, Dogs, Sparrows", "Busy", null, "1", "17", "20" ]
+, [ "row-6f95-djjn_xtju", "00000000-0000-0000-C26B-DCF8B6370F2E", 0, 1571157630, null, 1571157630, null, "{ }", "04D", "AM", "10122018", "11", "60º F, partly cloudy", "None", null, "Humans, Dogs, Blue Jays", "Busy", null, "1", "4", "25" ]
+, [ "row-sgmj.6nm9_64xr", "00000000-0000-0000-E582-5E88587DC592", 0, 1571157630, null, 1571157630, null, "{ }", "04D", "PM", "10082018", "134", "65º F, overcast", "Some", null, "Humans", "Calm", null, "1", "14", "65" ]
+, [ "row-ivx6~7xz9-ytcp", "00000000-0000-0000-FBEA-B30689282E7D", 0, 1571157630, null, 1571157630, null, "{ }", "04E", "AM", "10202018", "145", "55º F, Cloudy", "None", null, "Humans, Dogs, Small birds, Dogs", "Busy", null, "1", "4", "24" ]
+, [ "row-ks2g-u9e4.rub6", "00000000-0000-0000-0AC4-42F2DA144F05", 0, 1571157630, null, 1571157630, null, "{ }", "04E", "PM", "10082018", "158", "65º F, overcast", "None", null, null, null, null, "1", "8", "29" ]
+, [ "row-zp46~i2sb~bms7", "00000000-0000-0000-2135-FA2E48203793", 0, 1571157630, null, 1571157630, null, "{ }", "04F", "AM", "10072018", "8", "71º F, Coudy. Misty. Rain.", "Some", null, "Humans, Dogs", "Calm", null, "1", "0", "23" ]
+, [ "row-end4_i85z_skb8", "00000000-0000-0000-AEA9-E53221B2B4D5", 0, 1571157630, null, 1571157630, null, "{ }", "04G", "PM", "10072018", "133", "77º F, Sunny", "Some", null, "Humans", "Busy", null, "1", "1", "36" ]
+, [ "row-k3m5.khu3~rbhg", "00000000-0000-0000-C237-67A264A201AA", 0, 1571157630, null, 1571157630, null, "{ }", "04H", "PM", "10062018", "134", "65º F, Very Overcast", "None", null, "Humans", "Busy", null, "1", "2", "31" ]
+, [ "row-z7tz.e5x3~p83r", "00000000-0000-0000-3B26-F9E3B0A3E1C3", 0, 1571157630, null, 1571157630, null, "{ }", "04H", "AM", "10062018", "168", "64º F, overcast", "Some", null, "Humans, Dogs, Birds, Song birds and Crows", "Busy", null, "1", "4", "45" ]
+, [ "row-qrdi_8nsv~hqce", "00000000-0000-0000-C1FC-9B3BEDC5229F", 0, 1571157630, null, 1571157630, null, "{ }", "04I", "AM", "10062018", "34", "65º F, overcast, misty", "Some", null, "Humans, Dogs, Pigeons, Rat", "Busy", null, "1", "3", "42" ]
+, [ "row-sg7c~4bm2~78t6", "00000000-0000-0000-9C64-8F14B67B1ADD", 0, 1571157630, null, 1571157630, null, "{ }", "04I", "PM", "10072018", "134", "77º F, Sunny", "Some", null, "Humans", "Busy", null, "1", "3", "31" ]
+, [ "row-7vpi_gypz.q6us", "00000000-0000-0000-AD38-2F9DA6DB7150", 0, 1571157630, null, 1571157630, null, "{ }", "05A", "AM", "10062018", "61", "64º F", "None", null, "Humans, Dogs", "Busy", null, "1", "5", "50" ]
+, [ "row-82k7.hfw4_ee2c", "00000000-0000-0000-1C25-E547ABBCD28E", 0, 1571157630, null, 1571157630, null, "{ }", "05A", "PM", "10102018", "241", "77º F, Mostly Sun, humid", null, null, "Humans, Dogs, Birds", "Calm", null, "1", "4", "23" ]
+, [ "row-pai8~myvm.nfi5", "00000000-0000-0000-345E-730D4444CF17", 0, 1571157630, null, 1571157630, null, "{ }", "05B", "AM", "10082018", "163", "66º F, overcast", "Some", null, "Humans, Dogs", "Busy", null, "1", "4", "26" ]
+, [ "row-3eqp-ncvv-befs", "00000000-0000-0000-CED9-53E0FD532CA0", 0, 1571157630, null, 1571157630, null, "{ }", "05B", "PM", "10132018", "241", "55° F, Partly Cloudy", "None", null, "Humans, Dogs, Birds", "Busy", null, "1", "6", "25" ]
+, [ "row-ihvn~ufw6_wm97", "00000000-0000-0000-3248-09782E2DABFF", 0, 1571157630, null, 1571157630, null, "{ }", "05C", "AM", "10062018", "169", "64º F, cloudy, light rain", "Some", null, "Humans, Dogs, Sparrows, Starlings, American robins", "Calm", null, "1", "7", "25" ]
+, [ "row-hhpp.r4j2_murm", "00000000-0000-0000-4EF6-7FB2981FA508", 0, 1571157630, null, 1571157630, null, "{ }", "05C", "PM", "10102018", "217", "77º F, Mostly sunny", "None", null, "Humans, Dogs", "Busy", null, "1", "13", "20" ]
+, [ "row-9nrv.7uii.kyea", "00000000-0000-0000-BA36-A83CA5D6CE5B", 0, 1571157630, null, 1571157630, null, "{ }", "05D", "PM", "10182018", "109", "48º F, Sunny", "None", null, "Humans, Dogs, Sparrows, Robin", "Moderate", null, "1", "7", "20" ]
+, [ "row-23hz_kw42-4umj", "00000000-0000-0000-DBC3-DF70288B1D72", 0, 1571157630, null, 1571157630, null, "{ }", "05D", "AM", "10202018", "145", "55º F, Cloudy", "None", null, "Humans, Dogs, Other birds", "Calm", null, "1", "4", "23" ]
+, [ "row-7fwp.xptj_35ga", "00000000-0000-0000-4D64-F3DE69D6318E", 0, 1571157630, null, 1571157630, null, "{ }", "05E", "PM", "10122018", "134", "61º F, sunny", null, null, "Humans", "Busy", null, "1", "6", "44" ]
+, [ "row-d8hb~mfxy.g3ui", "00000000-0000-0000-32C4-CCDEE89D063C", 0, 1571157630, null, 1571157630, null, "{ }", "05E", "AM", "10082018", "163", "66º F, overcast, misty", "Some", null, "Humans, Hawks, Dogs", "Busy", null, "1", "10", "34" ]
+, [ "row-eutk~upiy_52r3", "00000000-0000-0000-F01E-B5955CE847E5", 0, 1571157630, null, 1571157630, null, "{ }", "05F", "AM", "10072018", "17", "71º F, Cloudy", "Some", null, "Humans, Dogs, Pigeons", "Busy", null, "1", "6", "25" ]
+, [ "row-zk4u-zhmx~jvvn", "00000000-0000-0000-89F4-6DD61A5C2C9F", 0, 1571157630, null, 1571157630, null, "{ }", "05F", "PM", "10072018", "119", "80º F, Humid. Cloudy.", "None", null, "Humans, Dogs, Pigeons, Tourists", "Busy", null, "1", "6", "22" ]
+, [ "row-5uyp.n39f_52mp", "00000000-0000-0000-C233-7D0E5629E089", 0, 1571157630, null, 1571157630, null, "{ }", "05G", "PM", "10102018", "151", "77º F Sunny humid", null, null, "Dogs", "Busy", null, "1", "5", "20" ]
+, [ "row-md78-vmd4_d9pv", "00000000-0000-0000-3014-0C1B7F31D391", 0, 1571157630, null, 1571157630, null, "{ }", "05G", "AM", "10062018", "230", "64º F, cloudy, misty", null, null, "Humans, little Birds", "Busy", null, "1", "1", "20" ]
+, [ "row-gmas~p6f5_uqtn", "00000000-0000-0000-6916-1F16D42B36DD", 0, 1571157630, null, 1571157630, null, "{ }", "05H", "AM", "10072018", "17", "70º F, Cloudy", "None", null, "Humans, Dogs", "Calm", null, "1", "1", "25" ]
+, [ "row-vnta~bg77.zxuf", "00000000-0000-0000-960F-8A35E7945254", 0, 1571157630, null, 1571157630, null, "{ }", "05H", "PM", "10062018", "196", "67º F, Cloudy, misting", "Abundant", null, "Humans", "Busy", null, "1", "0", "30" ]
+, [ "row-pxmq_c98v~h2qg", "00000000-0000-0000-C2CA-43B4367DA8BF", 0, 1571157630, null, 1571157630, null, "{ }", "05I", "AM", "10102018", "60", "74º F", "None", null, "Humans, Dogs", "Busy", null, "1", "6", "20" ]
+, [ "row-pswu-7q85-z7zs", "00000000-0000-0000-9619-1D6336387527", 0, 1571157630, null, 1571157630, null, "{ }", "05I", "PM", "10082018", "96", "65º F, dark and damp, drizzling", "None", null, "Humans, Dogs, Pigeons", "Calm", null, "1", "2", "25" ]
+, [ "row-xn56.5cxs_t6fe", "00000000-0000-0000-A901-DF8DB30FEC47", 0, 1571157630, null, 1571157630, null, "{ }", "06A", "PM", "10122018", "115", "sunny, chilly", "Some", null, "Humans, Dogs, Birds", "Busy", null, "1", "7", "25" ]
+, [ "row-qka5~qntv-78d4", "00000000-0000-0000-BD2B-F858D499BA4A", 0, 1571157630, null, 1571157630, null, "{ }", "06A", "AM", "10062018", "211", "65º F, gray, misting", "Some", null, "Humans, Dogs", "Calm", null, "1", "8", "20" ]
+, [ "row-izpz_h5yi~azz5", "00000000-0000-0000-E54C-ED4C66F05172", 0, 1571157630, null, 1571157630, null, "{ }", "06B", "PM", "10172018", "241", "61º F, mostly cloudy", "None", null, "Humans, Dogs, Birds", "Busy", null, "1", "7", "25" ]
+, [ "row-d85s~cvbu-2fjw", "00000000-0000-0000-24F7-608E2AE300CC", 0, 1571157630, null, 1571157630, null, "{ }", "06B", "AM", "10122018", "261", "58º F, partly sunny, breezy", "None", null, "Humans (Bikers, Runners), Dogs, Small birds", "Busy", null, "1", "2", "22" ]
+, [ "row-xqks.rt89.d8y8", "00000000-0000-0000-E5F1-EA0864D1BC0C", 0, 1571157630, null, 1571157630, null, "{ }", "06C", "AM", "10072018", "34", "68º F, Overcast. Humid.", "None", null, "Humans, Dogs", "Busy", "T/V busy with cars. Lots on dogs in ball fields.", "1", "8", "25" ]
+, [ "row-7cfy_vdsi.crud", "00000000-0000-0000-D839-477B21E5CEE0", 0, 1571157630, null, 1571157630, null, "{ }", "06C", "PM", "10202018", "150", "65º F", null, null, null, null, null, "1", "4", "25" ]
+, [ "row-swby~9ws2_vahb", "00000000-0000-0000-9918-BB1D8D0E95F2", 0, 1571157630, null, 1571157630, null, "{ }", "06D", "PM", "10202018", "150", "65º F", "Some", null, "Humans, Dogs", "Busy", null, "1", "6", "25" ]
+, [ "row-pjgr-j7ct-tkdv", "00000000-0000-0000-5C7D-2C77BCC8DEDD", 0, 1571157630, null, 1571157630, null, "{ }", "06D", "AM", "10082018", "250", "66º F, cloudy", "Some", null, "Humans, Dogs", "Calm", null, "1", "4", "21" ]
+, [ "row-k578~yb5j~h795", "00000000-0000-0000-2AE8-18B3D7AE61A1", 0, 1571157630, null, 1571157630, null, "{ }", "06E", "PM", "10102018", "195", "77º F, Mostly sunny (humid) but lovely", null, null, "Humans", "Busy", null, "1", "5", "22" ]
+, [ "row-sgvk.d7by_rv68", "00000000-0000-0000-BBF9-58855FEF59C1", 0, 1571157630, null, 1571157630, null, "{ }", "06F", "PM", "10082018", "114", "65º F, drizzly", null, null, "Humans, Dogs", "Busy", null, "1", "6", "23" ]
+, [ "row-wxp3.b5yw.9u2h", "00000000-0000-0000-A58D-783534C1B290", 0, 1571157630, null, 1571157630, null, "{ }", "06F", "AM", "10062018", "263", "18º C, Cloudy", "Abundant", null, "Humans, Dogs", "Busy", null, "1", "1", "26" ]
+, [ "row-437f.mqiy-hvuc", "00000000-0000-0000-316A-B8AFE90A82C3", 0, 1571157630, null, 1571157630, null, "{ }", "06G", "PM", "10202018", "242", "61º F, Sunny. Sun starting to go down", "Some", null, "Humans, Horses, Birds", "Busy", null, "1", "4", "24" ]
+, [ "row-hg69~62d7~23n3", "00000000-0000-0000-6A8D-733317D5D060", 0, 1571157630, null, 1571157630, null, "{ }", "06H", "AM", "10082018", "6", "66º F, overcast, damp", null, null, "Humans, Dogs", null, null, "1", "2", "30" ]
+, [ "row-qhq3~5cv8-b2i3", "00000000-0000-0000-6683-9BC07EC654D4", 0, 1571157630, null, 1571157630, null, "{ }", "06H", "PM", "10202018", "242", "63º F, Perfect", "None", null, "Humans, Birds, Cardinal", "Calm", null, "1", "3", "25" ]
+, [ "row-kiff-sba5.rpgf", "00000000-0000-0000-F582-EEFFA1EF2566", 0, 1571157630, null, 1571157630, null, "{ }", "06I", "AM", "10062018", "17", "65º F, cloudy", null, null, null, null, null, "1", "1", "23" ]
+, [ "row-mmxx~gcau-eevj", "00000000-0000-0000-8A6E-828C017198BB", 0, 1571157630, null, 1571157630, null, "{ }", "06I", "PM", "10132018", "256", "57° F, Cloudy", "Some", null, "Humans, Dogs, Pigeons", "Busy", null, "1", "7", "26" ]
+, [ "row-uinx.sk6c-mwwn", "00000000-0000-0000-A85C-7D9817A9D97B", 0, 1571157630, null, 1571157630, null, "{ }", "07A", "PM", "10072018", "182", "79º F, Cloudy", null, null, "Humans, Dogs", "Calm", null, "1", "2", "22" ]
+, [ "row-gdtx_fthe.aqpm", "00000000-0000-0000-F702-5CD153A78A2F", 0, 1571157630, null, 1571157630, null, "{ }", "07A", "AM", "10062018", "227", "67º F, light drizzle", "Some", null, "Humans, Dogs, Robins (Birds)", "Busy", null, "1", "3", "29" ]
+, [ "row-qn3d_d9bg~uqdg", "00000000-0000-0000-D761-0BFFD96F4090", 0, 1571157630, null, 1571157630, null, "{ }", "07B", "AM", "10082018", "60", "67º F, misty", "None", null, "Humans, Dogs, Pigeons", "Busy", null, "1", "15", "30" ]
+, [ "row-gsa4~svdx-afqk", "00000000-0000-0000-471D-DD3600B6FFA1", 0, 1571157630, null, 1571157630, null, "{ }", "07B", "PM", "10062018", "118", "Misty", "Some", null, "Humans, Dogs", "Busy", null, "1", "1", "22" ]
+, [ "row-ev6x.i5c8.py6x", "00000000-0000-0000-F107-26B599E1062A", 0, 1571157630, null, 1571157630, null, "{ }", "07C", "AM", "10122018", "261", "58º F, partly cloudy, breezy", "None", null, "Humans (Very Few)", "Calm", "Sheep Meadow Closed!", "1", "3", "20" ]
+, [ "row-u6ge-3k4j-i892", "00000000-0000-0000-573D-17274AFDB117", 0, 1571157630, null, 1571157630, null, "{ }", "07D", "PM", "10102018", "115", "77º F, Humid, sunny", "Some", null, "Humans", "Busy", null, "1", "1", "25" ]
+, [ "row-mx2i~xnnf.4duk", "00000000-0000-0000-5877-894698789E90", 0, 1571157630, null, 1571157630, null, "{ }", "07D", "AM", "10062018", "117", "60s, cloudy, threatening to rain, misty", "None", null, "Humans, Dogs", "Calm", null, "1", "0", "30" ]
+, [ "row-uqyp-zxyt.yv73", "00000000-0000-0000-864A-7EC126F437B5", 0, 1571157630, null, 1571157630, null, "{ }", "07E", "AM", "10062018", "118", "64º F, Cloudy", null, null, "Humans, Dogs, Pigeons", "Calm", null, "1", "6", "26" ]
+, [ "row-ybbq_pg85.rbwc", "00000000-0000-0000-EDB2-A4383E62272D", 0, 1571157630, null, 1571157630, null, "{ }", "07F", "PM", "10122018", "131", "60º F, sunny", "None", null, "Humans, Dogs, Small birds", "Calm", null, "1", "3", "25" ]
+, [ "row-aipj.7cu5.gjn9", "00000000-0000-0000-69B9-F8CF379ED40B", 0, 1571157630, null, 1571157630, null, "{ }", "07G", "AM", "10102018", "67", "Muggy, cloudy, slightly damp", "None", null, "Humans, Dogs, Birds, Blue jays", "Busy", null, "1", "9", "25" ]
+, [ "row-6bzj-3ibp_9r9g", "00000000-0000-0000-6294-76F591785367", 0, 1571157630, null, 1571157630, null, "{ }", "07G", "PM", "10182018", "242", "52º F, Sunny", null, null, "Humans", "Busy", null, "1", "7", "20" ]
+, [ "row-dk8p~vueh-wz7g", "00000000-0000-0000-2599-D64A2FC24EFB", 0, 1571157630, null, 1571157630, null, "{ }", "07H", "PM", "10062018", "227228", "68º F, drizzle", "None", null, "Humans, Sparrow", null, null, "1", "10", "25" ]
+, [ "row-mfs6_tn8v_f8pa", "00000000-0000-0000-C785-1C0D10D438D9", 0, 1571157630, null, 1571157630, null, "{ }", "07I", "AM", "10122018", "44", "59º F, sunny, very windy", "Some", null, "Humans, Dogs, Pigeons, Small birds", "Busy", "Construction", "1", "0", "25" ]
+, [ "row-7prr.sgaq_2x8m", "00000000-0000-0000-4510-0DE46469AC7D", 0, 1571157630, null, 1571157630, null, "{ }", "07I", "PM", "10132018", "256", null, null, null, null, null, null, "1", "8", "33" ]
+, [ "row-786h-t8sf.9pvc", "00000000-0000-0000-56AE-31F9D8EA3A20", 0, 1571157630, null, 1571157630, null, "{ }", "08A", "PM", "10142018", "103", "58º F, cloudy, cool & crisp", "None", null, "Humans, Dogs, Pigeons, Mice, Sparrows", "Busy", null, "1", "3", "25" ]
+, [ "row-46cy.npkr.9i6n", "00000000-0000-0000-9CD3-B04E35A83C65", 0, 1571157630, null, 1571157630, null, "{ }", "08B", "PM", "10122018", "115", "chilly, sunny", "Some", null, "Humans", "Busy", null, "1", "9", "35" ]
+, [ "row-i35k_dmqx_rkjq", "00000000-0000-0000-FE95-4496C85E9416", 0, 1571157630, null, 1571157630, null, "{ }", "08C", "AM", "10072018", "34", "68º F, Overcast. Humid.", "None", null, "Humans, Dogs", "Calm", "Humans quietly walking polite dogs. dog run.", "1", "2", "20" ]
+, [ "row-4an2~9ryk-g8ms", "00000000-0000-0000-03F3-93B5FC523709", 0, 1571157630, null, 1571157630, null, "{ }", "08D", "PM", "10072018", "182", "80º F, Sunny", "Some", null, "Humans, Dogs", "Busy", null, "1", "4", "22" ]
+, [ "row-hr7n.kiq8-dtn8", "00000000-0000-0000-8D1D-5DFE005F7B45", 0, 1571157630, null, 1571157630, null, "{ }", "08D", "AM", "10072018", "224", "71º F, Overcast. Misty", "None", null, "Humans, Dogs, Pigeons", "Calm", "Very calm, except you can hear machinery", "1", "8", "26" ]
+, [ "row-wfv9~pn2v~jikz", "00000000-0000-0000-9714-9342B2C1CF84", 0, 1571157630, null, 1571157630, null, "{ }", "08E", "AM", "10132018", "78", "46º F, rain", "None", null, "Humans, Dogs", "Calm", null, "1", "2", "20" ]
+, [ "row-ty9f.4zi6.uakm", "00000000-0000-0000-7E1C-8C2CC21692FF", 0, 1571157630, null, 1571157630, null, "{ }", "08E", "PM", "10082018", "96", "cloudy, drizzling", "None", null, "Humans, Dogs", "Busy", null, "1", "8", "25" ]
+, [ "row-f3t5-srdy.hdwu", "00000000-0000-0000-3F1D-260042764435", 0, 1571157630, null, 1571157630, null, "{ }", "08F", "PM", "10122018", "131", "60º F, sunny", "Some", null, "Humans, Dogs", "Calm", null, "1", "8", "25" ]
+, [ "row-2w5q-qpdu-tt7c", "00000000-0000-0000-0F20-E9F0C751AAF1", 0, 1571157630, null, 1571157630, null, "{ }", "08F", "AM", "10142018", "145", "52º F, Partly Cloudy, Mostly Sunny", "None", null, "Humans, Dogs, Owls, Small birds", "Busy", "Concert at Naumburg Bandshell", "1", "0", "23" ]
+, [ "row-szdp~bkqy_daje", "00000000-0000-0000-5010-544A6B5ADFC6", 0, 1571157630, null, 1571157630, null, "{ }", "08G", "AM", "10122018", "44", null, null, null, "Humans", "Calm", null, "1", "0", "23" ]
+, [ "row-t8qf-tj59.3xta", "00000000-0000-0000-3349-99E3FCD9508D", 0, 1571157630, null, 1571157630, null, "{ }", "08G", "PM", "10172018", "242", "61º F, Sunny, Breezy", null, null, "Humans, Dogs, Horses, Birds", "Busy", null, "1", "2", "20" ]
+, [ "row-vfzr-qvea.sn3c", "00000000-0000-0000-7314-D4764B4CBBF2", 0, 1571157630, null, 1571157630, null, "{ }", "08H", "PM", "10142018", "138", "57º F, Cloudy", "Some", null, "Dogs, Pigeons, Small birds", "Calm", null, "1", "9", "25" ]
+, [ "row-warv-4rid-ywcs", "00000000-0000-0000-8081-BA3B1A2444D1", 0, 1571157630, null, 1571157630, null, "{ }", "08H", "AM", "10172018", "163", "50º F, clear, windy", "None", null, "Humans, Dogs", "Busy", null, "1", "6", "26" ]
+, [ "row-4w25-ubva.ckn3", "00000000-0000-0000-D20F-F8EAF9298973", 0, 1571157630, null, 1571157630, null, "{ }", "08I", "PM", "10132018", "134", "56° F, Partly Cloudy", "Some", null, "Humans, Dogs, Wood Thrush", "Calm", null, "1", "9", "64" ]
+, [ "row-pt3y~73u9.gx5z", "00000000-0000-0000-CE2E-B8717610ABBC", 0, 1571157630, null, 1571157630, null, "{ }", "08I", "AM", "10062018", "237", "77º F, cloudy", "Some", null, "Humans, Dogs", "Busy", null, "1", "12", "27" ]
+, [ "row-pzf6.a5gw~pfmb", "00000000-0000-0000-F9CF-CA415ED40871", 0, 1571157630, null, 1571157630, null, "{ }", "09A", "PM", "10102018", "195", "77º F (humid) but lovely", "None", null, "Humans, Dogs, Pigeons", "Busy", "Doggie play area", "1", "4", "22" ]
+, [ "row-3rjx_gqju-izsq", "00000000-0000-0000-38D0-2B5820BCD25E", 0, 1571157630, null, 1571157630, null, "{ }", "09B", "AM", "10102018", "211", "70º F", null, null, "Blue jay", "Busy", null, "1", "9", "30" ]
+, [ "row-w3ti.5ksx_unq2", "00000000-0000-0000-CB5D-779B1630C0D2", 0, 1571157630, null, 1571157630, null, "{ }", "09C", "AM", "10062018", "196", "68º F, cloudy", "Some", null, "Humans, Dogs, Birds", "Busy", null, "1", "3", "20" ]
+, [ "row-8ahu.3mhm_y26b", "00000000-0000-0000-AA50-EAFE3D546D6A", 0, 1571157630, null, 1571157630, null, "{ }", "09C", "PM", "10062018", "230", "65º F, Mostly Cloudy", "Some", null, "Humans, Dogs, Birds", null, null, "1", "7", "20" ]
+, [ "row-syv3~wmq6_4m9u", "00000000-0000-0000-0740-1C2BE6281162", 0, 1571157630, null, 1571157630, null, "{ }", "09D", "PM", "10082018", "55", "drizzling", "Some", null, "Humans, Dogs", "Calm", null, "1", "0", "10" ]
+, [ "row-b58m.5zg2~2ag4", "00000000-0000-0000-C3F2-CBB221631073", 0, 1571157630, null, 1571157630, null, "{ }", "09D", "AM", "10082018", "60", "66º F, overcast, misty", "Some", null, "Humans, Dogs, Birds", "Busy", null, "1", "4", "20" ]
+, [ "row-ddr2.d24v_7s3j", "00000000-0000-0000-798E-92207278160B", 0, 1571157630, null, 1571157630, null, "{ }", "09E", "AM", "10082018", "6", "overcast, damp", null, null, "Humans, Dogs", "Busy", null, "1", "4", "20" ]
+, [ "row-pkb3-5x9k.ataj", "00000000-0000-0000-B75A-A521463C491D", 0, 1571157630, null, 1571157630, null, "{ }", "09E", "PM", "10142018", "101", "57º F, cloudy", "None", null, "Humans, Hawks, Dogs, Small birds", "Busy", null, "1", "3", "30" ]
+, [ "row-43ss-x3uq-mg8s", "00000000-0000-0000-0475-F626A7F75D79", 0, 1571157630, null, 1571157630, null, "{ }", "09F", "AM", "10132018", "78", "46º F, rain", "None", null, "Humans, Dogs", "Busy", null, "1", "4", "20" ]
+, [ "row-bcss~pjka-mcdy", "00000000-0000-0000-6A16-33C921AE3B07", 0, 1571157630, null, 1571157630, null, "{ }", "09F", "PM", "10142018", "138", "57º F, crisp & mostly cloudy", "Some", null, "Humans, Dogs, dogs off-leash :( , Birds", "Calm", "But loud music at edge", "1", "8", "23" ]
+, [ "row-b7pc~k36d~at29", "00000000-0000-0000-37B7-1BA0EE04A5EC", 0, 1571157630, null, 1571157630, null, "{ }", "09G", "PM", "10072018", "96", "81º F, Cloudy", "Some", null, "Humans, Dogs, Pigeons", "Busy", null, "1", "6", "34" ]
+, [ "row-nacm-m7zs.rgb2", "00000000-0000-0000-EB2F-7964696DAC6B", 0, 1571157630, null, 1571157630, null, "{ }", "09G", "AM", "10072018", "97", "70º F, Humid. Cloudy.", "Some", null, "Humans, Dogs, Horse drawn carriage. Woodpecker", "Busy", null, "1", "4", "25" ]
+, [ "row-c63u~yxza_38y4", "00000000-0000-0000-A98F-4E247BD5AA0E", 0, 1571157630, null, 1571157630, null, "{ }", "09H", "PM", "10182018", "242", "52º F, Sunny", null, null, "Humans, Dogs", "Busy", null, "1", "9", "21" ]
+, [ "row-v7tx~5riz_ddrf", "00000000-0000-0000-2095-E6988DFA2163", 0, 1571157630, null, 1571157630, null, "{ }", "09I", "PM", "10102018", "114", "77º F, Mostly sunny", null, null, "Humans, Dogs", "Busy", null, "1", "7", "24" ]
+, [ "row-5vu2.qmxs-wvei", "00000000-0000-0000-AD6E-07497E0BBDBC", 0, 1571157630, null, 1571157630, null, "{ }", "10A", "AM", "10062018", "8", "65º F, cloudy, light drizzle", "None", null, "Humans, Dogs, Red Robins", "Busy", null, "1", "4", "24" ]
+, [ "row-9kdh~j2n6_6ecv", "00000000-0000-0000-A99D-0997CC8E1BF8", 0, 1571157630, null, 1571157630, null, "{ }", "10A", "PM", "10142018", "101", "57º F, cloudy", null, null, "Humans, Dogs, Pigeons, Small birds, Rat, Mice", null, null, "1", "4", "25" ]
+, [ "row-qfjr_6m2b-8rfq", "00000000-0000-0000-B173-A9A67BF70142", 0, 1571157630, null, 1571157630, null, "{ }", "10B", "PM", "10142018", "103", "58º F, overcast cool & crisp", "None", null, "Humans, Dogs, Pigeons, Tiny birds on trees", "Busy", null, "1", "5", "25" ]
+, [ "row-y7j7~9h42.tc4x", "00000000-0000-0000-315F-912096B794CC", 0, 1571157630, null, 1571157630, null, "{ }", "10C", "AM", "10182018", "242", "43º F, Sunny, Breezy", "Some", null, "Humans, Dogs", "Calm", null, "1", "4", "22" ]
+, [ "row-t56w-huzp-nets", "00000000-0000-0000-4168-4188A8E0D831", 0, 1571157630, null, 1571157630, null, "{ }", "10D", "PM", "10082018", "55", "65º F, overcast", "Some", null, "Humans, Dogs", "Busy", null, "1", "1", "18" ]
+, [ "row-6qde~vp2r~s5ax", "00000000-0000-0000-3203-953C1309B182", 0, 1571157630, null, 1571157630, null, "{ }", "10D", "AM", "10082018", "250", "66º F, cloudy", "Some", null, "Humans", "Busy", null, "1", "5", "21" ]
+, [ "row-z4ux.z2j5-h9yu", "00000000-0000-0000-DCE1-D6724DE0FA90", 0, 1571157630, null, 1571157630, null, "{ }", "10E", "AM", "10102018", "211", "71º F, Cloudy, humid", "Some", null, "Humans, Dogs", "Busy", null, "1", "2", "25" ]
+, [ "row-tt6k_gukp~wjmy", "00000000-0000-0000-5186-E3749220EE58", 0, 1571157630, null, 1571157630, null, "{ }", "10E", "PM", "10072018", "224", "79º F, Partly Cloudy", "Some", null, "Humans", "Busy", null, "1", "1", "24" ]
+, [ "row-jpus~spxq-w72q", "00000000-0000-0000-2BF7-FB2CCFEC8096", 0, 1571157630, null, 1571157630, null, "{ }", "10F", "AM", "10072018", "97", "71º F, Humid. Cloudy.", "None", null, "Humans, Dogs, Pigeons, Chickadees, Tour groups", "Busy", null, "1", "3", "25" ]
+, [ "row-h3vu.x2n4~j5cm", "00000000-0000-0000-63A6-A499C48EA9C0", 0, 1571157630, null, 1571157630, null, "{ }", "10F", "PM", "10192018", "221", "58º F, Partly, Cloudy", "Some", null, "Humans, Dogs, Pigeons", "Busy", "CRAZY BUSY", "1", "12", "30" ]
+, [ "row-utqs_jvn7.e6ei", "00000000-0000-0000-10CC-AC4E5501ECA9", 0, 1571157630, null, 1571157630, null, "{ }", "10G", "PM", "10172018", "242", "60º F, windy, clouds coming in. A couple drops of rain.", "None", null, "Humans", "Calm", null, "1", "10", "23" ]
+, [ "row-cyxq~eieh-24mv", "00000000-0000-0000-6441-CC74AC52603C", 0, 1571157630, null, 1571157630, null, "{ }", "10H", "PM", "10072018", "96", "81º F, Partly Cloudy. Humid.", "Some", null, "Humans, Dogs, Pigeons, Horses", "Busy", null, "1", "2", "25" ]
+, [ "row-6t9a-tgzi-pjhg", "00000000-0000-0000-52D7-8DD0CB9BAB4F", 0, 1571157630, null, 1571157630, null, "{ }", "10I", "AM", "10102018", "67", "Partly cloudy, dewy", "Some", null, "Humans, Dogs", "Busy", null, "1", "4", "26" ]
+, [ "row-cfum~rrzn_fspq", "00000000-0000-0000-6904-B5A3AD6B286C", 0, 1571157630, null, 1571157630, null, "{ }", "10I", "PM", "10132018", "134", "56° F, Partly Cloudy", "None", null, "Humans, Dogs", "Busy", null, "1", "1", "25" ]
+, [ "row-bkep_q7h2-tf8f", "00000000-0000-0000-642D-EF979337B31B", 0, 1571157630, null, 1571157630, null, "{ }", "11A", "AM", "10142018", "13", "Mild (mid-50s), cloudy", "Some", null, "Humans, Dogs, Robins, Small brown birds -- not sparrows", "Busy", "Noisy and thumpy Avon Walk music from east", "1", "0", "22" ]
+, [ "row-yetr.atqm.5ic6", "00000000-0000-0000-ED58-0C8BFF26B0B0", 0, 1571157630, null, 1571157630, null, "{ }", "11A", "PM", "10132018", "229", "55º F, cloudy", "Some", null, "Humans, Dogs, Rat (with an apple core), Horses, Robin", "Busy", null, "1", "5", "25" ]
+, [ "row-iyhd~piy6_im9b", "00000000-0000-0000-1D1D-F26353619EA5", 0, 1571157630, null, 1571157630, null, "{ }", "11B", "AM", "10072018", "35", "71º F, Overcast. Humid", "Some", null, "Humans, Dogs, Pigeons, Horses", "Busy", null, "1", "5", "30" ]
+, [ "row-xxsf-a5j3.fg56", "00000000-0000-0000-D28E-D2F6356B16EF", 0, 1571157630, null, 1571157630, null, "{ }", "11B", "PM", "10142018", "234", "Cool, Cloudy", "Some", null, "Humans, Dogs, Horses", "Busy", null, "1", "8", "18" ]
+, [ "row-2vri-hrpj_2jiy", "00000000-0000-0000-FBD3-95F338CAFF11", 0, 1571157630, null, 1571157630, null, "{ }", "11C", "AM", "10072018", "35", "70º F, Overcast. Humid.", "None", null, "Humans, Dogs", "Busy", null, "1", "0", "30" ]
+, [ "row-evje~etk9_t3m4", "00000000-0000-0000-A6AB-2EC124920757", 0, 1571157630, null, 1571157630, null, "{ }", "11C", "PM", "10182018", "191", "53º F, Sunset", "None", null, "Humans, Ducks, Blue Jay, Horse!", "Calm", null, "1", "1", "26" ]
+, [ "row-nit5.85nh.w78f", "00000000-0000-0000-D0A4-86A180F84501", 0, 1571157630, null, 1571157630, null, "{ }", "11D", "AM", "10102018", "83", "72º F, Glasses fogging humid", "None", null, "Humans, Dogs, Blue jays, Robins", "Calm", null, "1", "8", "20" ]
+, [ "row-srui~u6yk~kv96", "00000000-0000-0000-4D73-2CD86346A73D", 0, 1571157630, null, 1571157630, null, "{ }", "11E", "PM", "10122018", "132", "61º F, sunny", "Some", null, "Humans, Dogs, Pigeons", "Busy", null, "1", "7", "20" ]
+, [ "row-58qr-arb4_bpfz", "00000000-0000-0000-885B-C2AA37CF0AED", 0, 1571157630, null, 1571157630, null, "{ }", "11E", "AM", "10132018", "203", "48º F, rain (from light to steady)", null, null, "Humans, Horses", "Busy", null, "1", "4", "21" ]
+, [ "row-h6e3_zy8k_9kff", "00000000-0000-0000-DB23-CF34E86F03E4", 0, 1571157630, null, 1571157630, null, "{ }", "11F", "AM", "10132018", "97", "49º F, rainy, overcast, kinda windy", "None", null, "Humans, Dogs, Chickadees", "Busy", null, "1", "3", "30" ]
+, [ "row-zwqw~529y~4867", "00000000-0000-0000-84F4-3251B44EF3E0", 0, 1571157630, null, 1571157630, null, "{ }", "11G", "AM", "10122018", "37", "60º F, partly cloudy, windy", "Some", null, "Humans, Blue jays, Robins", "Calm", null, "1", "1", "20" ]
+, [ "row-bgh8-jr4r_r3wv", "00000000-0000-0000-2ED7-DCDF80B1E164", 0, 1571157630, null, 1571157630, null, "{ }", "11G", "PM", "10132018", "85", "55º F, cloudy", "None", null, "Humans, Horses", "Busy", null, "1", "2", "26" ]
+, [ "row-94u3~2wjz~utpi", "00000000-0000-0000-D0F1-3D48814FC4D8", 0, 1571157630, null, 1571157630, null, "{ }", "11H", "AM", "10102018", "37", "70º F, Muggy", "Some", null, "Humans, Sparrows", "Calm", null, "1", "9", "20" ]
+, [ "row-gjfr-nyfr-8q2e", "00000000-0000-0000-1464-9023DE6F1F9F", 0, 1571157630, null, 1571157630, null, "{ }", "11I", "AM", "10122018", "166", "60º F, windy, partly cloudy", "None", null, "Humans, Dogs", "Calm", null, "1", "2", "20" ]
+, [ "row-wjnx_ypiy.j95v", "00000000-0000-0000-6AF4-3A641DE53B6F", 0, 1571157630, null, 1571157630, null, "{ }", "12A", "AM", "10082018", "123", "66º F, overcast, drizzling, no wind", "Some", null, "Humans, Dogs", "Busy", null, "1", "2", "20" ]
+, [ "row-imt4_zbmr.ftag", "00000000-0000-0000-2E0E-34F2F6BB247E", 0, 1571157630, null, 1571157630, null, "{ }", "12A", "PM", "10132018", "229", "55º F, cloudy", "Some", null, "Humans, Dogs, Rat", null, null, "1", "4", "24" ]
+, [ "row-dvtq_yerd_mgbr", "00000000-0000-0000-BF9C-F9451FB827F6", 0, 1571157630, null, 1571157630, null, "{ }", "12B", "PM", "10182018", "151", "50º F, Sunny, Brisk", "Some", null, "Humans, Dogs", "Busy", null, "1", "1", "20" ]
+, [ "row-qsvv-8ukn-wwkc", "00000000-0000-0000-8704-81A88ABE41F3", 0, 1571157630, null, 1571157630, null, "{ }", "12B", "AM", "10072018", "260", "70º F, Cloudy", "Some", null, "Dogs", "Busy", null, "1", "2", null ]
+, [ "row-c6ta_vhmz-pfw7", "00000000-0000-0000-C8FA-B48B81D41474", 0, 1571157630, null, 1571157630, null, "{ }", "12C", "AM", "10132018", "203", "48º F, light & steady rain", null, null, "Humans, Dogs, Pigeons, Ducks, Geese", "Calm", null, "1", "3", "20" ]
+, [ "row-qnfn~28as.r6zw", "00000000-0000-0000-D6A3-7B67C2FBC8C7", 0, 1571157630, null, 1571157630, null, "{ }", "12C", "PM", "10172018", "249", "partly cloudy, pleasant", "Some", null, "Humans, Waterfowl", "Calm", null, "1", "1", "22" ]
+, [ "row-vyyw-55kq_kqiv", "00000000-0000-0000-641E-1F8136597EE2", 0, 1571157630, null, 1571157630, null, "{ }", "12D", "AM", "10132018", "28", "rainy", "Some", null, "Humans, Dogs", "Busy", null, "1", "2", "23" ]
+, [ "row-wg7j.xv9v-ma34", "00000000-0000-0000-F6C2-B8FE178C0B15", 0, 1571157630, null, 1571157630, null, "{ }", "12D", "PM", "10142018", "36", "56º F", "None", null, "Humans, Dogs", "Calm", null, "1", "3", "20" ]
+, [ "row-b3bc-z6uk~fqxe", "00000000-0000-0000-EEA1-407AFF57A99B", 0, 1571157630, null, 1571157630, null, "{ }", "12E", "AM", "10172018", "83", "51º F, sunny, clear", "Some", null, "Humans, Dogs, Pigeons, Various bird types", "Busy", null, "1", "8", "25" ]
+, [ "row-9ddg~bthw~uvvu", "00000000-0000-0000-AA24-EF40982CABC8", 0, 1571157630, null, 1571157630, null, "{ }", "12E", "PM", "10182018", "191", "53º F, Sunny", "None", null, "Humans, Dogs, Birds, Ducks", "Busy", null, "1", "6", "23" ]
+, [ "row-prvm_u3eu~2kiy", "00000000-0000-0000-0AC4-BE47A312A24E", 0, 1571157630, null, 1571157630, null, "{ }", "12F", "PM", "10072018", "220", "79º F, Partly Cloudy", null, null, "Humans, Dogs, Pigeons", "Busy", null, "1", "15", "21" ]
+, [ "row-qck5_xmc4-ymcu", "00000000-0000-0000-EE56-416479246C8A", 0, 1571157630, null, 1571157630, null, "{ }", "12F", "AM", "10202018", "256", "55º F, Cloudy", "Some", null, "Humans, Dogs, Pigeons", "Busy", null, "1", "6", "35" ]
+, [ "row-hvhk_6u89.u67v", "00000000-0000-0000-CB41-F088DD8F90A1", 0, 1571157630, null, 1571157630, null, "{ }", "12G", "AM", "10122018", "166", "60º F, windy, cloudy", "None", null, "Humans, Dogs, Blue jay, Sparrows", "Calm", null, "1", "5", "20" ]
+, [ "row-thjr~weqp-jk9r", "00000000-0000-0000-48E2-48430D743F4F", 0, 1571157630, null, 1571157630, null, "{ }", "12H", "AM", "10072018", "235", "71º F, Cloud", "Some", null, "Humans, Dogs, Mandarin Duck", "Moderate", null, "1", "0", "20" ]
+, [ "row-5i5m~qwn5-defh", "00000000-0000-0000-B626-894234C026C8", 0, 1571157630, null, 1571157630, null, "{ }", "12I", "AM", "10132018", "8", "46º F, rainy, cold", "None", null, "Humans, Dogs", "Calm", null, "1", "1", "25" ]
+, [ "row-ctkb~buke_rrpj", "00000000-0000-0000-ADCA-36465AFD11BD", 0, 1571157630, null, 1571157630, null, "{ }", "12I", "PM", "10172018", "80", "60º F, sunny, very windy", "None", null, "Humans, Dogs", "Busy", null, "1", "0", "25" ]
+, [ "row-8ebm_awty~qh6n", "00000000-0000-0000-0E0C-9470568D7E9D", 0, 1571157630, null, 1571157630, null, "{ }", "13A", "AM", "10172018", "83", "49º F, sunny, not a cloud", "None", null, "Humans, Hawks, Dogs, Pigeons, Sparrows, blue jays", "Calm", null, "1", "5", "22" ]
+, [ "row-wmdx.jchh.95nf", "00000000-0000-0000-6FF0-CA174AD64EB4", 0, 1571157630, null, 1571157630, null, "{ }", "13A", "PM", "10142018", "234", "cool, cloudy", "None", null, "Humans, Dogs", "Busy", null, "1", "4", "20" ]
+, [ "row-xqux.wn2n_4azz", "00000000-0000-0000-7CD9-769221541025", 0, 1571157630, null, 1571157630, null, "{ }", "13B", "AM", "10082018", "123", "66º F, overcast, no wind", "Some", null, "Humans, Dogs, Ducks", "Busy", null, "1", "0", "20" ]
+, [ "row-r848-idy3~k8kj", "00000000-0000-0000-7576-8335BAB942B7", 0, 1571157630, null, 1571157630, null, "{ }", "13B", "PM", "10082018", "240", "70º F, misting", "None", null, "Humans, Dogs, Sparrows, Rats", "Busy", null, "1", "2", "20" ]
+, [ "row-dmdu-5ub2.js3h", "00000000-0000-0000-24CE-EA4ED80BBD3C", 0, 1571157630, null, 1571157630, null, "{ }", "13C", "PM", "10192018", "47", "56º F, Overcast", "Some", null, "Humans", "Calm", null, "1", "5", "25" ]
+, [ "row-wywd~j2ck_ess4", "00000000-0000-0000-85BB-77E1EEF70258", 0, 1571157630, null, 1571157630, null, "{ }", "13C", "AM", "10102018", "83", "71º F Cloudy and wicked humid", "Some", null, "Humans, Dogs, Blue jay, Cardinal, Warbler", "Calm, Busy", "Sporadically punctuated busy", "1", "4", "20" ]
+, [ "row-mm35~i9rp_8ff2", "00000000-0000-0000-D81C-60C6334EDDB4", 0, 1571157630, null, 1571157630, null, "{ }", "13D", "PM", "10182018", "215", "55º F, Sunny", "Some", null, "Humans, Dogs, Pigeons, Cats, Birds, Ducks", "Busy", null, "1", "14", "27" ]
+, [ "row-24md~4wgs_iym9", "00000000-0000-0000-C39B-78F3425BF944", 0, 1571157630, null, 1571157630, null, "{ }", "13D", "AM", "10142018", "252", "51º F, cloudy w/sun", "Some", null, "Humans, Dogs", "Calm", "Loud from concert", "1", "11", "22" ]
+, [ "row-w27i-uepx.z32z", "00000000-0000-0000-9539-D17623516ACA", 0, 1571157630, null, 1571157630, null, "{ }", "13E", "PM", "10082018", "184", "66º F, misty, cloudy, humid", "Some", null, "Humans, Dogs", "Busy", null, "1", "11", "30" ]
+, [ "row-vkvb.dfup.2cx4", "00000000-0000-0000-D22B-3753A09E8366", 0, 1571157630, null, 1571157630, null, "{ }", "13E", "AM", "10172018", "224", "52º F, sunny & brisk", "Some", null, "Humans, Birds (non-pigeon)", "Calm", null, "1", "13", "50" ]
+, [ "row-ezq9_inzj.ivhs", "00000000-0000-0000-3F24-E85DB96AB6CB", 0, 1571157630, null, 1571157630, null, "{ }", "13F", "PM", "10082018", "127", "66º F, misty, light rain, cloudy", null, null, "Humans", "Busy", null, "1", "5", "20" ]
+, [ "row-uggw-x38c~4gsm", "00000000-0000-0000-AAE6-AAB77E44CB4B", 0, 1571157630, null, 1571157630, null, "{ }", "13F", "AM", "10072018", "145", "70-73º F", "None", null, "Humans, Dogs, Small birds", "Calm", null, "1", "4", "28" ]
+, [ "row-ij4b~53y6.c6v9", "00000000-0000-0000-4820-2E88ADB09535", 0, 1571157630, null, 1571157630, null, "{ }", "13G", "AM", "10132018", "162", "50º F, rain", "None", null, "Humans", "Calm", null, "1", "0", "25" ]
+, [ "row-yyde~vbk9.2h3e", "00000000-0000-0000-962C-C4E8F4279354", 0, 1571157630, null, 1571157630, null, "{ }", "13G", "PM", "10082018", "244", "65º F, overcast, light breeze", "None", null, "Humans, Dogs, Sparrows, Robins", "Moderate", null, "1", "4", "22" ]
+, [ "row-s5vc_qy93~s3ys", "00000000-0000-0000-CB41-593CA814F4A5", 0, 1571157630, null, 1571157630, null, "{ }", "13H", "PM", "10102018", "60", "80º F, sunny", "Abundant", null, "Humans, Dogs", "Busy", null, "1", "9", "25" ]
+, [ "row-b3q5-ei4y.vazf", "00000000-0000-0000-C280-5825145FAEE4", 0, 1571157630, null, 1571157630, null, "{ }", "13H", "AM", "10132018", "240", "~60º F, rainy", "Some", "2-3 pieces", "Humans, Dogs, Ducks", "Calm", "Tour at Alice in Wonderland)", "1", "1", "20" ]
+, [ "row-fcqn_z7sb_ze5v", "00000000-0000-0000-01D2-89CCA25C233A", 0, 1571157630, null, 1571157630, null, "{ }", "13I", "AM", "10132018", "8", "46º F", "None", null, "Humans, Dogs, Ducks", "Calm", null, "1", "0", "30" ]
+, [ "row-9kx6_uh9y_an9x", "00000000-0000-0000-77E9-5A531F863D7A", 0, 1571157630, null, 1571157630, null, "{ }", "13I", "PM", "10082018", "127", "66º F, misty, cloudy", "Some", null, "Humans, Dogs, Mice", "Busy", null, "1", "1", "20" ]
+, [ "row-j2fg~fsz6.h8yc", "00000000-0000-0000-DB95-B48C0360683A", 0, 1571157630, null, 1571157630, null, "{ }", "14A", "AM", "10142018", "13", "mid-50s, cloudy", "None", null, "Humans, Dogs, Pigeons, Finches, Sparrows", "Busy", "Avon Walk", "1", "2", "21" ]
+, [ "row-vde5~kmmr.xzzk", "00000000-0000-0000-F766-1270EFD8EF7C", 0, 1571157630, null, 1571157630, null, "{ }", "14A", "PM", "10142018", "36", "57º F", "Some", null, "Humans, Dogs, Small birds", "Calm", null, "1", "8", "20" ]
+, [ "row-ikrs_8j8h-3gyr", "00000000-0000-0000-49F4-98F207CBA26E", 0, 1571157630, null, 1571157630, null, "{ }", "14B", "AM", "10072018", "28", "67º F, Cloudy", "Some", null, "Woodpecker", "Busy", null, "1", "3", null ]
+, [ "row-8xsn.ikhm.3ezx", "00000000-0000-0000-0A35-2E5A2496DAA1", 0, 1571157630, null, 1571157630, null, "{ }", "14B", "PM", "10142018", "222", "57º F, overcast", "Some", null, "Humans, Dogs, Rat, Ducks", "Calm, Busy", "Busy, calm off walkways", "1", "8", "22" ]
+, [ "row-mu9v-iy32~wn5w", "00000000-0000-0000-1584-365504987E76", 0, 1571157630, null, 1571157630, null, "{ }", "14C", "PM", "10062018", "25", "67º F, Gloomy, overcast", "Some", null, "Humans, Dogs, Pigeons", "Calm", null, "1", "3", "30" ]
+, [ "row-ay5w-rmpu-2ba3", "00000000-0000-0000-FF3C-0632B4848E89", 0, 1571157630, null, 1571157630, null, "{ }", "14C", "AM", "10072018", "254", "70º F, Cloudy", "Some", null, "Humans, Dogs", "Calm", null, "1", "0", "22" ]
+, [ "row-zgvq_yz3q-tpf6", "00000000-0000-0000-434B-C943675F69F0", 0, 1571157630, null, 1571157630, null, "{ }", "14D", "AM", "10142018", "116", "52º F, mostly cloudy", "None", null, "Humans, Dogs", "Calm", "Loud music from Bethesda Terrace", "1", "16", "55" ]
+, [ "row-yyng-yp3g-m8sr", "00000000-0000-0000-1505-459E3ACDC628", 0, 1571157630, null, 1571157630, null, "{ }", "14D", "PM", "10192018", "151", "60º F, Cloudy", "Some", null, "Humans, Dogs", "Busy", null, "1", "16", "35" ]
+, [ "row-e5ih.7n72-hqnp", "00000000-0000-0000-3EC8-C25B3901BAB3", 0, 1571157630, null, 1571157630, null, "{ }", "14E", "PM", "10172018", "80", "58º F, sunny, breezy", "None", null, "Humans, Dogs", "Calm", null, "1", "5", "25" ]
+, [ "row-pnm8~8qua-7432", "00000000-0000-0000-7586-BA36CD4D75C7", 0, 1571157630, null, 1571157630, null, "{ }", "14E", "AM", "10082018", "203", "65º F, fog, clouds, mist", "Some", null, "Humans", "Calm", null, "1", "23", "40" ]
+, [ "row-yy5a~vxz4.wepv", "00000000-0000-0000-4B5C-7A67ABA1C242", 0, 1571157630, null, 1571157630, null, "{ }", "14F", "PM", "10122018", "24", "61º F, sunny, windy", "Some", null, "Humans, Dogs", "Calm", null, "1", "9", "25" ]
+, [ "row-mgpz~bksq_spun", "00000000-0000-0000-6871-EAB7F44734E5", 0, 1571157630, null, 1571157630, null, "{ }", "14F", "AM", "10072018", "172", "73º F", "Some", null, "Humans, Dogs", "Calm", null, "1", "6", "29" ]
+, [ "row-g2tn-5jqc.mwzr", "00000000-0000-0000-CC83-095A7ED6C29E", 0, 1571157630, null, 1571157630, null, "{ }", "14G", "AM", "10122018", "37", "60º F, partly cloudy, windy", "None", null, "Humans, Dogs, Robins, Horses", "Calm", null, "1", "4", "20" ]
+, [ "row-fr2m~vg5k_zt4f", "00000000-0000-0000-2A1D-C3B23516463D", 0, 1571157630, null, 1571157630, null, "{ }", "14H", "PM", "10122018", "24", "61º F, sunny, windy, sun going behind trees", "Some", null, "Humans, Dogs (Lots)", "Busy", null, "1", "8", "20" ]
+, [ "row-xmrn-kj65-n9sn", "00000000-0000-0000-4110-6017BE67712F", 0, 1571157630, null, 1571157630, null, "{ }", "14H", "AM", "10072018", "235", "71-78º F, Cloudy", "Some", null, "Humans, Dogs, Mandarin Ducks", null, null, "1", "4", "25" ]
+, [ "row-5mai_audy_inw2", "00000000-0000-0000-EB42-05D514C70FCF", 0, 1571157630, null, 1571157630, null, "{ }", "14I", "PM", "10182018", "70", "40º F, Sunny", "Some", null, "Humans, Dogs, Pigeons, Rat", "Calm", null, "1", "6", "25" ]
+, [ "row-qr28~kgca.9va3", "00000000-0000-0000-E51E-976B7E8C647F", 0, 1571157630, null, 1571157630, null, "{ }", "14I", "AM", "10132018", "240", "~60º F, rainy", "None", null, "Humans, Dogs, Pigeons", "Calm, Busy", "Calm (in Park), Busy (on Road)", "1", "1", "21" ]
+, [ "row-jb9k_ztis~g9fb", "00000000-0000-0000-0271-22A667B4FB9D", 0, 1571157630, null, 1571157630, null, "{ }", "15A", "PM", "10172018", "224", "52º F, cloudy, light rain drops, chilly", "None", null, "Humans, Birds", "Calm, Busy", "Busy at sidewalk", "1", "1", "20" ]
+, [ "row-fxgq.ujcs-43py", "00000000-0000-0000-67DC-0EFB3CC93029", 0, 1571157630, null, 1571157630, null, "{ }", "15B", "PM", "10172018", "206", "cool, windy", "None", null, "Humans, Dogs, Birds", "Busy", null, "1", "5", "40" ]
+, [ "row-uva7_ee44_shy6", "00000000-0000-0000-74F3-9D3124F0B1C4", 0, 1571157630, null, 1571157630, null, "{ }", "15B", "AM", "10142018", "209", "50º F, sunny", "None", null, "Humans, Dogs", "Busy", null, "1", "3", "20" ]
+, [ "row-uuvz_k4wh~j6y2", "00000000-0000-0000-333F-44E88F219041", 0, 1571157630, null, 1571157630, null, "{ }", "15C", "AM", "10102018", "203", "74º F Muggy & cloudy", "None", null, "Humans, Dogs, Crickets", "Calm", null, "1", "3", "37" ]
+, [ "row-qa46_6mv2-darz", "00000000-0000-0000-563C-2BE49A9C2916", 0, 1571157630, null, 1571157630, null, "{ }", "15C", "PM", "10172018", "249", "got dark very suddenly", "Some", null, "mouse, Rats, Other birds", "Calm", null, "1", "5", "40" ]
+, [ "row-3be9~ggdc_dym6", "00000000-0000-0000-2984-3C6C122B6750", 0, 1571157630, null, 1571157630, null, "{ }", "15D", "PM", "10172018", "163", "61º F, partly cloudy, then some showers", "Some", null, "Humans, Birds, Mouse, Rat", "Calm", null, "1", "6", "31" ]
+, [ "row-22cj-fpec.ddyj", "00000000-0000-0000-8F04-934562F7AF84", 0, 1571157630, null, 1571157630, null, "{ }", "15E", "AM", "10132018", "132", "47º F, raining", "None", null, "Humans", "Calm", null, "1", "4", "20" ]
+, [ "row-vga6-efbw~ybae", "00000000-0000-0000-5697-B390BA78D956", 0, 1571157630, null, 1571157630, null, "{ }", "15E", "PM", "10082018", "203", "64º F, cloudy", "Some", null, "Humans", "Moderate", null, "1", "11", "33" ]
+, [ "row-2vxh_xbhw-dsiy", "00000000-0000-0000-EFFF-57DB2D17A3BB", 0, 1571157630, null, 1571157630, null, "{ }", "15F", "PM", "10102018", "60", "80º F Sunny", null, null, "Humans, Dogs", "Busy", null, "1", "7", "29" ]
+, [ "row-jnhk_wmhg-r7e4", "00000000-0000-0000-2FA3-8CACBCB4FAAF", 0, 1571157630, null, 1571157630, null, "{ }", "15F", "AM", "10072018", "145", "73º F, Cloudy", "None", null, "Humans, Dogs", "Calm", null, "1", "10", "30" ]
+, [ "row-tm3z.gdme_8vhz", "00000000-0000-0000-55E0-DB430570861E", 0, 1571157630, null, 1571157630, null, "{ }", "15G", "AM", "10082018", "67", "damp, misty, cloudy", "Some", null, "Humans, Dogs", "Busy", null, "1", "6", "23" ]
+, [ "row-w2xq-22d5_jptd", "00000000-0000-0000-A5FC-FF019959ED10", 0, 1571157630, null, 1571157630, null, "{ }", "15G", "PM", "10192018", "138", "60º F, Mostly Sunny + Slightly Breezy", "Some", null, "Humans, Dogs, Small birds", "Calm", null, "1", "12", "23" ]
+, [ "row-u55v~thz6_vus9", "00000000-0000-0000-ECD6-D576D4D04CE5", 0, 1571157630, null, 1571157630, null, "{ }", "15H", "AM", "10132018", "97", "49º F, light rain, cloudy", "None", null, "Humans, Dogs, Bluebird, Chickadees", "Calm", null, "1", "3", "27" ]
+, [ "row-bw93_vgzq-veke", "00000000-0000-0000-27F7-D900C5018A3A", 0, 1571157630, null, 1571157630, null, "{ }", "15H", "PM", "10082018", "244", "67º F, overcast, light breeze", "None", null, "Humans, Dogs", "Calm", null, "1", "7", "21" ]
+, [ "row-ypnj~un5f-a3bj", "00000000-0000-0000-76E5-B8EEEFA7109C", 0, 1571157630, null, 1571157630, null, "{ }", "15I", "AM", "10082018", "67", "damp, humid, cloudy, dreary, misty, not raining, moist", "Some", null, "Humans, Dogs, Sparrows, Crickets, Blue jay", "Busy", null, "1", "6", "29" ]
+, [ "row-ne99~i425_un76", "00000000-0000-0000-944C-B27E5396DC07", 0, 1571157630, null, 1571157630, null, "{ }", "16A", "AM", "10132018", "28", "rainy", null, null, "Humans, Dogs", "Calm", null, "1", "2", "23" ]
+, [ "row-r6b6~qqpq-srid", "00000000-0000-0000-F902-FBCDE06C4DA5", 0, 1571157630, null, 1571157630, null, "{ }", "16A", "PM", "10192018", "88", "58º F, Partly Cloudy", "None", null, "Humans, Dogs, Sparrows", "Calm", null, "1", "7", "20" ]
+, [ "row-pfgq_9dv7~6zpe", "00000000-0000-0000-ACA2-839CE855AF87", 0, 1571157630, null, 1571157630, null, "{ }", "16B", "PM", "10172018", "206", "cool, windy", "None", null, "Humans, Dogs, Birds", "Busy", null, "1", "2", null ]
+, [ "row-yuxv~bxcm~fefk", "00000000-0000-0000-2F82-3F1108319B79", 0, 1571157630, null, 1571157630, null, "{ }", "16B", "AM", "10142018", "209", "50º F, sunny", "None", null, "Humans, Dogs", "Busy", null, "1", "2", "19" ]
+, [ "row-dk9r-8c7r.n6x6", "00000000-0000-0000-80CA-F12E713B5968", 0, 1571157630, null, 1571157630, null, "{ }", "16C", "PM", "10182018", "1", "51º F, Dry and Clear", "Some", null, "Humans, Birds (unknown), Chipmunk", "Busy", null, "1", "3", "24" ]
+, [ "row-gi8e.f49p.rydp", "00000000-0000-0000-9CDC-05FE26D2A8A6", 0, 1571157630, null, 1571157630, null, "{ }", "16C", "AM", "10142018", "172", "50º F, partly cloudy", "Some", null, "Humans, Dogs", "Calm", null, "1", "4", "43" ]
+, [ "row-xqs8~ukbz_str2", "00000000-0000-0000-C7D4-2AFD85219285", 0, 1571157630, null, 1571157630, null, "{ }", "16D", "PM", "10102018", "203", "76º F, Sunny, occasional breezes", "None", null, "Humans, Dogs, Butterflies", "Moderate", null, "1", "13", "28" ]
+, [ "row-p9u5-x7en~r738", "00000000-0000-0000-F406-124D16AB92A4", 0, 1571157630, null, 1571157630, null, "{ }", "16D", "AM", "10072018", "254", "70º F, Cloudy", "Abundant", null, "Humans", "Calm", null, "1", "6", "21" ]
+, [ "row-3tc3_39jd_auak", "00000000-0000-0000-1427-70088B679F47", 0, 1571157630, null, 1571157630, null, "{ }", "16E", "AM", "10142018", "35", "50º F, sunny", "Abundant", null, "Humans, Dogs, Yoga Class", "Calm", null, "1", "10", "40" ]
+, [ "row-qiyq_xph6~u5dc", "00000000-0000-0000-82B6-86862C60189D", 0, 1571157630, null, 1571157630, null, "{ }", "16E", "PM", "10182018", "267", "48º F, Partly Cloudly", "Some", null, "Humans", "Busy", null, "1", "10", "35" ]
+, [ "row-di7z-e2fk.nzqc", "00000000-0000-0000-DACA-72E4FCFADC66", 0, 1571157630, null, 1571157630, null, "{ }", "16F", "PM", "10132018", "85", "55º F, clouds", "Some", null, "Humans, Dogs, Raccoon (Dead)", "Busy", null, "1", "6", "46" ]
+, [ "row-2e4v.xi9x_p7w8", "00000000-0000-0000-BE05-39C4D1CE84A0", 0, 1571157630, null, 1571157630, null, "{ }", "16F", "AM", "10082018", "149", "68º F, moist", "Some", null, "Humans", "Calm", null, "1", "3", "30" ]
+, [ "row-cung-h4ub~i88a", "00000000-0000-0000-6D26-C5E29B4A635E", 0, 1571157630, null, 1571157630, null, "{ }", "16G", "AM", "10102018", "37", "70º F Muggy and partly cloudy", "None", null, "Humans, Dogs, Sparrows", "Busy", null, "1", "5", "20" ]
+, [ "row-iwa7-tgna-8c7n", "00000000-0000-0000-1258-5677E1D6EE74", 0, 1571157630, null, 1571157630, null, "{ }", "16G", "PM", "10172018", "104", "62º F, sunny, light breeze", "Some", null, "Humans, Dogs", "Busy", null, "1", "1", "25" ]
+, [ "row-e7er_zbvd-wcz6", "00000000-0000-0000-D295-331966D29DB2", 0, 1571157630, null, 1571157630, null, "{ }", "16H", "AM", "10072018", "172", "72º F, Overcast", "None", null, "Humans, Dogs", "Calm", "Calm, but lots of dogs", "1", "1", "20" ]
+, [ "row-sacy_639k_mwet", "00000000-0000-0000-5A91-899D11477992", 0, 1571157630, null, 1571157630, null, "{ }", "16I", "AM", "10082018", "149", "70º F, moist", "Some", null, "Humans", "Calm", null, "1", "4", "25" ]
+, [ "row-7qck~sc6s-zcha", "00000000-0000-0000-446B-FB4BD8D2445E", 0, 1571157630, null, 1571157630, null, "{ }", "17A", "PM", "10132018", "141", "50s, sunny", "None", null, "Humans", "Busy", null, "1", "3", "20" ]
+, [ "row-rf8t_d48g-vhyk", "00000000-0000-0000-C415-9A92690BD122", 0, 1571157630, null, 1571157630, null, "{ }", "17A", "AM", "10172018", "255", "Low 50s, cool & sunny", "Some", null, "Humans, Dogs, Pigeons, other Birds", "Busy", null, "1", "1", "25" ]
+, [ "row-4ffv_qq8g_4epf", "00000000-0000-0000-5249-98BCDD06FC19", 0, 1571157630, null, 1571157630, null, "{ }", "17B", "PM", "10122018", "29", "60º F, Breezy", "None", null, "Humans, Dogs, Mouse or Baby Rat", "Busy", null, "1", "3", "22" ]
+, [ "row-xii4.yh3m.8d53", "00000000-0000-0000-DEDE-B56F36FF0878", 0, 1571157630, null, 1571157630, null, "{ }", "17B", "AM", "10102018", "166", "73º F, Sunny", "None", null, "Humans, Dogs, Pigeons", "Busy", null, "1", "3", "20" ]
+, [ "row-xvk7-gef5-x8z4", "00000000-0000-0000-D37F-E8190DFA0B7B", 0, 1571157630, null, 1571157630, null, "{ }", "17C", "PM", "10132018", "141", "50s, sunny", "None", null, "Humans", "Busy", null, "1", "5", "25" ]
+, [ "row-gwi8~r4av_a8xx", "00000000-0000-0000-3EC9-AD20C1EEB99C", 0, 1571157630, null, 1571157630, null, "{ }", "17D", "PM", "10082018", "184", "66º F, misty, cloudy , humid", "None", null, "Humans", "Calm", null, "1", "0", "10" ]
+, [ "row-kdc9-rku4.reni", "00000000-0000-0000-A44A-A4C36A102056", 0, 1571157630, null, 1571157630, null, "{ }", "17D", "AM", "10082018", "184", "67º F, misty, cloudy, humid", "None", null, "Humans, Dogs", "Calm", null, "1", "7", "20" ]
+, [ "row-3kuw~ik24_mrn7", "00000000-0000-0000-317D-CC6545EF10A0", 0, 1571157630, null, 1571157630, null, "{ }", "17E", "PM", "10182018", "178", "73º F", "Some", null, "Humans, Cats", "Moderate", "Partially blocked due to contruction", "1", "3", "20" ]
+, [ "row-dyr5-tzwq-8sbt", "00000000-0000-0000-B6F2-F02537495BA9", 0, 1571157630, null, 1571157630, null, "{ }", "17E", "AM", "10172018", "247", "55º F, Sunny", "None", null, "Birds, Ducks", "Calm", null, "1", "11", "35" ]
+, [ "row-ip2i.cmsd-vhdk", "00000000-0000-0000-08AD-69BE9FEE3B13", 0, 1571157630, null, 1571157630, null, "{ }", "17F", "PM", "10202018", "128", "61º F, Clear Sky", null, null, "Humans", null, null, "1", "6", null ]
+, [ "row-yain_4ze9~7ea5", "00000000-0000-0000-802E-C13A26886B72", 0, 1571157630, null, 1571157630, null, "{ }", "17F", "AM", "10072018", "173", "70º F, Cloudy", "None", null, "Humans, Dogs", "Moderate", null, "1", "7", "50" ]
+, [ "row-jzih~i4yr_wkwx", "00000000-0000-0000-93B2-3CCEE003DB5F", 0, 1571157630, null, 1571157630, null, "{ }", "17G", "AM", "10182018", "76", "40º F, Windy, Clear", "Some", null, "Humans, Dogs", "Busy", null, "1", "1", "24" ]
+, [ "row-wzuc~v3wn-53hc", "00000000-0000-0000-C486-3D1AED3EBBCA", 0, 1571157630, null, 1571157630, null, "{ }", "17G", "PM", "10172018", "104", "62º F, Sunny, light breeze & light sprinkle later on", "None", null, "Humans, Dogs, Other birds", "Busy", null, "1", "4", "25" ]
+, [ "row-jvrp-b7gy-nrzz", "00000000-0000-0000-02DD-5AD3D40AAC66", 0, 1571157630, null, 1571157630, null, "{ }", "17H", "PM", "10072018", "87", "79º F, Cloudy", "None", null, "Humans, Dogs", "Busy", null, "1", "2", "20" ]
+, [ "row-fce4_3gar-5cej", "00000000-0000-0000-341A-D03643F5FE9E", 0, 1571157630, null, 1571157630, null, "{ }", "17H", "AM", "10102018", "255", "70º F, Humid and partly sunny", "Some", null, "Humans, Dogs, Robin", "Moderate", null, "1", "0", "25" ]
+, [ "row-jayn~hnse~b28p", "00000000-0000-0000-98E7-519FF83C1786", 0, 1571157630, null, 1571157630, null, "{ }", "17I", "PM", "10172018", "202", "62º F, cloudy, windy", "Abundant", null, "Humans, Dogs, Pigeons, Cats", "Busy", null, "1", "1", "20" ]
+, [ "row-h3tf.bcxe~9eq2", "00000000-0000-0000-46E0-FD703B9D5A79", 0, 1571157630, null, 1571157630, null, "{ }", "17I", "AM", "10142018", "230", "49º F, calm & crisp", "Some", null, "Humans, Dogs", "Busy", "With street noise", "1", "4", "27" ]
+, [ "row-m2ba_hmaz-bqzz", "00000000-0000-0000-02F4-A8DD5096D0B9", 0, 1571157630, null, 1571157630, null, "{ }", "18A", "PM", "10182018", "69", "49º F, Clear", "Some", null, "Dogs, Robins, Mourning Dove, Sparrow", "Busy", null, "1", "1", "20" ]
+, [ "row-546e-k6n4.7ur6", "00000000-0000-0000-1413-809F84D0FFC6", 0, 1571157630, null, 1571157630, null, "{ }", "18A", "AM", "10122018", "211", "58º F, cloudy, very windy", "Some", null, "Humans, Dogs, Robins, Blue jays", "Calm", null, "1", "2", "30" ]
+, [ "row-grsy-8xin~ye4a", "00000000-0000-0000-4748-95EA39032258", 0, 1571157630, null, 1571157630, null, "{ }", "18B", "PM", "10182018", "95", "Sunny, Windy, Cool", null, null, null, null, null, "1", "0", "30" ]
+, [ "row-yyye.ihhk.h65m", "00000000-0000-0000-C0E6-DDD0A2350A89", 0, 1571157630, null, 1571157630, null, "{ }", "18B", "AM", "10172018", "247", "57º F, sunny", "None", null, null, "Calm", null, "1", "0", "20" ]
+, [ "row-7fqt_asej-gw72", "00000000-0000-0000-7FBF-C5C68FC942C1", 0, 1571157630, null, 1571157630, null, "{ }", "18C", "PM", "10182018", "95", null, "None", null, "Humans, Dogs", "Busy", null, "1", "9", "40" ]
+, [ "row-ayi5.qvvh~g7j7", "00000000-0000-0000-DA2C-20CE03871216", 0, 1571157630, null, 1571157630, null, "{ }", "18C", "AM", "10182018", "224", "40º F, Cold, Sunny, Windy", "None", null, "Humans, Dogs, Birds (lots)", "Moderate", null, "1", "2", "20" ]
+, [ "row-n7xc-d38a_356v", "00000000-0000-0000-E6DB-0E81ED25C6F2", 0, 1571157630, null, 1571157630, null, "{ }", "18D", "PM", "10172018", "138", "63º F, mostly sunny, off-&-on windy", "Some", null, "Humans, Dogs, Small birds", "Calm", null, "1", "1", "20" ]
+, [ "row-hmy6.cyz4~6c8j", "00000000-0000-0000-CA56-1C92A5E66298", 0, 1571157630, null, 1571157630, null, "{ }", "18E", "PM", "10062018", "114", "65º F, drizzly", null, null, "Humans, Dogs", "Busy", null, "1", "1", "21" ]
+, [ "row-62hm~zjkm~6j5s", "00000000-0000-0000-6163-8737307BDDE7", 0, 1571157630, null, 1571157630, null, "{ }", "18E", "AM", "10122018", "211", "58º F, cloudy, very windy", "None", null, "Humans, Dogs, Robins (Many)", "Calm", null, "1", "0", "23" ]
+, [ "row-j36r~zw4a-rsca", "00000000-0000-0000-DFDC-B20F6E207412", 0, 1571157630, null, 1571157630, null, "{ }", "18G", "PM", "10132018", "203", "49º F, breezy, partly cloudy", "None", null, "Humans, Dogs", null, null, "1", "4", "20" ]
+, [ "row-q29y~v352_53ec", "00000000-0000-0000-4DA8-A58AD8144A4E", 0, 1571157630, null, 1571157630, null, "{ }", "18H", "PM", "10142018", "201", "58º F, cool", "None", null, "Humans", "Busy", null, "1", "3", "20" ]
+, [ "row-jven_5dze_iasm", "00000000-0000-0000-8AEA-2D92EFFEF533", 0, 1571157630, null, 1571157630, null, "{ }", "18H", "AM", "10182018", "239", "44º F, Sunny, Clear Sky, Gusty", "None", null, "Humans", "Calm", null, "1", "2", "25" ]
+, [ "row-7yy8~arit~t8yg", "00000000-0000-0000-A299-FAD5DCEFE342", 0, 1571157630, null, 1571157630, null, "{ }", "18I", "AM", "10172018", "37", "50º F, sunny", "Abundant", null, "Humans, Dogs", "Calm", null, "1", "3", "20" ]
+, [ "row-t3tp_ckg9.7ux7", "00000000-0000-0000-AB91-CF01EFC16788", 0, 1571157630, null, 1571157630, null, "{ }", "18I", "PM", "10072018", "220", "79º F, Partly Cloudy", null, null, "Humans, Dogs, Pigeons", "Busy", null, "1", "9", "20" ]
+, [ "row-dcdx_7cqu_mpe4", "00000000-0000-0000-809A-3B039C312F74", 0, 1571157630, null, 1571157630, null, "{ }", "19A", "PM", "10132018", "13", "~Low 50s, cold, partly cloudy, sunshine", "Some", "1 reusable bag", "Humans, Dogs, Sparrows, Blue Finch-like Birds, Robins, Blackbirds", "Busy", null, "1", "6", "26" ]
+, [ "row-qifq.t5pm.kycv", "00000000-0000-0000-1F98-D147B6953AB3", 0, 1571157630, null, 1571157630, null, "{ }", "19A", "AM", "10132018", "209", "50º F, rain", "None", null, null, "Calm", "Calm (in Park), Traffic", "1", "0", "18" ]
+, [ "row-chqd_stpj~akcg", "00000000-0000-0000-8C85-686F3EE87E79", 0, 1571157630, null, 1571157630, null, "{ }", "19B", "AM", "10192018", "148", "46º F", "Some", null, "Humans, Dogs, Birds, but less Robins, Sparrows, Crows, Sterlings, Doves", "Busy", null, "1", "2", "25" ]
+, [ "row-ctqq_x4dm~s9hs", "00000000-0000-0000-0088-D7A111F355DE", 0, 1571157630, null, 1571157630, null, "{ }", "19C", "AM", "10192018", "148", "46º F, Sunny Breezy", "Some", null, "Humans, Dogs, Robins, starling, Mourning dove, Finches, Sparrows", "Busy", null, "1", "0", "25" ]
+, [ "row-bdrg.hgin.xbnq", "00000000-0000-0000-C148-F6F4E70D345B", 0, 1571157630, null, 1571157630, null, "{ }", "19D", "AM", "10072018", "252", "69º F", "None", null, "Humans, Dogs", "Busy", "Busy on path", "1", "2", "20" ]
+, [ "row-hyqz-c8fg-ynak", "00000000-0000-0000-ECC6-9B7DDD0A9FAC", 0, 1571157630, null, 1571157630, null, "{ }", "19D", "PM", "10082018", "266", "68º F, misty", "None", null, "Humans, Blue jays, Cardinals, Sparrows, Titmice", "Moderate", null, "1", "3", "20" ]
+, [ "row-wp3p-epdp-imgu", "00000000-0000-0000-E616-861964697C67", 0, 1571157630, null, 1571157630, null, "{ }", "19E", "PM", "10182018", "69", "49º F, Clear", "None", null, "Dogs", "Calm", null, "1", "5", "30" ]
+, [ "row-9hqg~gwym.55wv", "00000000-0000-0000-E440-43E017C15054", 0, 1571157630, null, 1571157630, null, "{ }", "19E", "AM", "10072018", "252", "69º F, Cloudy. A bit humid", "None", null, "Dogs", "Busy", "Busy on suncuncting(?) path", "1", "0", "20" ]
+, [ "row-bp98~u34h_an3d", "00000000-0000-0000-68BD-72545D790D24", 0, 1571157630, null, 1571157630, null, "{ }", "19F", "PM", "10172018", "151", "63º F, windy, cloudy", null, null, "Humans, Dogs", "Calm", null, "1", "7", "30" ]
+, [ "row-66d5~mqxq_2vnn", "00000000-0000-0000-98B1-82CC2E08484D", 0, 1571157630, null, 1571157630, null, "{ }", "19F", "AM", "10072018", "173", "29º C, Cloudy", "None", null, "Dogs", "Calm", null, "1", "3", "50" ]
+, [ "row-wzm5_gyzn_7egc", "00000000-0000-0000-C6A5-E5BA793AC419", 0, 1571157630, null, 1571157630, null, "{ }", "19G", "AM", "10182018", "17", "43º F, Sunny", "Some", null, "Humans, Dogs", "Busy", null, "1", "0", "25" ]
+, [ "row-k7ta~i82g-didt", "00000000-0000-0000-6B8E-713EDF09425A", 0, 1571157630, null, 1571157630, null, "{ }", "19G", "PM", "10172018", "202", "62º F, Partly Cloudy, very windy (attacked by flying leaves kind)", "None", null, "Humans, Dogs", "Busy", null, "1", "3", "24" ]
+, [ "row-8ks9~ts3k_q4dc", "00000000-0000-0000-3E3A-3BB216223CDA", 0, 1571157630, null, 1571157630, null, "{ }", "19H", "AM", "10102018", "255", "70º F, Humid and cloudy", "None", null, "Humans, Dogs", "Moderate", null, "1", "5", "20" ]
+, [ "row-juf8.kqd2_ph7a", "00000000-0000-0000-A0F8-47723902DBBC", 0, 1571157630, null, 1571157630, null, "{ }", "19I", "PM", "10172018", "151", "63º F, Breezy, Sunny", "None", null, "Humans, Pigeons", "Busy", null, "1", "0", "20" ]
+, [ "row-vgxe-tsug-zhrj", "00000000-0000-0000-8B6E-089E3F6138BC", 0, 1571157630, null, 1571157630, null, "{ }", "19I", "AM", "10172018", "166", "51º F, sunny, windy", "None", null, "Humans, Dogs", "Busy", null, "1", "0", "20" ]
+, [ "row-zqzn_rbsx.5jus", "00000000-0000-0000-B8AD-0E8E84675B99", 0, 1571157630, null, 1571157630, null, "{ }", "20A", "PM", "10172018", "138", "63º F, sunny then cloudy, wind gusts, a few raindrops", "Some", null, "Humans, Dogs, Small birds", "Calm", null, "1", "1", "23" ]
+, [ "row-yzn7.52rc_b4wk", "00000000-0000-0000-72A9-DBF9953113A4", 0, 1571157630, null, 1571157630, null, "{ }", "20A", "AM", "10102018", "166", "73º F, Cloudy and humid", "Some", null, "Humans, Dogs, Pigeons, Birds", "Calm", null, "1", "2", "20" ]
+, [ "row-gxkm~pumu_xejx", "00000000-0000-0000-8B25-894B0BB37A01", 0, 1571157630, null, 1571157630, null, "{ }", "20B", "PM", "10132018", "13", "Low 50s, cold", "Some", "1 piece of plastic", "Humans, Dogs, Pigeons, Robins, Blackbirds, Sparrows", "Busy", null, "1", "10", "22" ]
+, [ "row-d3w5_hyf9~7vbi", "00000000-0000-0000-71CB-4347F412EAF3", 0, 1571157630, null, 1571157630, null, "{ }", "20B", "AM", "10072018", "82", "70º F, Drizzly. Overcast.", "None", null, "Humans, Robin, Seagulls - lots flying high.", "Calm", null, "1", "3", "20" ]
+, [ "row-7n49.chz3_ipad", "00000000-0000-0000-5987-4485237BB4A4", 0, 1571157630, null, 1571157630, null, "{ }", "20C", "AM", "10182018", "94", "Sunny, Blue Sky", "None", null, "Humans, Dogs, Small birds", "Busy", null, "1", "0", "23" ]
+, [ "row-fke2.mv4d_neh6", "00000000-0000-0000-A0DA-5DBFC34D13A4", 0, 1571157630, null, 1571157630, null, "{ }", "20C", "PM", "10182018", "178", "76º F, Sunny", "None", null, "Humans, Dogs", "Busy", null, "1", "9", "25" ]
+, [ "row-hty6_4e3v-ypky", "00000000-0000-0000-B9F8-2AE2BCDFC55C", 0, 1571157630, null, 1571157630, null, "{ }", "20D", "PM", "10142018", "45", "57º F, overcast", "None", null, "Humans, Dogs", "Busy", "Great lawn, (2/3 of this hectare fenced off for the season)", "1", "1", "20" ]
+, [ "row-kzy2.ch8n_95ed", "00000000-0000-0000-BB59-B7186DFAB831", 0, 1571157630, null, 1571157630, null, "{ }", "20D", "AM", "10072018", "82", "70º F", "None", null, "Humans, Dogs, Pigeons, Seagulls (3), Butterfly", "Busy", null, "1", "2", "25" ]
+, [ "row-zt8e~e5ud-kcu4", "00000000-0000-0000-A60E-2F670762A895", 0, 1571157630, null, 1571157630, null, "{ }", "20E", "AM", "10142018", "132", "49º F, sunny", "None", null, "Humans, Dogs, Jays", "Busy", "Lots of dogs off leash", "1", "2", "20" ]
+, [ "row-vdp3-ukwt-88j5", "00000000-0000-0000-0864-0A4874B873FE", 0, 1571157630, null, 1571157630, null, "{ }", "20F", "PM", "10072018", "132", "78º F, Humid. Sunny. Filtered by trees", "None", null, "Humans, Dogs, Sparrows, Robins", "Moderate", null, "1", "14", "20" ]
+, [ "row-8dju-8cm7_e9tq", "00000000-0000-0000-E827-F38677203D22", 0, 1571157630, null, 1571157630, null, "{ }", "20F", "AM", "10142018", "230", "49º F, calm & crisp", "Some", null, "Humans, Dogs, Small birds", "Busy", null, "1", "3", "23" ]
+, [ "row-nxrf.hdjn_6mqg", "00000000-0000-0000-BE80-B1C3361B3ADE", 0, 1571157630, null, 1571157630, null, "{ }", "20G", "AM", "10182018", "17", "43º F, Partly Sunny, Breezy", "Some", null, "Humans, Hawks, Dogs", "Busy", null, "1", "3", "30" ]
+, [ "row-bu37-ueua_5zu4", "00000000-0000-0000-A915-C3090CE768FE", 0, 1571157630, null, 1571157630, null, "{ }", "20G", "PM", "10132018", "78", "54º F, cloudy", "None", null, "Humans, Dogs, Pigeons, Robins", "Busy", null, "1", "3", "20" ]
+, [ "row-f5zs-u5ib_vtnr", "00000000-0000-0000-2263-2CACD03C983F", 0, 1571157630, null, 1571157630, null, "{ }", "20H", "PM", "10132018", "203", "49º F, partly cloudy", null, null, "Humans, Dogs", "Calm", null, "1", "0", "23" ]
+, [ "row-ncw5~ss3g-f7er", "00000000-0000-0000-333D-142426FB7290", 0, 1571157630, null, 1571157630, null, "{ }", "20H", "AM", "10142018", "240", "55º F, partly sunny", "None", null, null, "Busy", "Construction site: no access until 2022", "1", "0", "22" ]
+, [ "row-47z7-zyx6-467g", "00000000-0000-0000-914D-762F38FBBD73", 0, 1571157630, null, 1571157630, null, "{ }", "20I", "PM", "10182018", "70", "40º F, Sunny, Windy", "None", null, "Humans, Dogs, Pigeons", "Busy", null, "1", "0", "19" ]
+, [ "row-3wwm-uxfv.fecp", "00000000-0000-0000-C484-C87C81D2E4E6", 0, 1571157630, null, 1571157630, null, "{ }", "20I", "AM", "10172018", "166", "51º F, sunny, windy", "None", null, "Humans, Dogs", "Busy", null, "1", "0", "20" ]
+, [ "row-aatc_uv27.8pxp", "00000000-0000-0000-3858-140B67A69B3C", 0, 1571157630, null, 1571157630, null, "{ }", "21B", "PM", "10172018", "194", "77º F, with some breeze", "Some", null, "Humans, Pigeons, Birds", "Busy", "Kids playing soccer", "1", "5", "20" ]
+, [ "row-tx4n.qcgv.2m5x", "00000000-0000-0000-EFFF-ED5262F17625", 0, 1571157630, null, 1571157630, null, "{ }", "21C", "AM", "10142018", "216", "54º F, partly cloudy", "Some", null, "Humans, Dogs", "Busy", null, "1", "5", "23" ]
+, [ "row-2jcc_tgu3_7s2t", "00000000-0000-0000-7544-B81505DC3E74", 0, 1571157630, null, 1571157630, null, "{ }", "21D", "PM", "10082018", "266", "68º F, misty", "Some", null, "Humans, Dogs, Chimney swifts, Blue jay", "Busy", null, "1", "6", "20" ]
+, [ "row-cuxb.fakw-u4ce", "00000000-0000-0000-CFD3-345B278B7BB2", 0, 1571157630, null, 1571157630, null, "{ }", "21E", "PM", "10122018", "16", "61º F, sunny", "None", null, "Bird", "Calm", "Empty, Roped Off", "1", "2", "22" ]
+, [ "row-82k5.mmch~bpuj", "00000000-0000-0000-D094-2387EDE1A07C", 0, 1571157630, null, 1571157630, null, "{ }", "21E", "AM", "10172018", "255", "low 50s, cool & sunny", "None", null, "Humans, Dogs, Pigeons", "Calm", null, "1", "3", "20" ]
+, [ "row-ysmb~e9pn.4m2m", "00000000-0000-0000-6619-A53C80E91BE7", 0, 1571157630, null, 1571157630, null, "{ }", "21F", "PM", "10182018", "76", "50º F, Light wind, Clear", "Some", null, "Humans, Dogs", "Busy", null, "1", "3", "25" ]
+, [ "row-p22e.uem8_hzwt", "00000000-0000-0000-A032-E1BF0F8EAAB9", 0, 1571157630, null, 1571157630, null, "{ }", "21F", "AM", "10182018", "166", "44º F, Sunny, Windy", "None", null, "Humans, Dogs, Robins", "Busy", null, "1", "8", "20" ]
+, [ "row-jgm5-e9v8.qt9a", "00000000-0000-0000-02F6-A035F74BF110", 0, 1571157630, null, 1571157630, null, "{ }", "21G", "PM", "10072018", "87", "79º F, Some clouds", "None", null, "Humans, Dogs", "Busy", null, "1", "4", "25" ]
+, [ "row-zzve.2wbr~xxfn", "00000000-0000-0000-E342-5FBA9C4CB2FD", 0, 1571157630, null, 1571157630, null, "{ }", "21G", "AM", "10142018", "240", "55º F, partly sunny", "Some", null, "Humans, Dogs, Sparrows", "Busy", null, "1", "7", "25" ]
+, [ "row-zgzs_qwzv~s25f", "00000000-0000-0000-A5CD-D57089091F94", 0, 1571157630, null, 1571157630, null, "{ }", "21H", "AM", "10172018", "37", "50º F, Sunny", "Some", null, "Humans, Dogs", "Busy", null, "1", "2", "20" ]
+, [ "row-d8tx-m7cu-9y4r", "00000000-0000-0000-0E70-9CEAC8062B3C", 0, 1571157630, null, 1571157630, null, "{ }", "21H", "PM", "10182018", "267", "52º F, Clear, Windy", "Some", null, "Humans, Woodpecker", "Calm", null, "1", "4", "15" ]
+, [ "row-7x87~32hu-4i5n", "00000000-0000-0000-8EA7-86E7D2C4086A", 0, 1571157630, null, 1571157630, null, "{ }", "21I", "AM", "10182018", "37", "44º F, Sunny", "Abundant", null, "Humans, Dogs, Pigeons", "Calm, Busy", "Busy near street, near empty on the playground.", "1", "0", "20" ]
+, [ "row-sbhm_e925_xhjt", "00000000-0000-0000-DB85-BAEF7C5971AE", 0, 1571157630, null, 1571157630, null, "{ }", "21I", "PM", "10132018", "205", "55º F, partly cloudy (sundown)", "Some", null, "Humans, Dogs, Sparrows, Migratory birds (a distant V of 30-40 going south)", "Busy", null, "1", "0", "20" ]
+, [ "row-67aw~mb4f-8r79", "00000000-0000-0000-0BDA-4A225BECB39A", 0, 1571157630, null, 1571157630, null, "{ }", "22A", "PM", "10172018", "194", "75º F, with some breeze", "None", null, "Humans, Dogs", "Busy", "A lot of traffic noise", "1", "3", "25" ]
+, [ "row-szyg.u4zd_viic", "00000000-0000-0000-2890-038434971916", 0, 1571157630, null, 1571157630, null, "{ }", "22B", "AM", "10132018", "2", "~58º F, wet, drizzle", "Some", null, "Humans, Dogs", "Calm", null, "1", "5", "30" ]
+, [ "row-pv2u-qu89~nivu", "00000000-0000-0000-EA60-1DD25E4E214B", 0, 1571157630, null, 1571157630, null, "{ }", "22B", "PM", "10142018", "75", "50º F, Cloudy", "Some", null, "Humans, Dogs, Woodpecker, Blue jay, Robins", "Busy", null, "1", "7", "20" ]
+, [ "row-kha6_g2za-6u5c", "00000000-0000-0000-E49C-A0B4204D02E0", 0, 1571157630, null, 1571157630, null, "{ }", "22C", "AM", "10132018", "209", "50º F, rain", "None", null, "Humans, Dogs", "Calm", null, "1", "3", "17" ]
+, [ "row-jxva-re2g-mtww", "00000000-0000-0000-AE47-AAC27548E6AF", 0, 1571157630, null, 1571157630, null, "{ }", "22D", "PM", "10122018", "16", "61º F, sunny", "None", null, "Humans, Pigeons, Sparrows", "Calm, Busy", null, "1", "7", "26" ]
+, [ "row-gykr_dmi9~zn95", "00000000-0000-0000-9957-F6E59D601DE4", 0, 1571157630, null, 1571157630, null, "{ }", "22D", "AM", "10082018", "184", "67º F, misty, cloudy, humid", "None", null, "Humans, Dogs", "Calm", null, "1", "0", "35" ]
+, [ "row-xqe8.ziz8-ginm", "00000000-0000-0000-9680-13AA853D12F1", 0, 1571157630, null, 1571157630, null, "{ }", "22E", "PM", "10142018", "75", "50º F", "None", null, null, "Calm", null, "1", "2", "20" ]
+, [ "row-tpmj.bfu6~8acy", "00000000-0000-0000-6E50-C5DEF2F0E11D", 0, 1571157630, null, 1571157630, null, "{ }", "22E", "AM", "10182018", "224", "40s, Cold, Sunny, Windy", "None", null, "Humans, Dogs, Birds", "Calm", null, "1", "0", "20" ]
+, [ "row-qx7x~avr9_6wwd", "00000000-0000-0000-AC83-691E01429A13", 0, 1571157630, null, 1571157630, null, "{ }", "22F", "PM", "10142018", "201", "58º F, cool", null, null, "Humans", "Busy", null, "1", "8", "20" ]
+, [ "row-8uc3-kgu8_9ka8", "00000000-0000-0000-434B-E708EECCA5B5", 0, 1571157630, null, 1571157630, null, "{ }", "22G", "AM", "10182018", "76", "40º F, Windy, Clear", "None", null, "Humans, Dogs", "Medium", null, "1", "5", "24" ]
+, [ "row-yvt9_swgh_28tu", "00000000-0000-0000-A63B-DEFB54274412", 0, 1571157630, null, 1571157630, null, "{ }", "22G", "PM", "10182018", "215", "53º F, Sunny", "Some", null, "Humans, Dogs, Birds", "Busy", null, "1", "3", "25" ]
+, [ "row-36a5.jh4t_2xrn", "00000000-0000-0000-9FB5-DF00EFAC2239", 0, 1571157630, null, 1571157630, null, "{ }", "22H", "AM", "10182018", "37", "44º F, Sunny, Windy", null, null, "Humans, Dogs, Pigeons", "Busy", null, "1", "0", "20" ]
+, [ "row-33nf_v4ch_7nsv", "00000000-0000-0000-B975-E930B5DFA5D5", 0, 1571157630, null, 1571157630, null, "{ }", "22H", "PM", "10072018", "132", "78º F, More overcast", "Some", null, "Humans, Dogs, Rats, Sparrows", "Busy", null, "1", "4", "20" ]
+, [ "row-ry6q.smgm-3g3y", "00000000-0000-0000-AE52-D39745269E21", 0, 1571157630, null, 1571157630, null, "{ }", "22I", "PM", "10132018", "78", "55º F, partly cloudy", "Some", null, "Humans, Dogs, Pigeons, Birds (galore: House sparrows, House finch, Blue jay, etc.)", "Busy", null, "1", "0", "20" ]
+, [ "row-m2zv~ue2f.dtwi", "00000000-0000-0000-C7E7-A223ACBB0411", 0, 1571157630, null, 1571157630, null, "{ }", "23A", "AM", "10182018", "94", "Sunny", "None", null, "Humans, Dogs", "Calm", null, "1", "5", "25" ]
+, [ "row-uj7v.eey2.eqph", "00000000-0000-0000-4C52-69335360C51C", 0, 1571157630, null, 1571157630, null, "{ }", "23B", "PM", "10122018", "29", "60º F, Breezy", "None", null, "Humans, Dogs, Robins, Jays", "Busy", null, "1", "7", "26" ]
+, [ "row-yccj_rahe-yjn7", "00000000-0000-0000-254C-8E87F38B9AEA", 0, 1571157630, null, 1571157630, null, "{ }", "23B", "AM", "10192018", "57", "48º F, Chilly, Mild", "None", null, "Humans, Dogs, Falcons", "Moderate", null, "1", "0", "24" ]
+, [ "row-ar4g_986s-sftw", "00000000-0000-0000-E5F9-CB70617E0B6B", 0, 1571157630, null, 1571157630, null, "{ }", "23C", "PM", "10142018", "45", "57º F, overcast", "Some", null, "Humans, Dogs, Horse (saw droppings)", "Busy", "Lots of foot and bike traffic on paths", "1", "4", "21" ]
+, [ "row-qa38~tzg4_cznd", "00000000-0000-0000-C555-893C6DAE8631", 0, 1571157630, null, 1571157630, null, "{ }", "23C", "AM", "10192018", "57", "48º F, Chilly, Mild", "None", null, "Humans, Dogs, Falcons", "Busy", "Noisy", "1", "1", "23" ]
+, [ "row-7san_i9jd-jiwz", "00000000-0000-0000-D58D-B2008213544B", 0, 1571157630, null, 1571157630, null, "{ }", "23D", "AM", "10132018", "2", "~56º F, drizzle", "None", null, "Humans, Dogs, Ducks", "Busy", null, "1", "1", "25" ]
+, [ "row-vz3c_ev43-yc7m", "00000000-0000-0000-C242-1CFC22ED5A0E", 0, 1571157630, null, 1571157630, null, "{ }", "23E", "AM", "10142018", "216", "54º F, partly cloudy", "Some", null, "Humans, Dogs, Birds", "Busy", null, "1", "0", "27" ]
+, [ "row-tfjj_hpgu_v3wg", "00000000-0000-0000-09FE-DDF74348A1A4", 0, 1571157630, null, 1571157630, null, "{ }", "23E", "PM", "10062018", "265", "drizzling, cloudy", "Some", null, "Humans, Dogs, Pigeons, Small birds", "Calm", null, "1", "1", "35" ]
+, [ "row-4cb3-t5bb-txyh", "00000000-0000-0000-5587-5CD8DA919F65", 0, 1571157630, null, 1571157630, null, "{ }", "23F", "AM", "10182018", "166", "44º F, Sunny, Windy", "None", null, "Humans, Dogs, Sparrows, Crows, Cardinal", "Busy", null, "1", "1", "20" ]
+, [ "row-fhnz-chg9-e52x", "00000000-0000-0000-BAB7-66FC13044417", 0, 1571157630, null, 1571157630, null, "{ }", "23F", "PM", "10132018", "205", "55º F, partly cloudy (with sun)", "Some", null, "Humans, Dogs, Blue Jay, Rat, Bee, Sparrow", "Moderate", "Busy near gate house, quiet on and south of Transverse, reservoir path medium", "1", "4", null ]
+, [ "row-rva5.kfbr_kkf7", "00000000-0000-0000-8E77-201B512003FF", 0, 1571157630, null, 1571157630, null, "{ }", "23G", "AM", "10182018", "239", "44º F, Sunny, Clear Sky, Windy (Gusts(", "Some", null, "Humans, Few and calls of larger birds, but not visible", "Busy", null, "1", "0", "25" ]
+, [ "row-jje7.zyut_6xr5", "00000000-0000-0000-A5FF-0B38DBBC0867", 0, 1571157630, null, 1571157630, null, "{ }", "23H", "PM", "10192018", "45", "60º F, Partly Cloudy", "Some", null, "Humans, Dogs", "Calm, Busy", "Busy on Running Path", "1", "1", "17" ]
+, [ "row-su76.u2xs.42tz", "00000000-0000-0000-A258-162480192C41", 0, 1571157630, null, 1571157630, null, "{ }", "23H", "AM", "10142018", "240", "55º F, partly sunny", "Some", null, "Humans, Dogs, Runners", "Busy", null, "1", "0", "17" ]
+, [ "row-bx48-78su_h6hz", "00000000-0000-0000-2C45-2978B0828C6A", 0, 1571157630, null, 1571157630, null, "{ }", "23I", "AM", "10192018", "23", "46º F, Sunny, no clouds", "None", null, "Humans, Dogs, Small birds", "Busy", null, "1", "1", "45" ]
+, [ "row-v92k_2zfp_9gvg", "00000000-0000-0000-DD95-891820D69BDB", 0, 1571157630, null, 1571157630, null, "{ }", "23I", "PM", "10192018", "45", "60º F, Partly Cloudy", "None", null, "Humans, Dogs, Ducks", "Busy", "Busy", "1", "3", "25" ]
+, [ "row-9v8e_wt7k_f274", "00000000-0000-0000-7B79-F5ABDA0321EB", 0, 1571157630, null, 1571157630, null, "{ }", "24A", "AM", "10142018", "170", "50º F, Sunny, Clear", "None", null, "Humans, Dogs", "Busy", "5k", "1", "2", "25" ]
+, [ "row-h64x_4tth-wait", "00000000-0000-0000-2EB0-535989DD9CE3", 0, 1571157630, null, 1571157630, null, "{ }", "24B", "PM", "10102018", "65", "70s, sunny, humid", "Some", null, "Humans, Dogs, Birds", "Busy", null, "1", "0", "20" ]
+, [ "row-fbse_chuv~gawi", "00000000-0000-0000-8C52-4A818FB79E57", 0, 1571157630, null, 1571157630, null, "{ }", "24B", "AM", "10132018", "243", "50º F, rain, very cloudy", "None", null, "Humans, Dogs, Birds", "Busy", null, "1", "1", "30" ]
+, [ "row-8yg3_pymw~7fas", "00000000-0000-0000-C25E-03E102975852", 0, 1571157630, null, 1571157630, null, "{ }", "24C", "AM", "10102018", "104", "73º F, Vaguely sunny", "None", null, "Pigeons, Other birds", "Busy", null, "1", "0", "35" ]
+, [ "row-efce.m24w-kk94", "00000000-0000-0000-5712-FCCE9F2892A9", 0, 1571157630, null, 1571157630, null, "{ }", "24C", "PM", "10172018", "115", "62º F, sunny, windy", null, null, null, null, null, "1", "0", "25" ]
+, [ "row-ucvk_4j89_etqm", "00000000-0000-0000-49CF-A58EB042CEA6", 0, 1571157630, null, 1571157630, null, "{ }", "24I", "AM", "10192018", "250", "45º F, Sunny, Windy", "Some", null, "Humans, Dogs", "Busy", null, "1", "1", "30" ]
+, [ "row-ipei_urm7~b3pr", "00000000-0000-0000-5764-CE2BB7BF3963", 0, 1571157630, null, 1571157630, null, "{ }", "25A", "AM", "10132018", "243", "50º F, drizzle, light rain, overcast", "None", null, "Humans, Dogs, Other Birds", "Busy", "Busy (road)", "1", "5", "40" ]
+, [ "row-smdr~ezns_gk3n", "00000000-0000-0000-A55A-705E11E8180E", 0, 1571157630, null, 1571157630, null, "{ }", "25B", "AM", "10142018", "28", "Partly cloudy", null, null, "Humans, Dogs, Warblers", null, null, "1", "0", null ]
+, [ "row-yc88.sgpm.gxdn", "00000000-0000-0000-47B5-23A23AB74E7E", 0, 1571157630, null, 1571157630, null, "{ }", "25B", "PM", "10072018", "41", "80º F, Sunny. Humid.", "None", null, "Humans", "Busy", null, "1", "2", "20" ]
+, [ "row-jy9j~9kc7-nm8x", "00000000-0000-0000-DD61-9C874787D51A", 0, 1571157630, null, 1571157630, null, "{ }", "25I", "PM", "10072018", "155", "Humid", "Some", null, null, "Busy", null, "1", "8", "45" ]
+, [ "row-72k3.ta38.se26", "00000000-0000-0000-51C1-497172F76A07", 0, 1571157630, null, 1571157630, null, "{ }", "25I", "AM", "10122018", "204", "60º F, windy", "None", null, "Humans, Dogs, Pigeons, Song birds", "Calm", null, "1", "3", "35" ]
+, [ "row-f5d5.d2zi~3mwd", "00000000-0000-0000-56AE-81DFCCE0C902", 0, 1571157630, null, 1571157630, null, "{ }", "26A", "AM", "10142018", "248", "51º F, Mostly Cloudy, Light Breeze", "None", null, "Humans, Dogs", "Busy", null, "1", "2", "20" ]
+, [ "row-97i4.enzn-bqj4", "00000000-0000-0000-EEB1-E12EA06D76E6", 0, 1571157630, null, 1571157630, null, "{ }", "26B", "AM", "10102018", "104", "70º F Humid and cloudy", "None", null, "Humans, Dogs, Pigeons", "Busy", null, "1", "1", "30" ]
+, [ "row-8f7u-vqcc-85y9", "00000000-0000-0000-C29F-1D640B18CCE1", 0, 1571157630, null, 1571157630, null, "{ }", "26B", "PM", "10172018", "250", "62º F, sunny, windy", "Some", null, "Humans, Dogs, Pigeons, Ducks", "Busy", null, "1", "0", "20" ]
+, [ "row-qndf_widy.qc6g", "00000000-0000-0000-A66F-FCD2832FBE8D", 0, 1571157630, null, 1571157630, null, "{ }", "26I", "PM", "10102018", "211", "79º F, Part sunny", "Some", null, "Humans, Dogs", "Busy", null, "1", "6", "20" ]
+, [ "row-8cbx-dsg3_33sf", "00000000-0000-0000-23B6-129115DCAB72", 0, 1571157630, null, 1571157630, null, "{ }", "26I", "AM", "10102018", "224", "73º F, Partly cloudy, muggy, occasional cool breeze", "Some", null, "Humans, Dogs, Seagull", "Busy", null, "1", "2", "26" ]
+, [ "row-denk-sruc-nykp", "00000000-0000-0000-93E7-C598B9B2F9B8", 0, 1571157630, null, 1571157630, null, "{ }", "27A", "AM", "10082018", "97", "65º F, overcast, cloudy, light drizzle", "Some", null, "Humans, Dogs, Chickadees", "Calm", null, "1", "2", "25" ]
+, [ "row-dqp6-yrek.kipa", "00000000-0000-0000-8223-E399F64F5B55", 0, 1571157630, null, 1571157630, null, "{ }", "27A", "PM", "10062018", "265", "drizzling cloudy", "None", null, "Humans, Pigeons", "Busy", null, "1", "1", "32" ]
+, [ "row-qqev_qz8u_d9ra", "00000000-0000-0000-BBFA-CC7FBD5F1CC2", 0, 1571157630, null, 1571157630, null, "{ }", "27B", "AM", "10142018", "170", "49º F, Sunny, Clear", "Some", null, "Humans, Dogs, Birds", "Busy", "5k race", "1", "0", "23" ]
+, [ "row-45h3-vnse-hb4u", "00000000-0000-0000-01A9-B5C0329E8612", 0, 1571157630, null, 1571157630, null, "{ }", "27C", "AM", "10142018", "248", "53º F, mostly sunny, calm", "None", null, "Humans, Turtle (in water)", "Busy", null, "1", "0", "5" ]
+, [ "row-m2z5_t8yj.y2ag", "00000000-0000-0000-ADAB-FF19D4B0B181", 0, 1571157630, null, 1571157630, null, "{ }", "27C", "PM", "10122018", "250", "61º F, sunny, windy", "None", null, "Humans", "Busy", null, "1", "0", "20" ]
+, [ "row-vpx8-qyjb.yqrb", "00000000-0000-0000-D066-5CB33763D266", 0, 1571157630, null, 1571157630, null, "{ }", "27I", "AM", "10072018", "102", "Cool", "None", null, "Butterfly", "Busy", "Heavy human congestion", "1", "4", "42" ]
+, [ "row-559z.bff8_e8v5", "00000000-0000-0000-6BAB-9470610ADE1A", 0, 1571157630, null, 1571157630, null, "{ }", "28A", "PM", "10072018", "40", "80º F, Overcast. Humid.", "Abundant", null, "Humans, Dogs, Birds", "Busy", null, "1", "5", "20" ]
+, [ "row-fe9i-wtyf.ja2a", "00000000-0000-0000-F7ED-FC09D15B80D3", 0, 1571157630, null, 1571157630, null, "{ }", "28A", "AM", "10142018", "124", "50º F, Sunny & Cloudy", "Some", null, null, "Calm", null, "1", "1", "25" ]
+, [ "row-5cwq_q6qc.8ium", "00000000-0000-0000-D89A-B38ADEE48664", 0, 1571157630, null, 1571157630, null, "{ }", "28B", "AM", "10072018", "122", "71º F, Overcast. Breezy", "Some", null, "Humans, Dogs, Pigeons", "Busy", null, "1", "1", "25" ]
+, [ "row-ccy8.46a5.afh2", "00000000-0000-0000-CACE-F3BCB88C55F7", 0, 1571157630, null, 1571157630, null, "{ }", "28B", "PM", "10102018", "161", "79º F, Humid, sunny", "Some", null, "Humans, Dogs, Pigeons", "Busy", null, "1", "2", "30" ]
+, [ "row-xq2u_7iig.kdd2", "00000000-0000-0000-E514-FF4A9BC451F5", 0, 1571157630, null, 1571157630, null, "{ }", "28C", "AM", "10142018", "242", "50ish, sunny, calm", "None", null, "Humans, Dogs, Song birds", "Busy", null, "1", "2", "22" ]
+, [ "row-e966_r3f4.pj4w", "00000000-0000-0000-2101-631F663C5949", 0, 1571157630, null, 1571157630, null, "{ }", "28C", "PM", "10062018", "257", null, null, null, null, null, null, "1", "2", "20" ]
+, [ "row-sp4g~h2zk-pknf", "00000000-0000-0000-4EDB-B29BE8B3177C", 0, 1571157630, null, 1571157630, null, "{ }", "28D", "PM", "10192018", "219", "59º F, P/Cloudy, Light Wind", "Some", null, "Humans, Dogs, Pigeons, Sparrows, Robins, Grackles", "Busy", null, "1", "2", "20" ]
+, [ "row-gfcb-4efc_wsht", "00000000-0000-0000-9934-6D062704FC50", 0, 1571157630, null, 1571157630, null, "{ }", "28D", "AM", "10122018", "250", "59º F, windy", "None", null, "Humans, Dogs, Robins, Blue jay", "Busy", null, "1", "6", "21" ]
+, [ "row-but2~r3ze_eab4", "00000000-0000-0000-87DC-5F7A9DA06025", 0, 1571157630, null, 1571157630, null, "{ }", "28I", "PM", "10072018", "170", "78º F", "None", null, "Humans, Dogs, Birds", "Busy", null, "1", "1", "26" ]
+, [ "row-wddn_48iv~7ata", "00000000-0000-0000-BC55-BEDF88DDD38B", 0, 1571157630, null, 1571157630, null, "{ }", "28I", "AM", "10132018", "230", "50º F, overcast, wet, light rain", null, null, "Humans, Dogs", "Busy", null, "1", "1", "24" ]
+, [ "row-2ivg~bykq~sqjj", "00000000-0000-0000-15B6-3DB4028E89AB", 0, 1571157630, null, 1571157630, null, "{ }", "29A", "PM", "10192018", "242", "59º F, Sunny", "Some", null, "Humans, Dogs, Birds", "Busy", null, "1", "3", "20" ]
+, [ "row-dv8w.zvxe_vwua", "00000000-0000-0000-D931-A6F4720E198B", 0, 1571157630, null, 1571157630, null, "{ }", "29A", "AM", "10132018", "248", "50º F, light rain, calm", "Some", null, "Humans, Dogs", "Busy", null, "1", "1", "25" ]
+, [ "row-yima~3j8d-gk6i", "00000000-0000-0000-2AB4-58727F7A30A2", 0, 1571157630, null, 1571157630, null, "{ }", "29B", "PM", "10102018", "65", "70s, Sunny, humid", "None", null, "Humans, Dogs, Birds", "Busy", null, "1", "5", "25" ]
+, [ "row-3tnm-fbkk~ubss", "00000000-0000-0000-F9D0-0195FF165974", 0, 1571157630, null, 1571157630, null, "{ }", "29B", "AM", "10072018", "170", "70º F, Overcast. Moist.", "Some", null, "Humans, Dogs, Robins", "Busy", null, "1", "2", "20" ]
+, [ "row-ps32.uage-4x6m", "00000000-0000-0000-75C8-1C754CA6AC38", 0, 1571157630, null, 1571157630, null, "{ }", "29C", "PM", "10062018", "9", "Cool, cloudy & light drizzle", "None", null, "Humans, Dogs, Song birds", "Busy", null, "1", "2", "23" ]
+, [ "row-trv8-fdt4-svtx", "00000000-0000-0000-874E-A797A392BF6F", 0, 1571157630, null, 1571157630, null, "{ }", "29C", "AM", "10072018", "122", "70º F", "Some", null, "Humans, Dogs, Pigeons", "Calm", null, "1", "6", "20" ]
+, [ "row-2eu9.rvvg-r9gc", "00000000-0000-0000-0C0F-1231CB0BE8A6", 0, 1571157630, null, 1571157630, null, "{ }", "29D", "AM", "10142018", "28", null, null, null, null, null, null, "1", "6", null ]
+, [ "row-4gzb.gb53.jep7", "00000000-0000-0000-EE53-B08A2CFD5AD9", 0, 1571157630, null, 1571157630, null, "{ }", "29D", "PM", "10102018", "250", "77º F, Sunny", "None", null, "Humans, Dogs", "Busy", null, "1", "2", "20" ]
+, [ "row-q7q4~d9z4~325d", "00000000-0000-0000-87A0-733E092868AA", 0, 1571157630, null, 1571157630, null, "{ }", "29E", "AM", "10172018", "19", "51º F, clear & sunny", "Some", null, "Humans, Unknown birds", "Busy", null, "1", "0", "22" ]
+, [ "row-rkvq~dvje_gr2d", "00000000-0000-0000-E083-03BD7BF33756", 0, 1571157630, null, 1571157630, null, "{ }", "29E", "PM", "10062018", "155", "Misty, Rain, Cool", "None", null, "Humans, Dogs", "Moderate", "Tennis courts and joggers", "1", "0", "20" ]
+, [ "row-erhy_4nee_aags", "00000000-0000-0000-C443-214FDAE0B6C8", 0, 1571157630, null, 1571157630, null, "{ }", "29H", "PM", "10062018", "56", "65º F, Foggy", "Some", null, "Humans, Ducks", "Calm", null, "1", "2", "22" ]
+, [ "row-vazv-phpe.anzf", "00000000-0000-0000-7EC4-5CB8544F2A63", 0, 1571157630, null, 1571157630, null, "{ }", "29H", "AM", "10132018", "230", "50º F, drizzle, overcast", "Some", null, "Humans (runners), Dogs (1 off-leash), Seagulls?", "Calm", null, "1", "0", "20" ]
+, [ "row-tk9c.m4tx.mvz5", "00000000-0000-0000-C4C6-98A5B3846388", 0, 1571157630, null, 1571157630, null, "{ }", "29I", "PM", "10072018", "200", "80º F, Overcast", "Some", null, "Humans, Dogs, Pigeons, Cats", "Busy", null, "1", "1", "26" ]
+, [ "row-4nj5_utau~m5kb", "00000000-0000-0000-63B4-589E34512EE1", 0, 1571157630, null, 1571157630, null, "{ }", "29I", "AM", "10192018", "250", "45º F, Sunny, Windy", "Some", null, "Humans, Dogs, Hummingbird??", "Busy", null, "1", "0", "20" ]
+, [ "row-tuub-ekwu~27cj", "00000000-0000-0000-7A12-63E9146E30E9", 0, 1571157630, null, 1571157630, null, "{ }", "30A", "AM", "10102018", "18", "22º C, Cloudy and bright", "None", null, "Humans, Dogs, Pigeons, Midges", "Busy", null, "1", "1", "25" ]
+, [ "row-c9pj~4ti7~4arb", "00000000-0000-0000-9117-E1E4471D2406", 0, 1571157630, null, 1571157630, null, "{ }", "30A", "PM", "10202018", "250", "62º F, Sunny", "Some", null, "Humans, Dogs", "Busy", null, "1", "4", "20" ]
+, [ "row-wk36-9n32.gypj", "00000000-0000-0000-01E7-5D3190002D30", 0, 1571157630, null, 1571157630, null, "{ }", "30B", "PM", "10192018", "19", "59º F", "Some", null, "Humans, Dogs, Birds (Other)", "Busy", null, "1", "9", "22" ]
+, [ "row-967s-ivpu.njvi", "00000000-0000-0000-F147-16A69D7BB3DB", 0, 1571157630, null, 1571157630, null, "{ }", "30B", "AM", "10072018", "170", "70º F, Overcast. Moist.", "Some", null, "Humans, Dogs, Assorted Birds", "Busy", null, "1", "12", "20" ]
+, [ "row-3qcn-3j9u~xk25", "00000000-0000-0000-50C1-ACE86FD6AD0A", 0, 1571157630, null, 1571157630, null, "{ }", "30C", "PM", "10082018", "122", "65º F, misting", "Abundant", null, "Humans, Dogs", "Busy", null, "1", "1", "20" ]
+, [ "row-bsi7.zqn9-y3uf", "00000000-0000-0000-5C20-D2C343EA61C4", 0, 1571157630, null, 1571157630, null, "{ }", "30C", "AM", "10142018", "124", "50º F, Cloudy", "None", null, "Humans, Dogs", "Busy", null, "1", "2", "21" ]
+, [ "row-5yji~ij3p_2j3p", "00000000-0000-0000-75F8-4CF6965F10C1", 0, 1571157630, null, 1571157630, null, "{ }", "30D", "PM", "10072018", "40", "80º F, Sunny. Humid.", "None", null, "Humans, Dogs, Lots of Birds", "Busy", null, "1", "0", "20" ]
+, [ "row-v3ay.4ih3~2nsi", "00000000-0000-0000-37E6-4E1977DC5401", 0, 1571157630, null, 1571157630, null, "{ }", "30D", "AM", "10172018", "60", "51º F, sunny", "None", null, "Humans, Dogs", "Busy", null, "1", "2", "30" ]
+, [ "row-8apq-kxdx.9wby", "00000000-0000-0000-0B6B-FA8480A563BD", 0, 1571157630, null, 1571157630, null, "{ }", "30E", "AM", "10082018", "97", "66º F, drizzle, overcast", "None", null, "Humans, Dogs, Pigeons", "Busy", null, "1", "3", "28" ]
+, [ "row-ejw3.8ytr_k5sy", "00000000-0000-0000-AA0F-9EE8CA53CEB4", 0, 1571157630, null, 1571157630, null, "{ }", "30E", "PM", "10082018", "122", "65º F, misting", "Some", null, "Humans, Dogs, Pigeons", "Busy", null, "1", "1", "23" ]
+, [ "row-jin7-ut6f~srx2", "00000000-0000-0000-08F9-4667E3F79B19", 0, 1571157630, null, 1571157630, null, "{ }", "30F", "PM", "10072018", "200", "80º F, Overcast", "None", null, "Humans, Dogs, Pigeons", null, null, "1", "1", "20" ]
+, [ "row-xn93_zuyz-4aw7", "00000000-0000-0000-A799-B896E3E36588", 0, 1571157630, null, 1571157630, null, "{ }", "30F", "AM", "10192018", "242", "30º F", "None", null, "Humans, Dogs", "Busy", null, "1", "0", "20" ]
+, [ "row-4mvs-kigk_yzgp", "00000000-0000-0000-F8D0-E289C51D3EAF", 0, 1571157630, null, 1571157630, null, "{ }", "30G", "AM", "10132018", "170", "50º F, cold, drizzly, overcast", "None", null, "Humans, Blue jay", "Busy", null, "1", "0", "20" ]
+, [ "row-sv3r~vnzu-v82r", "00000000-0000-0000-64E1-8DDD5C2F0228", 0, 1571157630, null, 1571157630, null, "{ }", "30G", "PM", "10102018", "211", "76º F, Sunny, breezy", "None", null, "Humans, Dogs", "Busy", null, "1", "0", "20" ]
+, [ "row-f3j3-6sn7_ptrp", "00000000-0000-0000-2615-04B1F4F079EC", 0, 1571157630, null, 1571157630, null, "{ }", "30H", "AM", "10072018", "102", "Muggy, but cool. Sprinkling.", "None", null, null, "Busy", null, "1", "3", "20" ]
+, [ "row-enw5_4amb~ys6e", "00000000-0000-0000-7563-84BF10E4926C", 0, 1571157630, null, 1571157630, null, "{ }", "30I", "AM", "10132018", "17", "49º F, rain showers, calm", null, null, null, null, null, "1", "0", "35" ]
+, [ "row-nnjj_kz3w~dh9b", "00000000-0000-0000-BE80-658560518F34", 0, 1571157630, null, 1571157630, null, "{ }", "31A", "AM", "10102018", "18", "25º C, Sunny with clouds", "Some", null, "Humans, Dogs, Blackbird and other birds", "Calm", null, "1", "5", "25" ]
+, [ "row-vk5e-phzg_3fej", "00000000-0000-0000-E400-38F16385D3F3", 0, 1571157630, null, 1571157630, null, "{ }", "31A", "PM", "10172018", "250", "62º F, sunny, windy", "Some", null, "Humans, Dogs, Pigeons, Sparrows", "Busy", null, "1", "4", "20" ]
+, [ "row-m935-nz4w-wiyz", "00000000-0000-0000-835F-EC8F1252BA3A", 0, 1571157630, null, 1571157630, null, "{ }", "31B", "PM", "10072018", "41", "80º F, Overcast. Humid.", "Some", null, null, "Busy", null, "1", "4", "20" ]
+, [ "row-yqdg_abbr_swyy", "00000000-0000-0000-032D-DF7BAFE33D38", 0, 1571157630, null, 1571157630, null, "{ }", "31B", "AM", "10172018", "60", "51º F, sunny, windy", "None", null, "Humans, Dogs", "Busy", null, "1", "3", "30" ]
+, [ "row-fxzi.trsn.jpu6", "00000000-0000-0000-E543-FAEBC6D9F542", 0, 1571157630, null, 1571157630, null, "{ }", "31C", "AM", "10172018", "19", "49º F, clear & sunny", "Some", null, "Humans, Dogs, Falcons, unknown bird", "Calm", null, "1", "1", "24" ]
+, [ "row-dvrm-upsd~h854", "00000000-0000-0000-39B9-8A4354999F02", 0, 1571157630, null, 1571157630, null, "{ }", "31C", "PM", "10102018", "250", "79º F, Sunny", "Some", null, "Humans, Dogs, Robins", "Calm", null, "1", "3", "20" ]
+, [ "row-5zs6-6ixz.wuh7", "00000000-0000-0000-6833-195953190B1C", 0, 1571157630, null, 1571157630, null, "{ }", "31D", "PM", "10062018", "126", "65º F, dew point 62º F,  misty, light wind", "Some", null, "Humans, Dogs", "Calm", null, "1", "4", "22" ]
+, [ "row-5wp5~diza.ea95", "00000000-0000-0000-4741-196766F5DD69", 0, 1571157630, null, 1571157630, null, "{ }", "31D", "AM", "10142018", "243", "50º F, Calm, Fair Sky - Sunny", "Some", null, "Humans, Dogs", "Busy", null, "1", "7", "30" ]
+, [ "row-tc9f_cqn9_rdtn", "00000000-0000-0000-4D97-405658D25F53", 0, 1571157630, null, 1571157630, null, "{ }", "31E", "AM", "10142018", "67", "49º F, Partly Cloudy, Chilly", "Some", null, "Humans, Hawks, Dogs", "Calm", null, "1", "1", "25" ]
+, [ "row-ac4m~ngms~5cmt", "00000000-0000-0000-7292-5A3FD157EA76", 0, 1571157630, null, 1571157630, null, "{ }", "31E", "PM", "10062018", "126", "65º F, 62º F, dewpoint, light wind, misty", "Some", null, "Humans, Dogs", "Calm", null, "1", "9", "20" ]
+, [ "row-n969-gwsn~e649", "00000000-0000-0000-C6F0-C5A413759F85", 0, 1571157630, null, 1571157630, null, "{ }", "31F", "PM", "10072018", "155", "Humid", "Some", null, "Humans, Dogs, Pigeons", "Calm", null, "1", "5", "25" ]
+, [ "row-dck4-j2yj_cma4", "00000000-0000-0000-3B6C-B2DB016CDE75", 0, 1571157630, null, 1571157630, null, "{ }", "31F", "AM", "10132018", "170", "50º F, cold, drizzly, overcast, calm", "None", null, "Humans, Dogs, Birds", "Calm", null, "1", "1", "25" ]
+, [ "row-2fdt~99r7.nnm3", "00000000-0000-0000-5DCC-E4B0A2AD9354", 0, 1571157630, null, 1571157630, null, "{ }", "31G", "PM", "10072018", "170", "78º F, Overcast", "None", null, "Humans, Dogs, Birds", "Calm", null, "1", "1", "26" ]
+, [ "row-m8sk.hyw4_gaup", "00000000-0000-0000-30E8-286C78616636", 0, 1571157630, null, 1571157630, null, "{ }", "31G", "AM", "10192018", "242", "46º F,  Windy, Shady", "Abundant", null, "Humans, Dogs", "Busy", null, "1", "0", "20" ]
+, [ "row-rb4e_jyxj.4xri", "00000000-0000-0000-F7EA-339235D4FFD5", 0, 1571157630, null, 1571157630, null, "{ }", "31H", "AM", "10132018", "17", "50º F, cloudy, calm", "None", null, "Humans, Dogs, Sparrows, Jays", "Busy", null, "1", "0", "20" ]
+, [ "row-i4a6-q8yj-y5sv", "00000000-0000-0000-5C11-9ED341909CC6", 0, 1571157630, null, 1571157630, null, "{ }", "31H", "PM", "10082018", "217", "drizzling", "None", null, "Humans", "Busy", null, "1", "5", "25" ]
+, [ "row-asng-hrm2-ics9", "00000000-0000-0000-B77C-8B0A116C9C4E", 0, 1571157630, null, 1571157630, null, "{ }", "31I", "AM", "10122018", "204", "60º F, windy, cloudy", "None", null, "Humans, Dogs, Pigeons", "Busy", null, "1", "0", "20" ]
+, [ "row-5ndw~edyc-xez3", "00000000-0000-0000-EC3A-478A78F279F1", 0, 1571157630, null, 1571157630, null, "{ }", "31I", "PM", "10192018", "219", "58º F, P Cloudy", "Some", null, "Humans, Dogs", "Busy", null, "1", "4", "20" ]
+, [ "row-q56j.k6jy-4ia8", "00000000-0000-0000-2832-B060C76BE526", 0, 1571157630, null, 1571157630, null, "{ }", "32A", "AM", "10182018", "247", "44º F, Sunny, Breezy", "None", null, "Humans, Hawks, Dogs", "Moderate", null, "1", "5", "20" ]
+, [ "row-mybe-m3nu-7m23", "00000000-0000-0000-1726-EDADF1EBCBFB", 0, 1571157630, null, 1571157630, null, "{ }", "32A", "PM", "10132018", "258", null, null, null, null, null, null, "1", "9", "23" ]
+, [ "row-pgrj~22vs-hyrv", "00000000-0000-0000-C470-04A50E4C59E2", 0, 1571157630, null, 1571157630, null, "{ }", "32B", "AM", "10172018", "40", "50º F, clear/sunny", "Some", null, "Humans, Dogs, other Birds", "Busy", null, "1", "4", "20" ]
+, [ "row-69rd-rq6r~ju8i", "00000000-0000-0000-1C33-165F59FC2615", 0, 1571157630, null, 1571157630, null, "{ }", "32B", "PM", "10102018", "125", "81º F, Sunny", "None", null, "Humans, Dogs, Chipmunk", "Busy", null, "1", "6", "35" ]
+, [ "row-87t9.dg6n-zrsq", "00000000-0000-0000-5817-8597876D5990", 0, 1571157630, null, 1571157630, null, "{ }", "32C", "AM", "10142018", "67", "51º F, Partly Cloudy", "Abundant", null, "Humans, Dogs", "Calm", null, "1", "6", "22" ]
+, [ "row-pp6z.4ygy~ynus", "00000000-0000-0000-42AE-4D79EDD23D5F", 0, 1571157630, null, 1571157630, null, "{ }", "32C", "PM", "10132018", "171", "60º F, partly sunny", "None", null, "Humans, Dogs", "Calm", null, "1", "13", "25" ]
+, [ "row-hhzp~8umz.hmig", "00000000-0000-0000-AB1C-F734074E3674", 0, 1571157630, null, 1571157630, null, "{ }", "32D", "PM", "10062018", "212", "65º F, cloudy", "None", null, "Humans, Dogs, Small birds", "Moderate", null, "1", "9", "20" ]
+, [ "row-pxtz-bxzu~a95g", "00000000-0000-0000-10D3-164C81EC8185", 0, 1571157630, null, 1571157630, null, "{ }", "32E", "PM", "10172018", "125", "61º F, cloudy", "Some", null, "Humans, Dogs", "Busy", null, "1", "16", "25" ]
+, [ "row-vjbc-b7ew_eb8g", "00000000-0000-0000-CD54-1851AADE0710", 0, 1571157630, null, 1571157630, null, "{ }", "32E", "AM", "10072018", "154", "70º F, Overcast. Slight mist.", null, null, "Humans, Dogs", "Calm", null, "1", "14", "20" ]
+, [ "row-ygba.ud3j-vdtz", "00000000-0000-0000-C982-AF8D7F534578", 0, 1571157630, null, 1571157630, null, "{ }", "32F", "PM", "10082018", "104", "66º F, cloudy", "Some", null, "Humans, Dogs", "Busy", null, "1", "8", "30" ]
+, [ "row-wdqi~4eqh.43qk", "00000000-0000-0000-ED1E-B17E5ECE1CF3", 0, 1571157630, null, 1571157630, null, "{ }", "32F", "AM", "10122018", "114", "59º F, partly cloudy, windy", null, null, "Humans, Dogs", "Calm", null, "1", "7", "18" ]
+, [ "row-fuxv.q7tg.ttw7", "00000000-0000-0000-7BC1-4809CD5B28D8", 0, 1571157630, null, 1571157630, null, "{ }", "32G", "PM", "10132018", "222", "56° F, partly cloudy", "Some", "1 plastic bag", "Humans (lots of bikers), Dogs, Small birds", "Busy", null, "1", "3", "21" ]
+, [ "row-txgr-aegp~ubmr", "00000000-0000-0000-FF7A-599CF670AE06", 0, 1571157630, null, 1571157630, null, "{ }", "32G", "AM", "10102018", "264", "73º F", null, null, "Humans, Hawks, Dogs", "Calm", null, "1", "2", "25" ]
+, [ "row-3v7w_kjau-i6qe", "00000000-0000-0000-1324-33CA9612C01D", 0, 1571157630, null, 1571157630, null, "{ }", "32H", "PM", "10062018", "81", "65º F, cloudy", "Some", null, "Humans", "Calm", null, "1", "3", "30" ]
+, [ "row-8dsa-gnrm_z8tg", "00000000-0000-0000-BC18-2A124FE412DA", 0, 1571157630, null, 1571157630, null, "{ }", "32H", "AM", "10102018", "223", "72º F, Overcast", "None", null, "Humans, Dogs, Other Song birds", "Moderate", null, "1", "1", "22" ]
+, [ "row-q8v6.zhfd~jbm2", "00000000-0000-0000-0CE0-80B2B54D437F", 0, 1571157630, null, 1571157630, null, "{ }", "32I", "AM", "10132018", "61", "49º F, light rain", "None", null, "Humans, Dogs", "Calm", null, "1", "6", "50" ]
+, [ "row-kqii-g25r-wtvj", "00000000-0000-0000-8A4C-6F5B89032AEF", 0, 1571157630, null, 1571157630, null, "{ }", "32I", "PM", "10072018", "183", "81F Partly cloudy. Humid.", "None", null, "Humans, Dogs", "Busy", null, "1", "3", null ]
+, [ "row-m6vg-f9hr~3p3f", "00000000-0000-0000-605D-2F76CD736E31", 0, 1571157630, null, 1571157630, null, "{ }", "33A", "PM", "10182018", "244", "Clear Skies, Breezy", "Some", null, "Humans, Dogs, Song birds", "Calm", null, "1", "4", "26" ]
+, [ "row-p2g8_caea.bmpr", "00000000-0000-0000-F116-F7831F364FE5", 0, 1571157630, null, 1571157630, null, "{ }", "33B", "PM", "10102018", "125", "81º F, Sunny", "None", null, "Humans", "Busy", null, "1", "12", "27" ]
+, [ "row-c677~jtha.jc79", "00000000-0000-0000-24A4-EE1EF33A1092", 0, 1571157630, null, 1571157630, null, "{ }", "33B", "AM", "10102018", "199", "70º F, Nice, overcast", "None", null, "Humans, Dogs", "Calm", null, "1", "6", "30" ]
+, [ "row-9d5e.rgux_n2rw", "00000000-0000-0000-7023-FC2998E058CB", 0, 1571157630, null, 1571157630, null, "{ }", "33C", "PM", "10072018", "81", "78º F, Cloudy", "Some", null, "Humans, Dogs, Birds", "Busy", null, "1", "4", "20" ]
+, [ "row-fn6t-ca7t-kfs9", "00000000-0000-0000-B786-8CFF94A82B35", 0, 1571157630, null, 1571157630, null, "{ }", "33C", "AM", "10122018", "104", "59º F, mostly cloudy, windy (sunny by 9:30)", "None", null, "Humans, Dogs", "Calm", null, "1", "2", "25" ]
+, [ "row-eg46.ak4r~87rr", "00000000-0000-0000-CBE2-0D7F5E5BF038", 0, 1571157630, null, 1571157630, null, "{ }", "33D", "PM", "10062018", "35", "65º F, Overcast Drizzly", "None", null, "Humans", "Busy", "Active Tennis and use of fields", "1", "3", "30" ]
+, [ "row-3s7s.3k83~cdza", "00000000-0000-0000-E89E-CFA7075643CE", 0, 1571157630, null, 1571157630, null, "{ }", "33D", "AM", "10172018", "40", "51º F, clear, sunny, breezy", "None", null, "Humans", "Calm", null, "1", "9", "20" ]
+, [ "row-j6vn~ewwh_kewj", "00000000-0000-0000-E426-64335E9E01E2", 0, 1571157630, null, 1571157630, null, "{ }", "33E", "AM", "10142018", "10", "50º F, mostly sunny", "None", null, "Humans, Dogs, Birds, Humans playing tennis", "Calm", "Except the tennis court was loud", "1", "13", "20" ]
+, [ "row-z99b~3gya~7zf3", "00000000-0000-0000-B0CF-585B8638D31B", 0, 1571157630, null, 1571157630, null, "{ }", "33E", "PM", "10122018", "250", "61º F, sunny, windy", "Some", null, "Humans, Dogs, Sparrows, Woodpecker", "Busy", null, "1", "9", "21" ]
+, [ "row-htma-j6pw_3p4n", "00000000-0000-0000-6538-E8574F669308", 0, 1571157630, null, 1571157630, null, "{ }", "33F", "PM", "10122018", "19", "60º F, sunny, clear", "None", null, "Humans, Dogs, Warbler (Internet says magnolia warbler), Unknown grey/brown bird", "Calm", null, "1", "6", "27" ]
+, [ "row-4zfp.9ipc_ptip", "00000000-0000-0000-CFF7-574646B8942F", 0, 1571157630, null, 1571157630, null, "{ }", "33F", "AM", "10082018", "233", "65º F, drizzling", "None", null, "Humans, Dogs, blue jay", "Calm", null, "1", "2", "25" ]
+, [ "row-izs5~msmm_8ri6", "00000000-0000-0000-5C2C-832B52946B98", 0, 1571157630, null, 1571157630, null, "{ }", "33G", "PM", "10062018", "41", "Calm", "Some", null, null, "Calm", null, "1", "2", "20" ]
+, [ "row-tm53.7i2s-4tf4", "00000000-0000-0000-AE07-CEFAF8B277CD", 0, 1571157630, null, 1571157630, null, "{ }", "33G", "AM", "10132018", "145", "50º F, light rain", "None", null, "Humans, Dogs, Small birds", "Busy", null, "1", "3", "22" ]
+, [ "row-5z8w-vddw.85yd", "00000000-0000-0000-0AFD-2FCE4851EC9F", 0, 1571157630, null, 1571157630, null, "{ }", "33H", "AM", "10192018", "114", "46º F, Sunny, Breezy", null, null, "Humans, Dogs", "Calm", null, "1", "2", "20" ]
+, [ "row-xg5u-fyzr~bym3", "00000000-0000-0000-5468-ED0748142D6E", 0, 1571157630, null, 1571157630, null, "{ }", "33H", "PM", "10122018", "248", "61º F, clear, breezy", "Some", null, "Humans, Hawks, Dogs", "Busy", null, "1", "0", "25" ]
+, [ "row-vgwh~363y-hmet", "00000000-0000-0000-A54B-DFBAE85C0BFC", 0, 1571157630, null, 1571157630, null, "{ }", "33I", "PM", "10062018", "81", "65º F, drizzling", "Some", null, "Humans, Dogs", "Calm", null, "1", "9", "25" ]
+, [ "row-ewwc.eefw.7s9y", "00000000-0000-0000-8BA6-514A4B52D1B7", 0, 1571157630, null, 1571157630, null, "{ }", "33I", "AM", "10082018", "233", "66º F, Drizzly", "Some", null, "Humans, Dogs, Rat", "Calm", null, "1", "5", "30" ]
+, [ "row-8fjp_byfd.7g8p", "00000000-0000-0000-B5B9-F4547D4E010A", 0, 1571157630, null, 1571157630, null, "{ }", "34A", "AM", "10122018", "104", "59º F, windy, sunny", "None", null, "Humans, Dogs, Pigeons, Birds (Assorted)", "Calm", null, "1", "3", "25" ]
+, [ "row-ynuz_jgm4~wvhf", "00000000-0000-0000-7901-B244EA9A1276", 0, 1571157630, null, 1571157630, null, "{ }", "34A", "PM", "10132018", "171", "60º F (?), partly cloudy", "None", null, "Humans, Dogs", "Calm", null, "1", "5", "21" ]
+, [ "row-gryb-7dyc~4q7i", "00000000-0000-0000-6737-3E1038D16B46", 0, 1571157630, null, 1571157630, null, "{ }", "34B", "PM", "10072018", "81", "78º F, Cloudy", "Some", null, "Humans, Dogs", "Busy", null, "1", "1", "30" ]
+, [ "row-kjjz.csjk.4bxc", "00000000-0000-0000-3248-41167EBF1622", 0, 1571157630, null, 1571157630, null, "{ }", "34C", "PM", "10122018", "77", "61º F, sunny, light breeze", "None", null, "Humans, Dogs", "Calm", "People on path, not in fields", "1", "4", "23" ]
+, [ "row-vgdb-3dcn.xhiz", "00000000-0000-0000-D64D-80F8EADB3FE4", 0, 1571157630, null, 1571157630, null, "{ }", "34C", "AM", "10072018", "154", "70º F, Overcast", null, null, null, "Calm", null, "1", "2", "22" ]
+, [ "row-aqr2_dv67~a9kb", "00000000-0000-0000-14FD-46D823F49AED", 0, 1571157630, null, 1571157630, null, "{ }", "34D", "PM", "10072018", "1", "80º F, Humid. Overcast.", "None", null, "Humans, Dogs", "Busy", null, "1", "3", "26" ]
+, [ "row-r3jt~wkkp~8p2z", "00000000-0000-0000-4777-D7B430DBA8B8", 0, 1571157630, null, 1571157630, null, "{ }", "34E", "PM", "10062018", "212", "65º F, Drizzle", "None", null, "Humans, Dogs, Falcons, Small birds", "Calm", null, "1", "2", "25" ]
+, [ "row-bbzm_jkxk.bi4a", "00000000-0000-0000-8F4B-8A2185EA841F", 0, 1571157630, null, 1571157630, null, "{ }", "34E", "AM", "10182018", "247", "45º F, Brisk", "None", null, null, null, null, "1", "0", "20" ]
+, [ "row-6kcq.agye_yn3t", "00000000-0000-0000-D577-A7AB0484FD46", 0, 1571157630, null, 1571157630, null, "{ }", "34F", "AM", "10072018", "10", "70º F, Overcast", "None", null, "Humans, Dogs, Butterflies, Birds with red chest", "Calm", null, "1", "1", "20" ]
+, [ "row-fnwy-7apf~99nx", "00000000-0000-0000-AB02-E16A87D08FE5", 0, 1571157630, null, 1571157630, null, "{ }", "34F", "PM", "10122018", "35", "clear blue sky, breezy, getting cold", "Some", null, "Humans, Dogs", "Calm", null, "1", "1", "30" ]
+, [ "row-67pb~7buq_7r23", "00000000-0000-0000-AA27-881BAEA1938A", 0, 1571157630, null, 1571157630, null, "{ }", "34G", "PM", "10062018", "46", "drizzling", "Some", null, "Humans, Dogs, Many Small birds", "Calm", null, "1", "2", "20" ]
+, [ "row-gtwu_skhc~cpp3", "00000000-0000-0000-39B4-C56628BA3CBB", 0, 1571157630, null, 1571157630, null, "{ }", "34G", "AM", "10182018", "60", null, null, null, null, null, null, "1", "0", null ]
+, [ "row-jq8u-g94j-mrd6", "00000000-0000-0000-D451-C7288F89F856", 0, 1571157630, null, 1571157630, null, "{ }", "34H", "PM", "10062018", "46", "sprinkling", "Some", null, "Humans, Dogs, Children in costume", "Calm", null, "1", "7", "20" ]
+, [ "row-5xqa~d8sc_cv4c", "00000000-0000-0000-3B40-917DE999C121", 0, 1571157630, null, 1571157630, null, "{ }", "34H", "AM", "10072018", "237", "76º F, Cloudy", "Some", null, "Humans, Dogs, Pigeons, Robins, Woodpeckers", "Busy", null, "1", "1", "25" ]
+, [ "row-fvpn.vjpk-98g5", "00000000-0000-0000-0EA8-BCD1799C86E8", 0, 1571157630, null, 1571157630, null, "{ }", "34I", "PM", "10102018", "42", "77-80º F", "Some", null, null, "Calm", null, "1", "7", "47" ]
+, [ "row-j25b.vpfx-iqkm", "00000000-0000-0000-B306-8D9B11C22D02", 0, 1571157630, null, 1571157630, null, "{ }", "34I", "AM", "10122018", "114", "59º F, misty, windy", "Some", null, "Humans", "Busy", null, "1", "4", "20" ]
+, [ "row-3e4j~xcmg-pg7d", "00000000-0000-0000-804C-CB54055BD03C", 0, 1571157630, null, 1571157630, null, "{ }", "35A", "AM", "10142018", "10", "50º F, mostly sunny", "None", null, "Humans, Dogs, Birds", null, "Some dogs off leashes next to roads", "1", "8", "22" ]
+, [ "row-qnq8~qc35~dzqx", "00000000-0000-0000-EF80-61C3A6BC850E", 0, 1571157630, null, 1571157630, null, "{ }", "35A", "PM", "10132018", "81", "54º F, partly cloudy", "None", null, "Humans, Dogs", "Calm", null, "1", "12", "20" ]
+, [ "row-i3qf~8j7n~rdzh", "00000000-0000-0000-8A6E-91139122031C", 0, 1571157630, null, 1571157630, null, "{ }", "35B", "PM", "10132018", "45", "56° F, Partly Cloudy", "None", null, "Humans, Dogs, Rats, Ducks, Canada Geese", "Calm", "Foot traffic on the path", "1", "7", "28" ]
+, [ "row-nz3f_wu2z-4egr", "00000000-0000-0000-EBAC-D709BA5BAC89", 0, 1571157630, null, 1571157630, null, "{ }", "35B", "AM", "10102018", "223", "73º F, Cloud/Overcast, beginning to clear, humid", "None", null, "Humans, Dogs, Sparrows", "Calm", null, "1", "4", "22" ]
+, [ "row-f3ps.qwku.dks4", "00000000-0000-0000-909F-A826E5CB9DAA", 0, 1571157630, null, 1571157630, null, "{ }", "35C", "AM", "10072018", "209", "70º F, Overcast", "None", null, "Humans, Dogs", "Busy", null, "1", "6", "21" ]
+, [ "row-5vxa-8bmg.i4wy", "00000000-0000-0000-7F29-5F49EA7E1479", 0, 1571157630, null, 1571157630, null, "{ }", "35C", "PM", "10132018", "248", "56° F, Partly Cloudy, Breeze", null, null, "Humans, Dogs", "Busy", null, "1", "8", "23" ]
+, [ "row-u86k-8hrr~d763", "00000000-0000-0000-6736-E3B85E6EAF6B", 0, 1571157630, null, 1571157630, null, "{ }", "35D", "AM", "10192018", "186", "45º F, Sunny, Windy", "None", null, "Humans, Dogs, Birds, No Pigeons", "Busy", "Chainsaw in distance, park golf carts zipping around, joggers", "1", "2", "20" ]
+, [ "row-tcpi~7v9x-wv7x", "00000000-0000-0000-3746-4594DD91C4A0", 0, 1571157630, null, 1571157630, null, "{ }", "35D", "PM", "10132018", "258", null, null, null, null, null, null, "1", "9", "23" ]
+, [ "row-7tau_ikw8~5dv7", "00000000-0000-0000-CCAC-69C7BF868760", 0, 1571157630, null, 1571157630, null, "{ }", "35E", "PM", "10062018", "35", "68º F, Overcast Misty", "Some", null, "Humans, Dogs", "Busy", null, "1", "7", "30" ]
+, [ "row-xw46.9abt-9zx8", "00000000-0000-0000-2D4B-6F1946CDA1FE", 0, 1571157630, null, 1571157630, null, "{ }", "35E", "AM", "10202018", "114", "55º F, Overcast, Breezy", "Some", null, "Humans, Hawks, Dogs", "Calm", null, "1", "4", "21" ]
+, [ "row-2win_g7ps~n3dh", "00000000-0000-0000-CABB-884D6FB2792C", 0, 1571157630, null, 1571157630, null, "{ }", "35F", "PM", "10122018", "19", "61º F, sunny, clear", "None", null, "Humans, Hawks, Dogs, Blue jay", "Calm", null, "1", "3", "27" ]
+, [ "row-pvbx.hgpk~juka", "00000000-0000-0000-7168-A8DA2724039E", 0, 1571157630, null, 1571157630, null, "{ }", "35F", "AM", "10072018", "237", "74º F, Cloudy", "Some", null, "Humans, Dogs", "Busy", null, "1", "1", "1" ]
+, [ "row-kmav.5g2z.ptef", "00000000-0000-0000-9B55-58ABA1FCE43D", 0, 1571157630, null, 1571157630, null, "{ }", "35G", "AM", "10072018", "10", "70º F, Overcast", "Some", null, "Humans, Dogs, Birds.", "Busy", null, "1", "2", "20" ]
+, [ "row-h76p_3xdt.n5v4", "00000000-0000-0000-7D61-6C3D9CE4D6BC", 0, 1571157630, null, 1571157630, null, "{ }", "35G", "PM", "10062018", "196", "64 F Cloudy & misty", null, null, null, "Moderate", null, "1", "1", "20" ]
+, [ "row-8rg4-45dr~cd79", "00000000-0000-0000-EEEE-1C010C201860", 0, 1571157630, null, 1571157630, null, "{ }", "35H", "AM", "10132018", "61", "49º F, light rain", "None", null, "Humans, Dogs", "Calm", null, "1", "2", "23" ]
+, [ "row-idc3_jbrd~9a7m", "00000000-0000-0000-CF01-150ACB8BF57A", 0, 1571157630, null, 1571157630, null, "{ }", "35H", "PM", "10122018", "248", "61º F, clear sky, breezy", "None", null, "Humans, Dogs", "Busy", null, "1", "0", "25" ]
+, [ "row-q5vc.8x9z.nwfp", "00000000-0000-0000-3438-E40DCC54F5B1", 0, 1571157630, null, 1571157630, null, "{ }", "35I", "PM", "10062018", "41", "68º F, misty, humid", "Some", null, "Humans, Dogs, Field mouse, Chipmunk", "Calm", "Hilly, rocky terrain", "1", "2", "20" ]
+, [ "row-vc59_e4q9.puk5", "00000000-0000-0000-89B8-967AD35E58BF", 0, 1571157630, null, 1571157630, null, "{ }", "35I", "AM", "10132018", "145", "50º F, light rain", "Some", null, "Humans, Dogs, Small birds", "Calm", "Calm in hectare, but cars on [road]", "1", "1", "23" ]
+, [ "row-fj7t.6b7s.bxkp", "00000000-0000-0000-4050-1452756F5748", 0, 1571157630, null, 1571157630, null, "{ }", "36A", "AM", "10182018", "2", "45º F, Brisk, Clear", "None", null, "Humans, Dogs, Birds, Sparrows", "Calm", null, "1", "2", "23" ]
+, [ "row-8eh5.zksc.c8ef", "00000000-0000-0000-1F83-6C3F73FC6701", 0, 1571157630, null, 1571157630, null, "{ }", "36A", "PM", "10132018", "243", "56º F, mostly sunny, very slight breeze", "Some", null, "Humans, Dogs, Pigeons, Chipmunk (?), Crickets", "Busy", "Busy (bypassers)", "1", "9", "67" ]
+, [ "row-zuqv_iq26_e7j2", "00000000-0000-0000-F25D-F21C7557B7D0", 0, 1571157630, null, 1571157630, null, "{ }", "36B", "AM", "10132018", "41", "50º F, rainy", "Some", null, "Humans, Dogs, Ducks", "Calm", null, "1", "4", "23" ]
+, [ "row-bqjv-mhu9.5scd", "00000000-0000-0000-9858-C9E4ABFF8784", 0, 1571157630, null, 1571157630, null, "{ }", "36B", "PM", "10132018", "81", "54º F, partly cloudy", "None", null, "Humans, Birds (lots of screeching, not sure what kind of birds)", "Calm", null, "1", "5", "20" ]
+, [ "row-mvre_6gdk.4fua", "00000000-0000-0000-D3D8-893EF1F8BEB7", 0, 1571157630, null, 1571157630, null, "{ }", "36C", "PM", "10132018", "45", "56° F, Partly Cloudy", "None", null, "Humans, Dogs, Dogs (on path), Ducks & Geese (in pool)", "Calm, Busy", "Busy on West Dr", "1", "6", "25" ]
+, [ "row-pbbr_mr4p~5by4", "00000000-0000-0000-BB6B-D589912A378D", 0, 1571157630, null, 1571157630, null, "{ }", "36C", "AM", "10142018", "243", "50º F, Calm, Fair, Sunny", "None", null, "Humans, Birds", "Calm, Busy", "Calm in woods, busy outside with fund walk", "1", "4", "40" ]
+, [ "row-nrp3~8i2y-tuji", "00000000-0000-0000-B991-8E3A3430DAA9", 0, 1571157630, null, 1571157630, null, "{ }", "36D", "PM", "10072018", "1", "81º F, Humid. Overcast.", "Some", null, "Humans, Dogs, Turtle, Chipmunks", "Calm", null, "1", "2", "32" ]
+, [ "row-kmdt_t74b~4drv", "00000000-0000-0000-7565-6CE9439FF895", 0, 1571157630, null, 1571157630, null, "{ }", "36D", "AM", "10072018", "209", "70º F, Overcast", "Some", null, "Humans, Dogs, Chipmunks", "Calm", null, "1", "1", "34" ]
+, [ "row-8t74~fz8t.ntzv", "00000000-0000-0000-9E05-E63B3A36F52B", 0, 1571157630, null, 1571157630, null, "{ }", "36E", "AM", "10132018", "41", "50º F, rainy", null, null, "Humans, Dogs, Chipmunk", "Moderate", "Lots of runners", "1", "3", "20" ]
+, [ "row-8x9g~9zkh-mt63", "00000000-0000-0000-7E5A-350105E55156", 0, 1571157630, null, 1571157630, null, "{ }", "36E", "PM", "10122018", "77", "61º F, sunny, light breeze", "Some", null, "Humans, Dogs, Rat", "Calm", "People on path", "1", "2", "25" ]
+, [ "row-fqcq.j8sx-acdf", "00000000-0000-0000-F83E-151C9F0AE539", 0, 1571157630, null, 1571157630, null, "{ }", "36F", "PM", "10122018", "35", "61º F, no clouds, clear sky, breeze", "None", null, "Humans, Robin", "Busy", null, "1", "7", "25" ]
+, [ "row-4qez.j954_fmhv", "00000000-0000-0000-6ACF-5B0F91A41733", 0, 1571157630, null, 1571157630, null, "{ }", "36F", "AM", "10172018", "183", "50º F, sunny, clear", "None", null, "Humans, Dogs", "Calm", "Squeaky toys", "1", "5", "20" ]
+, [ "row-772c~ckm9~74w8", "00000000-0000-0000-BC82-27BA771AF5EC", 0, 1571157630, null, 1571157630, null, "{ }", "36G", "AM", "10182018", "60", null, null, null, null, null, null, "1", "0", null ]
+, [ "row-7azt-xmay.hz94", "00000000-0000-0000-E497-8D1E2428AD5A", 0, 1571157630, null, 1571157630, null, "{ }", "36G", "PM", "10122018", "250", "61º F, sunny, windy", "Some", null, "Humans, Dogs, Pigeons, Robins", "Busy", null, "1", "2", "20" ]
+, [ "row-vext-zat9~asqf", "00000000-0000-0000-2862-06CA9A3B3462", 0, 1571157630, null, 1571157630, null, "{ }", "36H", "PM", "10082018", "104", "66º F, foggy, drizzly", "None", null, "Humans, Hawks, Dogs", "Busy", null, "1", "2", "40" ]
+, [ "row-9g8p-8hjk-63m6", "00000000-0000-0000-C04F-9EF2BB8D3A33", 0, 1571157630, null, 1571157630, null, "{ }", "36H", "AM", "10102018", "264", "72º F, Mostly cloudy, calm", "None", null, "Dogs, lots of Blue jays & Gackels", "Calm", null, "1", "2", "26" ]
+, [ "row-rxfv.y7i2.eedk", "00000000-0000-0000-BFEE-3D9F87E11775", 0, 1571157630, null, 1571157630, null, "{ }", "36I", "AM", "10172018", "183", "50º F, sunny, clear", "Some", null, "Humans, Dogs, Many song birds: Wrens, Finches, Blue jays, Mourning dove", "Calm", "Traffic noises nearby", "1", "8", "23" ]
+, [ "row-8fsr~c3e9-dizr", "00000000-0000-0000-8154-82118EFCE557", 0, 1571157630, null, 1571157630, null, "{ }", "36I", "PM", "10072018", "183", "81º F, partly cloudy. Humid", "None", null, "Humans, Dogs, Blue jays. Robins, Sparrows", "Busy", null, "1", "13", "30" ]
+, [ "row-r9cx_sshd~2hke", "00000000-0000-0000-3C46-7442D169B81D", 0, 1571157630, null, 1571157630, null, "{ }", "37A", "AM", "10122018", "248", "59º F, partly cloudy, breeze", null, null, "Morning Dove, Crows", "Calm", null, "1", "1", "23" ]
+, [ "row-g689.hep2-ivxy", "00000000-0000-0000-964D-CBBEA3B8AC79", 0, 1571157630, null, 1571157630, null, "{ }", "37B", "AM", "10182018", "120", "45º F, Clear, Cold", "None", null, "Humans, Dogs, Birds", "Calm", null, "1", "6", "25" ]
+, [ "row-6yjd~h7uq-u28m", "00000000-0000-0000-C5A8-B6F1ADE7EA55", 0, 1571157630, null, 1571157630, null, "{ }", "37B", "PM", "10132018", "128", "55° F, mostly cloudy", null, null, "Dogs", "Calm", null, "1", "5", "25" ]
+, [ "row-6mkh-8682-ir3b", "00000000-0000-0000-0386-77CA4C585494", 0, 1571157630, null, 1571157630, null, "{ }", "37C", "PM", "10132018", "242", "55° F, Mostly Cloudy, Cool, Breezy", null, null, "Chipmunks (2)", "Busy", null, "1", "5", "20" ]
+, [ "row-t2hm-jbkw_qmun", "00000000-0000-0000-B810-E2A07BAC9037", 0, 1571157630, null, 1571157630, null, "{ }", "37C", "AM", "10122018", "248", "59º F, mostly cloudy, windy", "Some", "Beer party can debris", "Humans, Blue Jay, Warbler", "Calm", null, "1", "4", "24" ]
+, [ "row-th9f.8w4v_cpmu", "00000000-0000-0000-4493-40F1C40E77BD", 0, 1571157630, null, 1571157630, null, "{ }", "37D", "AM", "10182018", "2", "45º F, Clear", "None", null, "Humans, Falcon, Chipmunks", "Calm", null, "1", "2", "31" ]
+, [ "row-e3kj-dqn3~cigz", "00000000-0000-0000-C056-B563754F2F59", 0, 1571157630, null, 1571157630, null, "{ }", "37D", "PM", "10142018", "209", "57º F, overcast", "Some", null, "Humans, Chipmunks", "Calm", null, "1", "8", "26" ]
+, [ "row-tcd8_4ehg~tryq", "00000000-0000-0000-F5BE-264FFDB830BD", 0, 1571157630, null, 1571157630, null, "{ }", "37E", "PM", "10062018", "40", "65º F, misty overcast", "Some", null, "Humans, Chipmunks, Lots of little birds", "Calm", null, "1", "9", "20" ]
+, [ "row-uxic~ww7s_ehrd", "00000000-0000-0000-D13C-D5455FC0A4CD", 0, 1571157630, null, 1571157630, null, "{ }", "37E", "AM", "10132018", "252", "50º F, light rain", "None", null, "Humans, Dogs, Birds", "Calm", null, "1", "5", "22" ]
+, [ "row-thpx_d2uw~ihgp", "00000000-0000-0000-B668-33A45208CFE8", 0, 1571157630, null, 1571157630, null, "{ }", "37F", "AM", "10102018", "120", "Overcast & humid but cool", "Some", null, "Humans, Dogs, Gull, Birds", "Busy", null, "1", "1", "25" ]
+, [ "row-4zzf_b6ku_aavk", "00000000-0000-0000-585D-9C3CC3380478", 0, 1571157630, null, 1571157630, null, "{ }", "37F", "PM", "10142018", "243", "59º F, overcast, SW 6 mph", "None", null, "Humans", "Busy", null, "1", "3", "24" ]
+, [ "row-xwwa.j9uk.xj9w", "00000000-0000-0000-5447-C9D60BC01076", 0, 1571157630, null, 1571157630, null, "{ }", "37G", "PM", "10072018", "114", "81º F, p/c. Humid", null, null, "Humans, Dogs", "Busy", null, "1", "9", "24" ]
+, [ "row-3ced~tznu-wddm", "00000000-0000-0000-6645-DF15B5E10F18", 0, 1571157630, null, 1571157630, null, "{ }", "37H", "PM", "10062018", "34", "65º F, misty, overcast", "None", null, "Humans, Dogs", "Calm", "Lots of humans walking quietly", "1", "6", "23" ]
+, [ "row-ag9x_vjdq-p8mi", "00000000-0000-0000-68E0-BF50F81243BF", 0, 1571157630, null, 1571157630, null, "{ }", "37H", "AM", "10182018", "84", "45º F, Very Sunny, Chilly", null, null, "Humans, Dogs, Mourning doves (sic), Sparrows", "Calm", null, "1", "4", "27" ]
+, [ "row-pq79~vnha~dmap", "00000000-0000-0000-6908-AD09DAAD68FB", 0, 1571157630, null, 1571157630, null, "{ }", "37I", "AM", "10102018", "120", "Overcast & humid but cool", "None", null, "Humans, Dogs, Birds, Chipmunks", "Calm", null, "1", "5", "25" ]
+, [ "row-fprx_vz3r.mdu5", "00000000-0000-0000-BC4C-336A2AA45EA3", 0, 1571157630, null, 1571157630, null, "{ }", "37I", "PM", "10062018", "172", "~65º F, Misting & Cloudy", "None", null, "Humans, Dogs, Chipmunks (5+)", "Calm", null, "1", "2", "22" ]
+, [ "row-ttsv.9bij-umsq", "00000000-0000-0000-2854-AD9AE24207F2", 0, 1571157630, null, 1571157630, null, "{ }", "38A", "AM", "10192018", "186", "45º F, Sunny Windy", "None", null, "Humans, Birds, No Pigeons", "Busy", "Traffic, lawn mowing in 39A, kids on lawn in 39.", "1", "5", "25" ]
+, [ "row-k6t9_ca3d-7ruh", "00000000-0000-0000-FC1E-DCC9C7C79A95", 0, 1571157630, null, 1571157630, null, "{ }", "38A", "PM", "10132018", "210", "55º F, partly cloudly", "Some", null, "Humans, Dogs, Pigeons", "Calm", null, "1", "5", "23" ]
+, [ "row-guq3_sp6p_4kp8", "00000000-0000-0000-0064-DDED3650D5C1", 0, 1571157630, null, 1571157630, null, "{ }", "38B", "AM", "10192018", "7", "45º F, Sunny, Cold Breeze", "None", null, "Humans, Dogs", null, null, "1", "5", "25" ]
+, [ "row-vdx6-khii.pe6b", "00000000-0000-0000-BC6F-4F0F0439CA99", 0, 1571157630, null, 1571157630, null, "{ }", "38B", "PM", "10182018", "114", "53º F, Sunny, Light Breeze", "None", null, "Humans, Hawks, Dogs", "Busy", "Lots of school kids", "1", "2", "24" ]
+, [ "row-c38q-ex8j-y93a", "00000000-0000-0000-02FF-EC42D74D3F57", 0, 1571157630, null, 1571157630, null, "{ }", "38C", "AM", "10192018", "7", "45º F, Sunny, Cold Breeze Wind", "None", null, "Humans, Dogs", "Calm", null, "1", "11", "25" ]
+, [ "row-hdif~8fcw~hff8", "00000000-0000-0000-3D22-C5AD5A905429", 0, 1571157630, null, 1571157630, null, "{ }", "38C", "PM", "10142018", "217", "58º F, Cloudy", "None", null, "Humans, Sparrows", "Busy", null, "1", "10", "25" ]
+, [ "row-v226.vg22-3czv", "00000000-0000-0000-93AD-EE2257E61C92", 0, 1571157630, null, 1571157630, null, "{ }", "38D", "PM", "10062018", "40", "65º F, Misty, overcast", "Some", null, "Humans, Small birds, Chipmunks", "Moderate", null, "1", "4", "20" ]
+, [ "row-52bq.jbx3.czhn", "00000000-0000-0000-82E8-4C214F1CA29D", 0, 1571157630, null, 1571157630, null, "{ }", "38D", "AM", "10172018", "135", "50º F, clear, sunny", "None", null, "Humans, Dogs, Migratory birds", "Calm", null, "1", "6", "32" ]
+, [ "row-enr2_u2ni-mi87", "00000000-0000-0000-8F0E-A8D5E4214A45", 0, 1571157630, null, 1571157630, null, "{ }", "38E", "AM", "10102018", "105", "72º F, Bit cloudier", "Some", null, "Chipmunks", "Calm", null, "1", "12", "20" ]
+, [ "row-m2qv-mh9h_vh44", "00000000-0000-0000-55D4-405371D8EB36", 0, 1571157630, null, 1571157630, null, "{ }", "38E", "PM", "10142018", "243", "59º F, overcast, SW 6 mph", "None", null, "Humans, Chippys, Birds", "Busy", null, "1", "5", "35" ]
+, [ "row-mvsc.ph25~5xdm", "00000000-0000-0000-DA31-CFD7D349EB73", 0, 1571157630, null, 1571157630, null, "{ }", "38F", "AM", "10182018", "114", "45º F, Clear", "Some", null, "Humans, Dogs", null, null, "1", "6", "23" ]
+, [ "row-ccgc.9uy9_sves", "00000000-0000-0000-9825-65386E48DEE5", 0, 1571157630, null, 1571157630, null, "{ }", "38F", "PM", "10132018", "222", "56º F, partly cloudy", "None", null, "Humans, Small birds, Chipmunks", "Calm, Busy", "Only small chunk near road was busy, the rest was unoccupied", "1", "6", "22" ]
+, [ "row-anea~8yu6.nf84", "00000000-0000-0000-89BF-9020DB1F3594", 0, 1571157630, null, 1571157630, null, "{ }", "38G", "PM", "10202018", "87", "61º F, Sunny and Clear", "None", null, "Humans", "Calm", null, "1", "11", "25" ]
+, [ "row-9bn3.jv2z.zpia", "00000000-0000-0000-6F1F-73A2125DAB00", 0, 1571157630, null, 1571157630, null, "{ }", "38G", "AM", "10182018", "114", "45º F, Sunny", null, null, "Humans, Dogs", "Busy", null, "1", "0", "20" ]
+, [ "row-yewn.rtmp~yaj4", "00000000-0000-0000-AC2B-602DA98C0546", 0, 1571157630, null, 1571157630, null, "{ }", "38H", "PM", "10122018", "64", "61º F, breeze, blue sky", "Abundant", null, "Humans, Birds", "Calm", null, "1", "1", "30" ]
+, [ "row-dt2n_38i6.wbub", "00000000-0000-0000-96E8-F13A2368A7AA", 0, 1571157630, null, 1571157630, null, "{ }", "38H", "AM", "10192018", "114", "46º F, Sunny", "Some", null, "Humans, Hawks, Dogs", "Calm", null, "1", "1", "22" ]
+, [ "row-pjqv~b92x_9u76", "00000000-0000-0000-A07D-1029F06532F7", 0, 1571157630, null, 1571157630, null, "{ }", "38I", "AM", "10192018", "37", "45º F, Sunny, Breezy", "None", null, "Humans, So many Birds!", "Calm", null, "1", "2", "20" ]
+, [ "row-rsa7_qtw9~eec7", "00000000-0000-0000-93BE-CCD9A3CF0A27", 0, 1571157630, null, 1571157630, null, "{ }", "38I", "PM", "10142018", "100", "57º F, overcast", "Some", null, "Humans, Dogs, Rats, Chipmunks", "Busy", null, "1", "4", "25" ]
+, [ "row-cfgm_jif7.bdnp", "00000000-0000-0000-9994-F4297D0A88C1", 0, 1571157630, null, 1571157630, null, "{ }", "39A", "PM", "10142018", "238", "57º F, overcast", "Some", null, "Humans, Dogs", "Busy", null, "1", "3", "23" ]
+, [ "row-zbme_7f7q~r577", "00000000-0000-0000-C2D8-47EC0686AAF1", 0, 1571157630, null, 1571157630, null, "{ }", "39A", "AM", "10132018", "252", "50º F, light rain", "None", null, "Humans", "Calm", null, "1", "1", "20" ]
+, [ "row-6aen~qpjt~s8ra", "00000000-0000-0000-1941-AD18C48908E2", 0, 1571157630, null, 1571157630, null, "{ }", "42D", "AM", "10142018", "215", "50º F, mostly sunny", "Some", null, "Humans, Dogs, Pigeons", "Busy", null, "1", "3", "25" ]
+, [ "row-cyc7_3mq7_uiwm", "00000000-0000-0000-D691-FEBCE414FE95", 0, 1571157630, null, 1571157630, null, "{ }", "39B", "PM", "10142018", "183", "57º F, Cloudy", "None", null, "Humans, Hawks, Dogs, Chipmunks, Blue jays", "Calm, Busy", "Calm in woods, busy, music nearby w/ tambourines, chanting, just outside so. edge of hectare", "1", "6", "20" ]
+, [ "row-hzx4-uxgr_gxgk", "00000000-0000-0000-581C-570D6ABD68C9", 0, 1571157630, null, 1571157630, null, "{ }", "39B", "AM", "10182018", "262", "45º F, Clear, Brisk", null, null, "Humans, Dogs", "Busy", null, "1", "1", "26" ]
+, [ "row-zzxz.2683~g7kb", "00000000-0000-0000-6C65-80DB8E0D765E", 0, 1571157630, null, 1571157630, null, "{ }", "39C", "AM", "10172018", "120", "50º F, clear, sunny", "None", null, "Humans, Dogs", "Busy", null, "1", "4", "30" ]
+, [ "row-6c87-aewa~a2ug", "00000000-0000-0000-1C1D-5634B867CC70", 0, 1571157630, null, 1571157630, null, "{ }", "39C", "PM", "10062018", "196", "64º F, Cloudy & Misty", null, null, "Hawks, Chipmunk", "Moderate", null, "1", "4", "20" ]
+, [ "row-9qys-ek7i.iq7a", "00000000-0000-0000-2B79-4955B21EA45A", 0, 1571157630, null, 1571157630, null, "{ }", "39D", "PM", "10122018", "22", "61º F, clear sky, windy", "Some", null, "Humans, Chipmunk, Warbler", "Calm", null, "1", "4", "32" ]
+, [ "row-aba3~9e9r_hkiu", "00000000-0000-0000-B23C-E2FF578FCBAC", 0, 1571157630, null, 1571157630, null, "{ }", "39D", "AM", "10082018", "224", "67º F, cloudy, drizzling", "Some", null, "Humans", "Calm", null, "1", "6", "33" ]
+, [ "row-wqez_ug2j_p46e", "00000000-0000-0000-820D-14942141210C", 0, 1571157630, null, 1571157630, null, "{ }", "39E", "PM", "10132018", "3", "59º F, sunny, slightly cloudy", "Abundant", null, "Humans, Dogs, Birds, Chipmunks", "Calm", null, "1", "2", "26" ]
+, [ "row-a4id-uti8_maid", "00000000-0000-0000-97C0-751ADCFBB047", 0, 1571157630, null, 1571157630, null, "{ }", "39E", "AM", "10182018", "120", "45º F, Clear, Brisk", "Some", null, "Humans, Dogs, Birds", "Busy", null, "1", "5", "28" ]
+, [ "row-aihc.wyxw.8ats", "00000000-0000-0000-8275-035029C65F9B", 0, 1571157630, null, 1571157630, null, "{ }", "39F", "AM", "10142018", "17", "51º F, mostly sunny", "None", null, "Humans, Dogs, Chipmunks", "Calm, Busy", "\"no woods\"", "1", "5", "25" ]
+, [ "row-iixr-k3am.3rug", "00000000-0000-0000-3568-74220982FEA1", 0, 1571157630, null, 1571157630, null, "{ }", "39F", "PM", "10062018", "34", "65º F, misty, overcast", "None", null, "Humans, Dogs", "Calm", null, "1", "4", "21" ]
+, [ "row-xg73_newi-hkc6", "00000000-0000-0000-EC4F-FE5B3C73F9B9", 0, 1571157630, null, 1571157630, null, "{ }", "39G", "AM", "10182018", "244", "45º F, Windy, Clear Skies", "Some", null, "Humans, Song birds", "Calm", null, "1", "2", "24" ]
+, [ "row-vjqb~kza8.u7qg", "00000000-0000-0000-955D-D08B3149C8BE", 0, 1571157630, null, 1571157630, null, "{ }", "39H", "PM", "10132018", "236", "55° F, mostly cloudy", "None", null, "Humans, Hawks, Dogs", "Busy", null, "1", "3", "25" ]
+, [ "row-6fex-88c7_9e52", "00000000-0000-0000-EA24-3287746044AF", 0, 1571157630, null, 1571157630, null, "{ }", "39H", "AM", "10072018", "259", null, null, null, "Humans, Dogs", "Busy", null, "1", "4", null ]
+, [ "row-999c-ixsm~etcb", "00000000-0000-0000-1948-C8B47C17967C", 0, 1571157630, null, 1571157630, null, "{ }", "39I", "AM", "10192018", "37", "45º F, Sunny, Breezy", "None", null, "Humans, Hawks, Dogs", "Calm", null, "1", "0", "25" ]
+, [ "row-tpii_ep2q~ifpr", "00000000-0000-0000-4FCB-F7409A3B7138", 0, 1571157630, null, 1571157630, null, "{ }", "40A", "PM", "10142018", "99", "57º F, overcast", null, null, "Humans", null, null, "1", "6", null ]
+, [ "row-2dnj.wear~t29x", "00000000-0000-0000-E1AE-DF8505B73AA1", 0, 1571157630, null, 1571157630, null, "{ }", "40A", "AM", "10102018", "105", "72º F, Absolute perfection", "Some", null, "Robins?", "Moderate", "Noise pollution", "1", "4", "25" ]
+, [ "row-9946-729k_cda4", "00000000-0000-0000-B16A-C666B93B02C6", 0, 1571157630, null, 1571157630, null, "{ }", "40B", "AM", "10192018", "253", "47º F, Sunny, Breezy", "Some", null, "Humans, Dogs", "Calm", null, "1", "9", "40" ]
+, [ "row-vvxi_6fm3.4xxr", "00000000-0000-0000-39B5-BBDFF36CB817", 0, 1571157630, null, 1571157630, null, "{ }", "40C", "AM", "10172018", "135", "50º F, clear, sunny", "None", null, "Humans, Chipmunk, migratory birds", "Calm", null, "1", "7", "23" ]
+, [ "row-93cd.bfu8.avjn", "00000000-0000-0000-BAC8-AFF73E55F965", 0, 1571157630, null, 1571157630, null, "{ }", "40D", "AM", "10132018", "40", "50º F, light rain", "Abundant", null, "Humans (a trail runner)", "Calm", null, "1", "7", "20" ]
+, [ "row-5b92~ipyw.a6fy", "00000000-0000-0000-40DD-B9FB1A2C681E", 0, 1571157630, null, 1571157630, null, "{ }", "40D", "PM", "10132018", "210", "56º F, Partly Cloudy", "Abundant", null, "Humans, Dogs, Chipmunk", "Calm", null, "1", "7", "27" ]
+, [ "row-t76a.3xwr.n3fg", "00000000-0000-0000-AC4D-F07A4E5C60E0", 0, 1571157630, null, 1571157630, null, "{ }", "40E", "AM", "10142018", "215", "50º F, mostly sunny", "Some", null, "Humans, Hawks, Dogs", "Busy", null, "1", "4", "25" ]
+, [ "row-sga2.4dfn.hy96", "00000000-0000-0000-0427-AC557277FFD0", 0, 1571157630, null, 1571157630, null, "{ }", "40F", "AM", "10182018", "84", "45º F, Clear, Sunny", null, null, "Humans, Dogs, Ducks, Mainly female mallards, Canadian geese, also Small birds Sparrows?", "Calm", null, "1", "0", "27" ]
+, [ "row-r2te.4r2b~uu6z", "00000000-0000-0000-DAC1-838771B1324B", 0, 1571157630, null, 1571157630, null, "{ }", "40F", "PM", "10062018", "172", "~65º F, cloudy misting", "Some", null, "Dogs", "Calm", null, "1", "3", "28" ]
+, [ "row-uhcb-6bb8~37cp", "00000000-0000-0000-9CB4-A2B214E9C8CE", 0, 1571157630, null, 1571157630, null, "{ }", "40G", "AM", "10072018", "54", "70º F, Overcast", null, null, "Humans, Dogs, Finches", "Calm", null, "1", "2", null ]
+, [ "row-54fa-z7cm.exzr", "00000000-0000-0000-2003-312F768AF325", 0, 1571157630, null, 1571157630, null, "{ }", "40H", "PM", "10082018", "49", "overcast, dusk", "None", null, "Humans, Dogs, Woodpecker, Chipmunk", "Calm", null, "1", "0", "25" ]
+, [ "row-xsg2-igp7-efqt", "00000000-0000-0000-EA27-B9AFB6D7F821", 0, 1571157630, null, 1571157630, null, "{ }", "40H", "AM", "10172018", "104", "52º F, breezy, sunny", "None", null, "Humans, Dogs, Geese", "Calm", null, "1", "2", "20" ]
+, [ "row-x3s2_a6sh_edp2", "00000000-0000-0000-C5C4-CEF27828AE41", 0, 1571157630, null, 1571157630, null, "{ }", "40I", "AM", "10182018", "27", "45º F, Clear", null, null, "Humans, Hawks, Ducks", "Busy", null, "1", "2", "20" ]
+, [ "row-g54f~ywi5.7xvt", "00000000-0000-0000-E603-203B601F082E", 0, 1571157630, null, 1571157630, null, "{ }", "41A", "PM", "10072018", "30", "81º F, Partly Cloudy", "Some", null, "Humans, Dogs, Pigeons, Chipmunks", "Busy", null, "1", "6", "25" ]
+, [ "row-3eax~96g7.ypuc", "00000000-0000-0000-8B17-F914B11650EE", 0, 1571157630, null, 1571157630, null, "{ }", "41A", "AM", "10132018", "40", "50º F, light rain", "Abundant", null, "Humans, Dogs, Birds, Chipmunks", "Calm", null, "1", "1", "20" ]
+, [ "row-epm7.ugw7.zrf4", "00000000-0000-0000-E6DC-FBCD17C5799B", 0, 1571157630, null, 1571157630, null, "{ }", "41B", "PM", "10142018", "111", "57º F, overcast", "Some", null, "Dogs, Chipmunks (at least 3)", "Calm", null, "1", "5", "45" ]
+, [ "row-x9ns.ipek-gdkr", "00000000-0000-0000-0EC3-DB38C14D6A38", 0, 1571157630, null, 1571157630, null, "{ }", "41C", "PM", "10072018", "30", "81º F, Partly Cloudy", null, null, "Humans, Birds. Chipmunks", null, null, "1", "4", "25" ]
+, [ "row-n4mb-2asc-2w69", "00000000-0000-0000-00B0-F36E375B7325", 0, 1571157630, null, 1571157630, null, "{ }", "41C", "AM", "10172018", "120", "50º F, clear, sunny", "Abundant", null, "Humans, Dogs, Birds", "Calm", null, "1", "7", "30" ]
+, [ "row-x6sx-7hq7-cnsb", "00000000-0000-0000-2925-86F5D954D8FF", 0, 1571157630, null, 1571157630, null, "{ }", "41D", "PM", "10142018", "26", "57º F, cloudy", "Some", null, "Humans, Hawks, Dogs, Chipmunk", "Calm", null, "1", "5", "30" ]
+, [ "row-hasp.yfg6.qw9u", "00000000-0000-0000-8B9F-1F27A10FA59D", 0, 1571157630, null, 1571157630, null, "{ }", "41D", "AM", "10142018", "176", "50º F, mostly sunny", "Some", null, "Humans, Dogs", "Calm", null, "1", "5", null ]
+, [ "row-pbkh_9tnj~qpqp", "00000000-0000-0000-8966-B868C02530F8", 0, 1571157630, null, 1571157630, null, "{ }", "41E", "AM", "10072018", "114", "71º F, o/c", "Some", null, "Humans, Dogs", "Busy", "Runners", "1", "6", "25" ]
+, [ "row-xf6x-b29b~icz2", "00000000-0000-0000-A1C4-E3593FC2B4C9", 0, 1571157630, null, 1571157630, null, "{ }", "41F", "PM", "10192018", "114", "60º F, p/c bluh", null, null, "Humans", null, null, "1", "2", null ]
+, [ "row-m5fb_fn3r_a5sh", "00000000-0000-0000-99F4-42AF915E4767", 0, 1571157630, null, 1571157630, null, "{ }", "41F", "AM", "10192018", "183", "45º F, Sunny, Breezy", "None", null, "Humans, Dogs, Geese, Mallard Nests", "Calm, Busy", "Started busy, then very calm", "1", "0", "21" ]
+, [ "row-pykd_crvb.3s9k", "00000000-0000-0000-7E67-FB88FC67267C", 0, 1571157630, null, 1571157630, null, "{ }", "41G", "PM", "10142018", "10", "57º F, overcast", "Some", null, "Humans, Ducks, Birds", "Calm", null, "1", "0", "20" ]
+, [ "row-692m~aksj-qfwp", "00000000-0000-0000-FA7F-D45C9135C844", 0, 1571157630, null, 1571157630, null, "{ }", "41G", "AM", "10132018", "114", "50º F, sprinkling", "Some", null, "Humans, Dogs", "Calm", null, "1", "2", "20" ]
+, [ "row-73he_68n5-sup7", "00000000-0000-0000-BE16-FA3342DD99F4", 0, 1571157630, null, 1571157630, null, "{ }", "41H", "PM", "10082018", "49", "cool, overcast", null, null, "Humans, Dogs, Pigeons, Turtles, Ducks, Geese", null, null, "1", "0", "15" ]
+, [ "row-h9rp~bpn9-q2ww", "00000000-0000-0000-6EE0-0965F1F9A5CA", 0, 1571157630, null, 1571157630, null, "{ }", "41H", "AM", "10172018", "104", "51º F, sunny, light breeze", "Some", null, "Humans, Dogs, Geese", "Calm", null, "1", "0", "30" ]
+, [ "row-8xj4-s8ig-2z42", "00000000-0000-0000-5C2B-9170CDC0B086", 0, 1571157630, null, 1571157630, null, "{ }", "41I", "AM", "10182018", "27", "45º F, Clear", null, null, "Humans, Dogs, Pigeons", "Busy", null, "1", "2", "20" ]
+, [ "row-y7hm~vy9s_hmqe", "00000000-0000-0000-FAFE-AC1DD41F8DAF", 0, 1571157630, null, 1571157630, null, "{ }", "41I", "PM", "10172018", "114", "63º F, partly cloudy, breezy", "Some", null, "Humans, Dogs, Pigeons, Geese, Ducks", "Busy", null, "1", "1", "22" ]
+, [ "row-t9x3~mazg~vxhe", "00000000-0000-0000-C4E1-D987E6847426", 0, 1571157630, null, 1571157630, null, "{ }", "42A", "PM", "10142018", "12", "57º F, mostly cloudy", "Some", null, "Humans, Dogs, Sparrows", "Busy", "He took a 20-minute lunch break in the middle of shift.", "1", "1", "28" ]
+, [ "row-zcsi-tdcx_7dgr", "00000000-0000-0000-ABF8-01AB9E5CB775", 0, 1571157630, null, 1571157630, null, "{ }", "42A", "AM", "10192018", "253", "45º F, Sunny Breezy", "Some", null, "Humans, Dogs, Pigeons, Rat, Chipmunk", "Calm", null, "1", "1", "30" ]
+, [ "row-avfp~kfez-nnbn", "00000000-0000-0000-65F5-CA45C0C40CDD", 0, 1571157630, null, 1571157630, null, "{ }", "42B", "PM", "10082018", "134", "64º F, cloudy, slight drizzle, humid", "Some", null, "Humans, Dogs", "Busy", null, "1", "0", "25" ]
+, [ "row-6wf6.je39.evra", "00000000-0000-0000-2A3E-9562941C3652", 0, 1571157630, null, 1571157630, null, "{ }", "42C", "AM", "10072018", "114", "71º F", null, null, "Humans, Dogs", "Busy", null, "1", "4", "27" ]
+, [ "row-mg7t_isw9_k4er", "00000000-0000-0000-BA66-B8510FFF3A61", 0, 1571157630, null, 1571157630, null, "{ }", "42C", "PM", "10132018", "128", "55° F, mostly cloudy", "Some", null, "Humans, Dogs, Chipmunk", "Busy", null, "1", "6", "26" ]
+, [ "row-u3e6-szw2~4wbi", "00000000-0000-0000-C17F-115D8E05EFC9", 0, 1571157630, null, 1571157630, null, "{ }", "42D", "PM", "10132018", "3", "55º F, cloudy (mostly)", "Abundant", "On street", "Humans, Dogs, Birds, Chipmunks, Rats", "Calm", null, "1", "4", "28" ]
+, [ "row-vdf7-pued-y5jj", "00000000-0000-0000-1488-15FBDE445B6D", 0, 1571157630, null, 1571157630, null, "{ }", "19H", "PM", "10082018", "164165", "cloudy", null, null, null, "Calm", null, "2", "1", "5" ]
+, [ "row-v3jf.pg5m~bbyz", "00000000-0000-0000-309A-38004093DACA", 0, 1571157630, null, 1571157630, null, "{ }", "42E", "PM", "10122018", "22", "61º F, clear sky, windy", "Some", null, "Humans, Dogs, Pigeons", "Busy", null, "1", "6", "20" ]
+, [ "row-gwsq-gues~vrvv", "00000000-0000-0000-3BA7-6E7138589E07", 0, 1571157630, null, 1571157630, null, "{ }", "42E", "AM", "10082018", "224", "65º F, cloudy, drizzling", "Abundant", null, "Humans", "Busy", "Construction just outside sector", "1", "0", "21" ]
+, [ "row-3yjv~86cg-fibc", "00000000-0000-0000-8F00-851E1B971B19", 0, 1571157630, null, 1571157630, null, "{ }", "42F", "AM", "10192018", "194", "66º F, Calm and some Breeze", "Abundant", null, "Humans, Dogs, Geese", "Busy", null, "1", "2", "20" ]
+, [ "row-fysp-y8fz-zg2p", "00000000-0000-0000-1D3D-7C14085D3965", 0, 1571157630, null, 1571157630, null, "{ }", "42G", "AM", "10182018", "244", "45º F, Breezy, Clear Skies", null, null, "Humans, Dogs, Pigeons, other Song birds", "Calm", null, "1", "3", "25" ]
+, [ "row-789r~qtei~bqrp", "00000000-0000-0000-776B-D2A0055B8D25", 0, 1571157630, null, 1571157630, null, "{ }", "42H", "PM", "10142018", "39", "57º F, overcast", "Some", null, "Humans, Dogs, Pigeons", "Busy", null, "1", "5", "30" ]
+, [ "row-652h-zrij_f54g", "00000000-0000-0000-493D-C1F392CDB9DC", 0, 1571157630, null, 1571157630, null, "{ }", "42H", "AM", "10192018", "194", "66º F, Calm, Sunny", "Some", null, "Humans, Dogs, Birds", "Calm", null, "1", "2", "25" ]
+, [ "row-nj4r.b5sj.6kzv", "00000000-0000-0000-9F67-C5AF40FAB1DA", 0, 1571157630, null, 1571157630, null, "{ }", "42I", "PM", "10142018", "79", "57º F, cloudy", "None", null, "Humans, Dogs, Pigeons, Sparrows", "Calm", null, "1", "3", "25" ]
+, [ "row-pp4k_fr7q-habe", "00000000-0000-0000-4773-C4101D133EA4", 0, 1571157630, null, 1571157630, null, "{ }", "42I", "AM", "10192018", "183", "45º F, Sunny, Breezy", "None", null, "Humans, Dogs, Geese (a few)", "Calm", null, "1", "0", "20" ]
+, [ "row-guqi-zar9-qm2m", "00000000-0000-0000-B81F-94F7F2A7B560", 0, 1571157630, null, 1571157630, null, "{ }", "9I", "AM", "10142018", "145", "54º F, mostly sunny", "Some", null, "Humans, Dogs, Pigeons, Small birds", "Busy", null, "1", "9", "22" ]
+, [ "row-9zas~nejq_nknb", "00000000-0000-0000-D44C-87B9EAD6CF04", 0, 1571157630, null, 1571157630, null, "{ }", "01C", "AM", "10122018", "225226", "cool, sunny", "Some", null, "Humans, Dogs, Cats", "Calm", null, "2", "2", "30" ]
+, [ "row-is4q.k4ek-2yg5", "00000000-0000-0000-4BAC-101C9C33232A", 0, 1571157630, null, 1571157630, null, "{ }", "01D", "PM", "10072018", "3334", "80º F, Cloudy", "None", null, "Humans, Dogs, Pigeons, Sparrows", null, null, "2", "7", "25" ]
+, [ "row-qwku_xaxj.58wr", "00000000-0000-0000-C01C-A7F3CC260BA7", 0, 1571157630, null, 1571157630, null, "{ }", "01E", "PM", "10072018", "3334", "80º F, Sunny", "None", null, "Humans, Dogs, Pigeons,  Robins. Blue jays", "Busy", null, "2", "3", "20" ]
+, [ "row-arha-xrkb.a6wv", "00000000-0000-0000-418E-2E6EFED91684", 0, 1571157630, null, 1571157630, null, "{ }", "01I", "PM", "10122018", "225226", "cold, sunny", "Some", null, "Humans, Hawks, Dogs, Pigeons, Cats", "Busy", null, "2", "4", "70" ]
+, [ "row-jcjv-nfx6_3k3s", "00000000-0000-0000-6722-6D328E950EF1", 0, 1571157630, null, 1571157630, null, "{ }", "02B", "PM", "10132018", "245246", "54° F, Sunny, Breezy", "None", null, "Humans, Dogs, Pigeons, Robins, Sparrows", "Calm, Busy", "West Drive Busy", "2", "9", "22" ]
+, [ "row-ithj~zpzn-c67r", "00000000-0000-0000-EBEB-131AB9819CD2", 0, 1571157630, null, 1571157630, null, "{ }", "02B", "AM", "10102018", "6263", "70º F Partly cloudy", "Some", null, "Humans, Dogs, Pigeons", "Busy", null, "2", "8", "25" ]
+, [ "row-ma8c~h9dk~p2ja", "00000000-0000-0000-929D-4468C6849890", 0, 1571157630, null, 1571157630, null, "{ }", "02C", "PM", "10132018", "245246", "54° F, Sunny, Breezy", "None", null, "Humans, Robins, Sparrows", "Calm, Busy", "Fenced Areas / West Drive", "2", "12", "24" ]
+, [ "row-wy52.hcir_9tzc", "00000000-0000-0000-0426-EEAA5DC570EB", 0, 1571157630, null, 1571157630, null, "{ }", "02F", "PM", "10142018", "9798", "57º F, cloudy", "None", null, "Humans, Dogs, Pigeons, Chickadees", "Busy", null, "2", "12", "23" ]
+, [ "row-93xx~zfjc.488f", "00000000-0000-0000-42C8-4A5BEDD61D96", 0, 1571157630, null, 1571157630, null, "{ }", "03A", "AM", "10122018", "225226", "sunny, cool", "None", null, "Humans (Notes), Dogs, Cats", "Calm", null, "2", "3", "45" ]
+, [ "row-f485~75a9~dvxa", "00000000-0000-0000-6B74-B0FD724F8076", 0, 1571157630, null, 1571157630, null, "{ }", "03B", "AM", "10102018", "6263", "70º F Cloudy", "Some", null, "Humans, Dogs", "Busy", null, "2", "10", "30" ]
+, [ "row-6h4b_29zx_zj3t", "00000000-0000-0000-361B-2E0D7DB3CFBB", 0, 1571157630, null, 1571157630, null, "{ }", "03F", "PM", "10132018", "3031", "13° C, Partly Cloudy", null, null, "Humans, Dogs, Birds", "Busy", null, "2", "7", "20" ]
+, [ "row-63k5~vfh6.7wm9", "00000000-0000-0000-D687-312C013AC559", 0, 1571157630, null, 1571157630, null, "{ }", "03H", "PM", "10142018", "9798", "57º F, cloudy", "Some", null, "Humans, Dogs, Pigeons, Chickadees", "Busy", null, "2", "7", "25" ]
+, [ "row-rmvf.ibx4~uz2e", "00000000-0000-0000-ED6D-92505F27EAE1", 0, 1571157630, null, 1571157630, null, "{ }", "04C", "AM", "10062018", "73", "65º F, cloudy", "None", null, "Humans, Dogs", "Calm", null, "2", "5", "20" ]
+, [ "row-cuxu-qm4q-3x6q", "00000000-0000-0000-B1F6-D544BE574E9D", 0, 1571157630, null, 1571157630, null, "{ }", "04F", "PM", "10132018", "3031", "13° C, Partly Cloudy", "None", null, "Humans, Dogs, Birds, Rats (Fat), Inchworm", "Busy", null, "2", "4", "20" ]
+, [ "row-9ybp~ph2h.28te", "00000000-0000-0000-4F13-2A8396773F0B", 0, 1571157630, null, 1571157630, null, "{ }", "06E", "AM", "10142018", "146147", "50º F, mostly sunny", "Some", null, "Humans, Dogs, Small birds", "Calm", null, "2", "1", "22" ]
+, [ "row-grzx.q9x8.kz35", "00000000-0000-0000-AF2F-FE999C142833", 0, 1571157630, null, 1571157630, null, "{ }", "07C", "PM", "10202018", "189190", "62º F, Sunny", "None", null, "Humans, Dogs, Sparrows, Other Birds", "Calm", null, "2", "6", "23" ]
+, [ "row-p2yy_cb9h.2ey5", "00000000-0000-0000-FCBD-EA870AAAD065", 0, 1571157630, null, 1571157630, null, "{ }", "07E", "PM", "10132018", "112113", "56° F, Cloudy, Light Wind", "None", null, "Humans, Dogs, Sparrows", "Busy", null, "2", "5", "39" ]
+, [ "row-2wu6~csr3-muci", "00000000-0000-0000-AFC9-5539B03ED409", 0, 1571157630, null, 1571157630, null, "{ }", "07H", "AM", "10062018", "5051", "60s, cloudy, slight drizzle", "Some", null, "Sparrows, Butterflies", "Busy", null, "2", "16", "30" ]
+, [ "row-s2yk~fp7j-gup3", "00000000-0000-0000-7ED2-EBEC5E7D367F", 0, 1571157630, null, 1571157630, null, "{ }", "08C", "PM", "10132018", "197198", "54° F, Bit Breezy, Cool", "Some", null, "Humans, Dogs, Pigeons", "Calm", null, "2", "8", "22" ]
+, [ "row-82h4~fmew_qfyd", "00000000-0000-0000-139E-5831D4C8948E", 0, 1571157630, null, 1571157630, null, "{ }", "09B", "PM", "10132018", "197198", "54° F, Breeze, Cool", "None", null, "Humans, Dogs, Rats (Notes)", "Calm", null, "2", "10", "22" ]
+, [ "row-gu7y_ahr3-wkwa", "00000000-0000-0000-FA62-64966934C5B4", 0, 1571157630, null, 1571157630, null, "{ }", "09H", "AM", "10062018", "2526", "64º F, cloudy", "Some", null, "Humans, Dogs", "Busy", null, "2", "6", "20" ]
+, [ "row-tkzy_8nvc_38dj", "00000000-0000-0000-C814-7ED455F95ADB", 0, 1571157630, null, 1571157630, null, "{ }", "10B", "AM", "10062018", "7172", null, "Some", null, "Humans, Dogs, Pigeons", "Busy", null, "2", "4", "35" ]
+, [ "row-3mx3_nngc~xaz8", "00000000-0000-0000-068D-522642BF89E1", 0, 1571157630, null, 1571157630, null, "{ }", "10C", "PM", "10132018", "112113", "56° F, Cloudy", "Some", null, "Humans, Dogs, Sparrow, Starlings, Cardinals, Crows", "Busy", null, "2", "4", "27" ]
+, [ "row-9wxm_utwy_baim", "00000000-0000-0000-93EE-6F2323845097", 0, 1571157630, null, 1571157630, null, "{ }", "10G", "AM", "10062018", "136137", "64º F, overcast", "Some", null, "Humans, Dogs, Sparrows", "Busy", null, "2", "11", "58" ]
+, [ "row-xw3m_ucnr-aj6u", "00000000-0000-0000-161F-BD985CE36874", 0, 1571157630, null, 1571157630, null, "{ }", "10H", "AM", "10142018", "146147", "50º F, cloudy", "None", null, "Humans, Dogs, Small birds", "Busy", null, "2", "6", "23" ]
+, [ "row-vmqc-7hkg~x3ga", "00000000-0000-0000-495B-E0FD82BEA653", 0, 1571157630, null, 1571157630, null, "{ }", "11D", "PM", "10062018", "2829", "65º F", "None", null, "Humans, Dogs, Horses", "Busy", null, "2", "5", "25" ]
+, [ "row-trgp-f96s.kuvc", "00000000-0000-0000-9D01-92DDB09F2AC1", 0, 1571157630, null, 1571157630, null, "{ }", "11H", "PM", "10132018", "129130", "55º F, sunny", "Abundant", null, "Humans", "Busy", null, "2", "4", "20" ]
+, [ "row-gr3i_wq97-8hu3", "00000000-0000-0000-EF31-778B485CD326", 0, 1571157630, null, 1571157630, null, "{ }", "11I", "PM", "10122018", "4243", "58-60º F, sunny", "None", null, "Humans, Dogs, Birds, Mice", "Calm", null, "2", "7", "23" ]
+, [ "row-n5ra_u99s_dhhi", "00000000-0000-0000-6595-73DC16305754", 0, 1571157630, null, 1571157630, null, "{ }", "14G", "PM", "10132018", "129130", "55º F, sunny", "Abundant", null, "Humans", "Busy", null, "2", "1", "20" ]
+, [ "row-df57~tfrt.qxxa", "00000000-0000-0000-5DE8-65A75C5E9BB2", 0, 1571157630, null, 1571157630, null, "{ }", "15A", "AM", "10072018", "2021", "71º F, Humid. Cloudy.", "Some", null, "Humans, Dogs, Sparrows. Butterflies", "Busy", null, "2", "2", "20" ]
+, [ "row-28y2_nce5.294u", "00000000-0000-0000-3CCE-7D2FE146A91B", 0, 1571157630, null, 1571157630, null, "{ }", "15D", "AM", "10072018", "2021", "71º F, humid cloudy", "Some", null, "Humans, Dogs", "Calm", null, "2", "8", null ]
+, [ "row-ezz8-qte3.7ycd", "00000000-0000-0000-ED5A-CF01CDF19021", 0, 1571157630, null, 1571157630, null, "{ }", "15I", "PM", "10122018", "4243", "58-60º F, sunny", "Some", null, "Humans, Dogs, Birds", "Busy", null, "2", "7", "25" ]
+, [ "row-c7wx~d655_4dbx", "00000000-0000-0000-68B3-7F964ADED5A1", 0, 1571157630, null, 1571157630, null, "{ }", "16H", "PM", "10142018", "5253", "cool, dusk", "Some", null, "Humans, Dogs, Birds", "Calm, Busy", null, "2", "5", "25" ]
+, [ "row-yry3-x6kr_4dhq", "00000000-0000-0000-C28A-C3D9B50B8DBC", 0, 1571157630, null, 1571157630, null, "{ }", "16I", "PM", "10142018", "5253", "cool, dusk", "Some", null, "Humans, Dogs, Birds", "Calm", null, "2", "0", "20" ]
+, [ "row-7itp_f4pb_372x", "00000000-0000-0000-502B-C21B5F7671EB", 0, 1571157630, null, 1571157630, null, "{ }", "17C", "AM", "10182018", "213214", "Low 40s, Windy, Sunny", "None", null, "Dogs, Birds", "Calm", null, "2", "0", "25" ]
+, [ "row-zk5a_yyqj~v8nr", "00000000-0000-0000-1F43-2FC30C1817EA", 0, 1571157630, null, 1571157630, null, "{ }", "18D", "AM", "10182018", "213214", "Low 40s, Windy, Sunny", "Some", null, "Humans", "Busy", null, "2", "4", "25" ]
+, [ "row-i9ug-vd85.cru2", "00000000-0000-0000-871B-0F2E748EBB91", 0, 1571157630, null, 1571157630, null, "{ }", "18F", "PM", "10082018", "164165", "cloudy, misting rain", "None", null, "Humans, Dogs, Mallard, Sparrow", "Busy", null, "2", "2", "16" ]
+, [ "row-3wtg-xajf.aytq", "00000000-0000-0000-EFC6-8B764D398F79", 0, 1571157630, null, 1571157630, null, "{ }", "18F", "AM", "10142018", "8990", "49º F", "None", null, "Humans, Dogs, Birds", "Busy", null, "2", "2", "24" ]
+, [ "row-23s8.kjhi.tbq3", "00000000-0000-0000-BF8A-9E265DEE00BE", 0, 1571157630, null, 1571157630, null, "{ }", "18G", "AM", "10142018", "8990", "49º F, sunny", "None", null, "Birds", "Calm", null, "2", "3", "25" ]
+, [ "row-k2k3~bmtg_e5aj", "00000000-0000-0000-EC6C-11995A2A61A7", 0, 1571157630, null, 1571157630, null, "{ }", "19B", "PM", "10182018", "9192", "51º F, Clear", "None", null, "Humans, Dogs, Birds, Robins, Mourning Doves", "Busy", null, "2", "5", "30" ]
+, [ "row-zabp-v7ry-7dhg", "00000000-0000-0000-8B9B-5EC17257A653", 0, 1571157630, null, 1571157630, null, "{ }", "19C", "PM", "10182018", "207208", "51º F, Clear", "None", null, "Humans, Hawks, Dogs, Pigeons, Robin", "Busy", null, "2", "8", "30" ]
+, [ "row-znas~qfsi~49jd", "00000000-0000-0000-3012-811CD5ED75B6", 0, 1571157630, null, 1571157630, null, "{ }", "20E", "PM", "10062018", "8586", "65º F, light drizzle", "None", null, "Humans", "Calm", null, "2", "0", "15" ]
+, [ "row-scfx-tshf~bzu7", "00000000-0000-0000-C3E8-350A2FB3CD74", 0, 1571157630, null, 1571157630, null, "{ }", "21A", "AM", "10192018", "213214", "Clear, Calm, No wind", "Some", null, "Humans, Dogs, Birds", "Calm", null, "2", "9", "25" ]
+, [ "row-mwjr_g379.qq94", "00000000-0000-0000-DC09-9A3D7737414F", 0, 1571157630, null, 1571157630, null, "{ }", "21A", "PM", "10062018", "8586", "65º F, Drizzle", "Abundant", null, "Humans, Dogs", "Busy", null, "2", "0", "27" ]
+, [ "row-gci3.aepb~ey8f", "00000000-0000-0000-D780-C126BE60B865", 0, 1571157630, null, 1571157630, null, "{ }", "21B", "AM", "10192018", "213214", "Mid 40s, Clear, No Wind", "Some", null, "Humans, Dogs, Pigeons, Birds", "Calm", null, "2", "7", "25" ]
+, [ "row-z3c9_sz34_i2zf", "00000000-0000-0000-EA57-7E86A28C90A9", 0, 1571157630, null, 1571157630, null, "{ }", "21C", "PM", "10062018", "1415", "65º F, Slightly Drizzling", "Some", null, "Humans", "Busy", null, "2", "1", "25" ]
+, [ "row-ba3w.wdfm.zt9b", "00000000-0000-0000-9C62-70AD43097898", 0, 1571157630, null, 1571157630, null, "{ }", "21D", "AM", "10082018", "156157", "70º F, cloudy, misty", "None", null, "Humans, Dogs, Birds", "Busy", null, "2", "6", "20" ]
+, [ "row-ubmf-c6ik.wt6w", "00000000-0000-0000-7865-ACE8FB650F94", 0, 1571157630, null, 1571157630, null, "{ }", "22A", "AM", "10082018", "156157", "70º F, cloudy", "Some", null, "Dogs, Birds", "Busy", null, "2", "6", "20" ]
+, [ "row-6pdd.tync_q9xw", "00000000-0000-0000-7DA6-8AE5CF01B5B7", 0, 1571157630, null, 1571157630, null, "{ }", "22C", "PM", "10062018", "1415", "65º F, Drizzling", "None", null, "Humans, Dogs", "Busy", null, "2", "13", "30" ]
+, [ "row-4sqc-3hkt~pqb4", "00000000-0000-0000-FE2B-1FE4ED8A212B", 0, 1571157630, null, 1571157630, null, "{ }", "22F", "AM", "10072018", "5859", "72º F, Foggy", "Some", null, "Humans, Dogs, Sparrow", "Moderate", "In between", "2", "7", "20" ]
+, [ "row-d58s_7v5v_h3n9", "00000000-0000-0000-437A-BAD0C0F82FEE", 0, 1571157630, null, 1571157630, null, "{ }", "22I", "AM", "10072018", "5859", "72º F, Foggy", "Some", null, "Humans, Dogs, Starlings, Sparrows, Blue jays", "Busy", null, "2", "3", "20" ]
+, [ "row-wacq_qepf_wqcn", "00000000-0000-0000-F146-DB7C93D64E97", 0, 1571157630, null, 1571157630, null, "{ }", "23A", "PM", "10072018", "192193", null, "Some", null, "Humans, Dogs", "Busy", null, "2", "0", "20" ]
+, [ "row-659e~xxvx~9k3x", "00000000-0000-0000-54AB-D452F81DC579", 0, 1571157630, null, 1571157630, null, "{ }", "23D", "PM", "10072018", "192193", null, "Some", null, "Humans, Rats (by reservoir)", "Busy", null, "2", "0", "20" ]
+, [ "row-fidm_nwnd_2yn8", "00000000-0000-0000-1B00-91095C328AB2", 0, 1571157630, null, 1571157630, null, "{ }", "23G", "PM", "10122018", "3032", "artsy lighting, breezy", "Some", null, "Humans", "Calm", null, "2", "0", "20" ]
+, [ "row-9dih-r88w_i2aw", "00000000-0000-0000-5CD4-D1FEE2D9507A", 0, 1571157630, null, 1571157630, null, "{ }", "24A", "PM", "10072018", "3132", "80º F, Humid. Overcast. No rain.", "None", null, "Humans, Dogs, Little Birds", "Moderate", "In between calm and busy", "2", "5", "23" ]
+, [ "row-yds2~eegq_syaz", "00000000-0000-0000-1F4A-D2FE27897AD2", 0, 1571157630, null, 1571157630, null, "{ }", "24I", "PM", "10072018", "45", "Humid. Overcast.", "None", null, "Humans, Dogs, Birds", "Calm", null, "2", "0", "30" ]
+, [ "row-jgsr~tttb_knpv", "00000000-0000-0000-8A49-00BCE86E797A", 0, 1571157630, null, 1571157630, null, "{ }", "25A", "PM", "10072018", "3132", "79º F, Humid. Overcast. No rain.", "None", null, "Humans, Dogs, Raccoons, Little Birds, Raccoon sleeping in tree", "Calm, Busy", "Calm on grass. Busy on road.", "2", "1", "21" ]
+, [ "row-jcbh_vems_xaa5", "00000000-0000-0000-D096-B9DE9D18D077", 0, 1571157630, null, 1571157630, null, "{ }", "27B", "PM", "10062018", "155", "Misty, rain, cool", "None", null, "Pigeons, Robins", "Calm", null, "2", "2", "20" ]
+, [ "row-qx64.f8mm~kx7h", "00000000-0000-0000-C5CE-3480C32FA3B8", 0, 1571157630, null, 1571157630, null, "{ }", "27I", "PM", "10202018", "3334", "60º F, Sunny", "Some", null, "Humans, Dogs, Pigeons", "Busy", null, "2", "5", "20" ]
+, [ "row-bawx-gmkt~2xei", "00000000-0000-0000-E779-B0168E80CCC6", 0, 1571157630, null, 1571157630, null, "{ }", "30H", "PM", "10062018", "159160", "Raining", null, null, "Ducks", null, null, "2", "1", "11" ]
+, [ "row-dsp2_dv85-g76h", "00000000-0000-0000-0744-BDD299CAFC49", 0, 1571157630, null, 1571157630, null, "{ }", "30I", "PM", "10062018", "159160", null, null, null, null, null, null, "2", "7", "23" ]
+, [ "row-e6v8~na98_ri7h", "00000000-0000-0000-89EC-8B02F03A0F1F", 0, 1571157630, null, 1571157630, null, "{ }", "32D", "AM", "10132018", "187188", "48º F, sprinkling", null, null, "Humans, Dogs", "Busy", null, "2", "6", "20" ]
+, [ "row-ckjx.pin2~rx6m", "00000000-0000-0000-889D-D79E12248F5E", 0, 1571157630, null, 1571157630, null, "{ }", "33A", "AM", "10082018", "139140", "65º F, drizzle", null, null, null, null, null, "2", "1", "30" ]
+, [ "row-ai4q_9f6h.5sfb", "00000000-0000-0000-14E5-6DC6A93CA64D", 0, 1571157630, null, 1571157630, null, "{ }", "34B", "AM", "10132018", "187188", "50º F, light rain", null, null, "Humans", "Busy", null, "2", "3", "23" ]
+, [ "row-xbq7-8cf4_cvmg", "00000000-0000-0000-8DD4-CED61963F058", 0, 1571157630, null, 1571157630, null, "{ }", "34D", "AM", "10082018", "139140", "65º F, drizzle", "Some", null, "Humans", "Calm", null, "2", "3", "25" ]
+, [ "row-qxdn_abx9-sz2p", "00000000-0000-0000-AEA9-B205E92CCAD6", 0, 1571157630, null, 1571157630, null, "{ }", "37A", "PM", "10132018", "250251", "55º F, mostly cloudy", "Abundant", null, "Humans, Dogs, Chipmunk, Sparrow", "Calm", null, "2", "2", "20" ]
+, [ "row-7uyt_ap3c.3dv6", "00000000-0000-0000-034F-E81D8493C115", 0, 1571157630, null, 1571157630, null, "{ }", "37G", "AM", "10142018", "139140", "50º F, mostly sunny", null, null, "Humans, Dogs", "Calm", null, "2", "6", "27" ]
+, [ "row-39nt-i699.7ye4", "00000000-0000-0000-6502-70CF239C00AE", 0, 1571157630, null, 1571157630, null, "{ }", "39G", "PM", "10132018", "6768", "Sunny, cloudy, chilly, damp, slightly warm", "Some", null, "Humans, Sleeping possum, Chipmunk, Blue jay", "Calm", null, "2", "7", "24" ]
+, [ "row-wkpy.ydnt.yw89", "00000000-0000-0000-2E9D-3502F889FD53", 0, 1571157630, null, 1571157630, null, "{ }", "39I", "PM", "10132018", "174175", "53º F, mostly cloudy", null, null, "Humans, Dogs, Pigeons, Blue jays, American Robin, Chipmunk", "Busy", null, "2", "4", "23" ]
+, [ "row-s8w7~rss2_3wzb", "00000000-0000-0000-985E-A32EC9628A51", 0, 1571157630, null, 1571157630, null, "{ }", "40B", "PM", "10142018", "152153", "57º F, cloudy", "None", null, "Humans, Hawks, Chipmunks", "Calm", null, "2", "8", "35" ]
+, [ "row-zwxy_mjed_fhzc", "00000000-0000-0000-E3A1-90A87122CEE4", 0, 1571157630, null, 1571157630, null, "{ }", "40C", "PM", "10062018", "174175", "Overcast lite rain", null, null, "Humans, Dogs, Chimney Swifts, Birds, Chipmunk", "Calm", null, "2", "8", "25" ]
+, [ "row-4eij_cxzc~sayg", "00000000-0000-0000-C719-EB7B14541286", 0, 1571157630, null, 1571157630, null, "{ }", "40E", "PM", "10172018", "139140", "63º F, Partly Cloudy", null, null, null, null, null, "2", "3", null ]
+, [ "row-dtyq_23i4-y5bn", "00000000-0000-0000-8942-1FC1F528D2E6", 0, 1571157630, null, 1571157630, null, "{ }", "40G", "PM", "10132018", "174175", "55º F, partly cloudy", null, null, "Humans, Pigeons, Chipmunk", "Calm", null, "2", "6", "22" ]
+, [ "row-retr~qj53-4wvy", "00000000-0000-0000-F775-D07E203A5A7B", 0, 1571157630, null, 1571157630, null, "{ }", "40I", "PM", "10132018", "6768", "55º F, partly cloudy, chilly, breezy, some sun", "Some", null, "Humans, Hawks, Dogs, Pigeons, Duck", "Busy", null, "2", "1", "25" ]
+, [ "row-mbr9-78vu_h9y9", "00000000-0000-0000-8BFD-54F5BF2AA2F5", 0, 1571157630, null, 1571157630, null, "{ }", "41B", "AM", "10102018", "74", "Humid", "Some", null, null, "Calm", null, "2", "11", "32" ]
+, [ "row-u78p.sjd4~4zra", "00000000-0000-0000-AE5D-78C0D4667CB4", 0, 1571157630, null, 1571157630, null, "{ }", "41E", "PM", "10132018", "250251", "55º F, partly cloudy", "Some", null, "Humans, Dogs, Chipmunk, Sparrows", "Calm, Busy", "Calm (in forest), Busy (near road)", "2", "5", "21" ]
+, [ "row-56za_vyzh~zstd", "00000000-0000-0000-A4DB-D67F9DA17099", 0, 1571157630, null, 1571157630, null, "{ }", "42B", "AM", "10142018", "176", null, "None", null, "Humans, Dogs", "Calm", null, "2", "2", null ]
+, [ "row-5b3x_ze4t~8s35", "00000000-0000-0000-F53B-FB788676C2EA", 0, 1571157630, null, 1571157630, null, "{ }", "42F", "PM", "10172018", "139140", "62º F, Partly Sunny/Cloudy", null, null, "Mallards, Canadian Geese", null, null, "2", "4", null ]
+, [ "row-qau3_j2ud_ixne", "00000000-0000-0000-7C7A-25E8D81906BC", 0, 1571157630, null, 1571157630, null, "{ }", "42G", "PM", "10142018", "3839", "overcast", "Some", null, "Humans, Hawks, Dogs, Pigeons, Geese", "Busy", null, "2", "3", "25" ]
+, [ "row-eiju-tfcg.qqew", "00000000-0000-0000-1229-394284526DDB", 0, 1571157630, null, 1571157630, null, "{ }", "04G", "AM", "10062018", "142143144", "65º F, cloudy, sprinkling of rain", "None", null, "Humans, Dogs, Horses", "Busy", null, "3", "5", "24" ]
+, [ "row-26vi_nagb.9wtx", "00000000-0000-0000-D260-4A5BCEB3BE5E", 0, 1571157630, null, 1571157630, null, "{ }", "06G", "AM", "10082018", "48", "68º F, humid", "None", null, "Humans, Dogs", "Calm", null, "3", "6", "20" ]
+, [ "row-d5ak.ixnw~e6dm", "00000000-0000-0000-B2ED-45A56C19A67E", 0, 1571157630, null, 1571157630, null, "{ }", "07F", "AM", "10082018", "48", "68º F, chilly, humid", "Some", null, "Humans, Dogs", "Calm", null, "3", "17", "22" ]
+, [ "row-aeng~xksq_nma4", "00000000-0000-0000-3CEB-124BA0FDD5E3", 0, 1571157630, null, 1571157630, null, "{ }", "08A", "AM", "10132018", "179180181", "55º F, rainy", "Some", null, "Pigeons", "Calm", null, "3", "6", "20" ]
+, [ "row-8uff_hyeb_r4hs", "00000000-0000-0000-B6C7-915FC65845A8", 0, 1571157630, null, 1571157630, null, "{ }", "08B", "AM", "10072018", "227", "70º F, Muggy", "None", null, "Humans, Dogs, Pigeons, Doves. Grackle Birds", "Busy", null, "3", "9", "25" ]
+, [ "row-e8hy_kmwx-4x2k", "00000000-0000-0000-0628-259F1071BAB6", 0, 1571157630, null, 1571157630, null, "{ }", "09A", "AM", "10132018", "179180181", null, "Some", null, "Humans, Dogs, Pigeons, Rats, Blue jays", "Busy", null, "3", "12", "20" ]
+, [ "row-du6k-kkp8.g7kn", "00000000-0000-0000-BF38-4CCF9397B6A1", 0, 1571157630, null, 1571157630, null, "{ }", "11F", "PM", "10062018", "168", null, "Some", null, "Humans, Dogs, Pigeons", "Busy", null, "3", "3", "26" ]
+, [ "row-bei3-r3r3~4wnr", "00000000-0000-0000-E657-914DF5544732", 0, 1571157630, null, 1571157630, null, "{ }", "12G", "PM", "10072018", "106.107108", "80º F", "None", null, "Humans, Cat bird", "Busy", null, "3", "7", "29" ]
+, [ "row-hw87~p8jp-ypem", "00000000-0000-0000-0F8F-6E33DAF78AF4", 0, 1571157630, null, 1571157630, null, "{ }", "12H", "PM", "10072018", "106.107108", "79º F", "None", null, "Humans, Sparrows", "Busy", null, "3", "8", "30" ]
+, [ "row-ceie~ihp3.b6ta", "00000000-0000-0000-5B6C-6456C090D8D1", 0, 1571157630, null, 1571157630, null, "{ }", "26A", "PM", "10062018", "185", null, null, null, "Horse, Pony", null, null, "3", "6", "30" ]
+ ]
+}
